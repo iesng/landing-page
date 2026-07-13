@@ -1,0 +1,7 @@
+# Code owners for the landing page repository.
+
+* @thisispr @schuma7
+
+# ...except CMS-managed content: no code owner, so editors can publish
+# via Sveltia CMS without a code owner review.
+/content/

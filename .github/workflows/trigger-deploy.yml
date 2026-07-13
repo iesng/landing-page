@@ -1,0 +1,29 @@
+# @file trigger-deploy.yml
+#
+# Every push to main (content/translation changes) asks the private deployment repo
+# to build and deploy this commit to production. The frontend code and all hosting
+# specifics live over there; this repo holds only editorial content.
+
+name: Trigger Production Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    name: Dispatch deploy to landing-page-deploy
+    steps:
+      - name: Send repository_dispatch
+        env:
+          GH_TOKEN: ${{ secrets.DEPLOY_DISPATCH_TOKEN }}
+        run: |
+          gh api repos/iesng/landing-page-deploy/dispatches \
+            -f event_type=deploy \
+            -f "client_payload[sha]=${{ github.sha }}"

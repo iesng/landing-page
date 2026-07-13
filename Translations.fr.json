@@ -1,0 +1,106 @@
+{
+  "Common": {
+    "Button": {
+      "Discard": "Rejeter",
+      "Back": "Retour",
+      "Logout": "Se déconnecter",
+      "SaveChanges": "Enregistrer les modifications",
+      "Save": "Enregistrer",
+      "Detail": "Détail",
+      "Close": "Fermer",
+      "Add": "Ajouter",
+      "Cancel": "Annuler",
+      "Create": "Créer nouveau",
+      "Uebernehmen": "Reprendre",
+      "Upload": "Télécharger",
+      "Import": "Importer"
+    },
+    "Labels": {
+      "UnsavedChanges": "Modifications non enregistrées",
+      "DE": "Allemand",
+      "FR": "Français",
+      "IT": "Italien",
+      "EN": "Anglais"
+    },
+    "Menu": {
+      "Dashboard": "Tableaux de bord",
+      "Weiteres": "Autres",
+      "DashboardImport": "Importation de tableau de bord"
+    },
+    "Messages": {
+      "NotFound": "Cette page est introuvable.",
+      "Loading": "Chargement...",
+      "LoadingContentFailed": "Le contenu ne peut pas être chargé.",
+      "ContactAdmin": "Contactez l'administrateur de votre organisation",
+      "Unauthorized": "Le contenu n'a pas pu être chargé en raison d'un manque d'autorisation",
+      "NoRechte": "Il n'y a pas de droits disponibles pour utiliser les fonctions.",
+      "UnsavedChanges": "Il y a encore des modifications non enregistrées, veuillez les enregistrer ou les rejeter.",
+      "UnsavedChangesPrompt": "Il y a des modifications non enregistrées, vraiment quitter la page ?",
+      "UnknownError": "Les données n'ont pas pu être chargées ou trouvées.",
+      "Forbidden": "L'accès à cette ressource n'est pas autorisé.",
+      "NetworkError": "Impossible d'établir une connexion avec le serveur.",
+      "Error": "Une erreur est survenue",
+      "FileUploadError": "Erreur lors du téléchargement du fichier."
+    }
+  },
+  "Landing": {
+    "Nav": {
+      "Home": "Accueil",
+      "Production": "Production",
+      "Training": "Formation",
+      "OpenMenu": "Ouvrir le menu",
+      "CloseMenu": "Fermer le menu",
+      "BABSFullName": "Office fédéral de la protection de la population OFPP",
+      "SkipToMain": "Aller au contenu principal"
+    },
+    "Home": {
+      "Alert": {
+        "MaintenanceMessage": ""
+      },
+      "StatusBanner": {
+        "Details": "Détails",
+        "Dismiss": "Fermer"
+      },
+      "Roadmap": {
+        "StreamSwitcherLabel": "Sélectionner le flux de la feuille de route",
+        "BadgeCurrent": "Actuel",
+        "BadgeGoal": "Objectif"
+      },
+      "Status": {
+        "Title": "État du système",
+        "AllOperational": "Tous les systèmes opérationnels"
+      },
+      "Canton": {
+        "StatusPlanning": "En planification",
+        "StatusPilot": "Pilotage",
+        "StatusTraining": "Formation",
+        "StatusProductive": "Productif",
+        "Contact_one": "Personne de contact",
+        "Contact_other": "Personnes de contact",
+        "RoleMain": "Responsable d’application",
+        "RoleDeputy": "Responsable d’application suppléant/e",
+        "Trainings": "Formations",
+        "Progress": "Progression"
+      }
+    },
+    "Meta": {
+      "SiteName": "IES",
+      "Home": {
+        "Title": "IES – Système d'information et d'engagement",
+        "Description": "IES coordonne la gestion d'événements majeurs — suivi des patients, capacités hospitalières, gestion des personnes et planification des ressources en temps réel, au niveau régional, intercantonal et national."
+      },
+      "Impressum": {
+        "Title": "Impressum - IES",
+        "Description": "Mentions légales et informations concernant IES, exploité par l'Office fédéral de la protection de la population (OFPP)."
+      },
+      "Rechtliches": {
+        "Title": "Conditions d'utilisation - IES",
+        "Description": "Informations légales et avis concernant IES."
+      },
+      "FAQ": {
+        "Title": "Questions fréquemment posées - IES",
+        "Description": "Réponses aux questions fréquemment posées sur IES NG – connexion, accès, sécurité, application mobile et assistance."
+      }
+    }
+  }
+}

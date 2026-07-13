@@ -1,0 +1,106 @@
+{
+  "Common": {
+    "Button": {
+      "Discard": "Discard",
+      "Back": "Back",
+      "Logout": "Log out",
+      "SaveChanges": "Save changes",
+      "Save": "Save",
+      "Detail": "Detail",
+      "Close": "Close",
+      "Add": "Add",
+      "Cancel": "Cancel",
+      "Create": "Create new",
+      "Uebernehmen": "Take over",
+      "Upload": "Upload",
+      "Import": "Import"
+    },
+    "Labels": {
+      "UnsavedChanges": "Unsaved changes",
+      "DE": "German",
+      "FR": "French",
+      "IT": "Italian",
+      "EN": "English"
+    },
+    "Menu": {
+      "Dashboard": "Dashboards",
+      "Weiteres": "More",
+      "DashboardImport": "Dashboard Import"
+    },
+    "Messages": {
+      "NotFound": "This page could not be found.",
+      "Loading": "Loading...",
+      "LoadingContentFailed": "Content cannot be loaded.",
+      "ContactAdmin": "Contact the administrator of your organization",
+      "Unauthorized": "Content could not be loaded due to missing authorization",
+      "NoRechte": "There are no rights to use functions.",
+      "UnsavedChanges": "It still has unsaved changes, please save or discard",
+      "UnsavedChangesPrompt": "There are unsaved changes, really leave page?",
+      "UnknownError": "Data could not be loaded or found.",
+      "Forbidden": "Access to this resource is not permitted.",
+      "NetworkError": "Connection to the server cannot be established.",
+      "Error": "An error occurred",
+      "FileUploadError": "Error uploading the file."
+    }
+  },
+  "Landing": {
+    "Nav": {
+      "Home": "Home",
+      "Production": "Production",
+      "Training": "Training",
+      "OpenMenu": "Open menu",
+      "CloseMenu": "Close menu",
+      "BABSFullName": "Federal Office for Civil Protection FOCP",
+      "SkipToMain": "Skip to main content"
+    },
+    "Home": {
+      "Alert": {
+        "MaintenanceMessage": ""
+      },
+      "StatusBanner": {
+        "Details": "Details",
+        "Dismiss": "Dismiss"
+      },
+      "Roadmap": {
+        "StreamSwitcherLabel": "Select roadmap stream",
+        "BadgeCurrent": "Current",
+        "BadgeGoal": "Goal"
+      },
+      "Status": {
+        "Title": "System Status",
+        "AllOperational": "All systems operational"
+      },
+      "Canton": {
+        "StatusPlanning": "Planning",
+        "StatusPilot": "Pilot",
+        "StatusTraining": "Training",
+        "StatusProductive": "Productive",
+        "Contact_one": "Contact Person",
+        "Contact_other": "Contact Persons",
+        "RoleMain": "Application Manager",
+        "RoleDeputy": "Deputy Application Manager",
+        "Trainings": "Trainings",
+        "Progress": "Progress"
+      }
+    },
+    "Meta": {
+      "SiteName": "IES",
+      "Home": {
+        "Title": "IES – Information and Operations System",
+        "Description": "IES coordinates the response to major incidents — patient tracking, hospital capacities, personnel management and resource planning in real time, regionally, across cantons, nationally."
+      },
+      "Impressum": {
+        "Title": "Impressum - IES",
+        "Description": "Legal notice and information about IES, operated by the Swiss Federal Office for Civil Protection (FOCP)."
+      },
+      "Rechtliches": {
+        "Title": "Legal issues - IES",
+        "Description": "Legal information and notices about IES."
+      },
+      "FAQ": {
+        "Title": "Frequently Asked Questions - IES",
+        "Description": "Answers to frequently asked questions about IES NG – login, access, security, mobile app and support."
+      }
+    }
+  }
+}

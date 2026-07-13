@@ -1,0 +1,106 @@
+{
+  "Common": {
+    "Button": {
+      "Discard": "Scartare",
+      "Back": "Indietro",
+      "Logout": "Disconnettersi",
+      "SaveChanges": "Salva le modifiche",
+      "Save": "Salvare",
+      "Detail": "Dettaglio",
+      "Close": "Chiudere",
+      "Add": "Aggiungi",
+      "Cancel": "Annullamento",
+      "Create": "Crea nuovo",
+      "Uebernehmen": "Subentrare",
+      "Upload": "Caricare",
+      "Import": "Importare"
+    },
+    "Labels": {
+      "UnsavedChanges": "Modifiche non salvate",
+      "DE": "Tedesco",
+      "FR": "Francese",
+      "IT": "Italiano",
+      "EN": "Inglese"
+    },
+    "Menu": {
+      "Dashboard": "Dashboard",
+      "Weiteres": "Altro",
+      "DashboardImport": "Importazione dashboard"
+    },
+    "Messages": {
+      "NotFound": "Questa pagina non è stata trovata.",
+      "Loading": "Caricamento...",
+      "LoadingContentFailed": "Il contenuto non può essere caricato.",
+      "ContactAdmin": "Contattare l'amministratore della propria organizzazione",
+      "Unauthorized": "Il contenuto non può essere caricato a causa di un'autorizzazione mancante",
+      "NoRechte": "Non esistono diritti di utilizzo delle funzioni.",
+      "UnsavedChanges": "Le modifiche non sono ancora state salvate, si prega di salvarle o di eliminarle.",
+      "UnsavedChangesPrompt": "Ci sono modifiche non salvate, davvero lasciare la pagina?",
+      "UnknownError": "Non è stato possibile caricare o trovare i dati.",
+      "Forbidden": "L'accesso a questa risorsa non è consentito.",
+      "NetworkError": "Non è possibile stabilire la connessione al server.",
+      "Error": "Si è verificato un errore",
+      "FileUploadError": "Errore durante il caricamento del file."
+    }
+  },
+  "Landing": {
+    "Nav": {
+      "Home": "Home",
+      "Production": "Produzione",
+      "Training": "Formazione",
+      "OpenMenu": "Apri menu",
+      "CloseMenu": "Chiudi menu",
+      "BABSFullName": "Ufficio federale della protezione della popolazione UFPP",
+      "SkipToMain": "Vai al contenuto principale"
+    },
+    "Home": {
+      "Alert": {
+        "MaintenanceMessage": ""
+      },
+      "StatusBanner": {
+        "Details": "Dettagli",
+        "Dismiss": "Chiudi"
+      },
+      "Roadmap": {
+        "StreamSwitcherLabel": "Seleziona il flusso della roadmap",
+        "BadgeCurrent": "Attuale",
+        "BadgeGoal": "Obiettivo"
+      },
+      "Status": {
+        "Title": "Stato del sistema",
+        "AllOperational": "Tutti i sistemi operativi"
+      },
+      "Canton": {
+        "StatusPlanning": "In pianificazione",
+        "StatusPilot": "Pilotaggio",
+        "StatusTraining": "Formazione",
+        "StatusProductive": "Produttivo",
+        "Contact_one": "Persona di contatto",
+        "Contact_other": "Persone di contatto",
+        "RoleMain": "Responsabile dell'applicazione",
+        "RoleDeputy": "Responsabile supplente dell'applicazione",
+        "Trainings": "Formazioni",
+        "Progress": "Progresso"
+      }
+    },
+    "Meta": {
+      "SiteName": "IES",
+      "Home": {
+        "Title": "IES – Sistema d'informazione e d'impiego",
+        "Description": "IES coordina la gestione di eventi maggiori — tracciamento pazienti, capacità ospedaliere, gestione delle persone e pianificazione delle risorse in tempo reale, a livello regionale, intercantonale e nazionale."
+      },
+      "Impressum": {
+        "Title": "Impressum - IES",
+        "Description": "Avviso legale e informazioni su IES, gestito dall'Ufficio federale della protezione della popolazione (UFPP)."
+      },
+      "Rechtliches": {
+        "Title": "Basi legali - IES",
+        "Description": "Informazioni legali e avvisi su IES."
+      },
+      "FAQ": {
+        "Title": "Domande frequenti - IES",
+        "Description": "Risposte alle domande frequenti su IES NG – accesso, autorizzazioni, sicurezza, app mobile e supporto."
+      }
+    }
+  }
+}

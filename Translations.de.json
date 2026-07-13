@@ -1,0 +1,106 @@
+{
+  "Common": {
+    "Button": {
+      "Discard": "Verwerfen",
+      "Back": "Zurück",
+      "Logout": "Ausloggen",
+      "SaveChanges": "Änderungen speichern",
+      "Save": "Speichern",
+      "Detail": "Detail",
+      "Close": "Schliessen",
+      "Add": "Hinzufügen",
+      "Cancel": "Abbrechen",
+      "Create": "Neu erstellen",
+      "Uebernehmen": "Übernehmen",
+      "Upload": "Hochladen",
+      "Import": "Importieren"
+    },
+    "Labels": {
+      "UnsavedChanges": "Ungespeicherte Änderungen",
+      "DE": "Deutsch",
+      "FR": "Französisch",
+      "IT": "Italienisch",
+      "EN": "Englisch"
+    },
+    "Menu": {
+      "Dashboard": "Dashboards",
+      "Weiteres": "Weiteres",
+      "DashboardImport": "Dashboard Import"
+    },
+    "Messages": {
+      "NotFound": "Diese Seite wurde nicht gefunden.",
+      "Loading": "Laden...",
+      "LoadingContentFailed": "Inhalte können nicht geladen werden.",
+      "ContactAdmin": "Wenden Sie sich an den Administrator ihrer Organisation",
+      "Unauthorized": "Inhalte konnten aufgrund fehlender Authorisierung nicht geladen werden",
+      "NoRechte": "Es sind keine Rechte vorhanden um Funktionen zu nutzen.",
+      "UnsavedChanges": "Es hat noch ungespeicherte Änderungen, bitte speichern oder verwerfen.",
+      "UnsavedChangesPrompt": "Es gibt ungespeicherte Änderungen, wirklich Seite verlassen?",
+      "UnknownError": "Daten konnten nicht geladen oder gefunden werden.",
+      "Forbidden": "Der Zugriff auf diese Ressource ist nicht erlaubt.",
+      "NetworkError": "Verbindung zum Server kann nicht hergestellt werden.",
+      "Error": "Ein Fehler ist aufgetreten",
+      "FileUploadError": "Fehler beim Hochladen der Datei."
+    }
+  },
+  "Landing": {
+    "Nav": {
+      "Home": "Startseite",
+      "Production": "Produktion",
+      "Training": "Schulung",
+      "OpenMenu": "Menü öffnen",
+      "CloseMenu": "Menü schliessen",
+      "BABSFullName": "Bundesamt für Bevölkerungsschutz BABS",
+      "SkipToMain": "Zum Hauptinhalt springen"
+    },
+    "Home": {
+      "Alert": {
+        "MaintenanceMessage": ""
+      },
+      "StatusBanner": {
+        "Details": "Details",
+        "Dismiss": "Schliessen"
+      },
+      "Roadmap": {
+        "StreamSwitcherLabel": "Roadmap-Stream auswählen",
+        "BadgeCurrent": "Aktuell",
+        "BadgeGoal": "Ziel"
+      },
+      "Status": {
+        "Title": "Systemstatus",
+        "AllOperational": "Alle Systeme operativ"
+      },
+      "Canton": {
+        "StatusPlanning": "In Planung",
+        "StatusPilot": "Pilotierung",
+        "StatusTraining": "Schulung",
+        "StatusProductive": "Produktiv",
+        "Contact_one": "Kontaktperson",
+        "Contact_other": "Kontaktpersonen",
+        "RoleMain": "Applikationsverantwortliche/r",
+        "RoleDeputy": "Stv. Applikationsverantwortliche/r",
+        "Trainings": "Schulungen",
+        "Progress": "Fortschritt"
+      }
+    },
+    "Meta": {
+      "SiteName": "IES",
+      "Home": {
+        "Title": "IES – Informations- und Einsatzsystem",
+        "Description": "IES koordiniert in der Bewältigung von Grossereignissen – Patiententracking, Spitalkapazitäten, Personenverwaltung und Ressourcenplanung in Echtzeit, regional, kantonsübergreifend, national."
+      },
+      "Impressum": {
+        "Title": "Impressum - IES",
+        "Description": "Impressum und rechtliche Hinweise zu IES, betrieben durch das Bundesamt für Bevölkerungsschutz (BABS)."
+      },
+      "Rechtliches": {
+        "Title": "Rechtliches - IES",
+        "Description": "Rechtliche Informationen und Hinweise zu IES."
+      },
+      "FAQ": {
+        "Title": "Häufig gestellte Fragen - IES",
+        "Description": "Antworten auf häufig gestellte Fragen zu IES NG – Anmeldung, Zugriff, Sicherheit, mobile App und Support."
+      }
+    }
+  }
+}
