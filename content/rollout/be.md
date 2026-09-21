@@ -1,22 +1,17 @@
 ---
 de:
-  name: "Bern"
+  name: Bern
   status: training
   contacts:
-    - name: "Shila Jampen"
+    - name: Shila Jampen
       role: main
-    - name: "Claudia Bütschi"
+    - name: Claudia Bütschi
       role: deputy
-  trainings:
-    - "17.02.2026"
-    - "18.02.2026"
-    - "23.02.2026"
-    - "24.02.2026"
-    - "02.06.2026"
+  trainings: []
 en:
-  name: "Bern"
+  name: Bern
 fr:
-  name: "Berne"
+  name: Berne
 it:
-  name: "Berna"
+  name: Berna
 ---
