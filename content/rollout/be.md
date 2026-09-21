@@ -1,7 +1,7 @@
 ---
 de:
   name: Bern
-  status: training
+  status: productive
   contacts:
     - name: Shila Jampen
       role: main
