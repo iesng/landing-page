@@ -1,15 +1,15 @@
 ---
 de:
-  name: "Zug"
-  status: planning
+  name: Zug
+  status: pilot
   contacts:
-    - name: "Andreas Müller"
+    - name: Andreas Müller
       role: main
   trainings: []
 en:
-  name: "Zug"
+  name: Zug
 fr:
-  name: "Zoug"
+  name: Zoug
 it:
-  name: "Zugo"
+  name: Zugo
 ---
