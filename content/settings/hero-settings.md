@@ -2,7 +2,7 @@
 de:
   title: Informations- und Einsatzsystem
   description: Führungskräfte und Einsatzorganisationen koordinieren mit IES den Sanitätsdienst im Ereignisfall — Patientenverfolgung, Spitalkapazitäten und Ressourcenplanung, in Echtzeit und kantonsübergreifend.
-  app_title: Mobile App
+  app_title: Mobile App (Patientenweg)
   hmp_title: Heilmittelplattform
   hmp_button: Heilmittelplattform (HMP)
 en:
