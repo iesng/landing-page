@@ -1,15 +1,15 @@
 ---
 de:
-  name: "Schwyz"
-  status: planning
+  name: Schwyz
+  status: pilot
   contacts:
-    - name: "Milena Bosshard"
+    - name: Milena Bosshard
       role: main
   trainings: []
 en:
-  name: "Schwyz"
+  name: Schwyz
 fr:
-  name: "Schwytz"
+  name: Schwytz
 it:
-  name: "Svitto"
+  name: Svitto
 ---
