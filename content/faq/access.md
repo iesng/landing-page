@@ -5,7 +5,7 @@ de:
   answer: Zugriff erhalten Mitarbeitende von Blaulichtorganisationen, Spitälern und Führungsstäben über ihre Organisation.
 en:
   order: 1
-  question: Who has access to IOS in the event management section?
+  question: Who has access to IOS in the emergency response section?
   answer: Employees of emergency response organizations, hospitals and command staffs receive access through their organization.
 fr:
   order: 1
