@@ -1,13 +1,13 @@
 ---
 de:
-  name: "Zürich"
-  status: planning
+  name: Zürich
+  status: training
   contacts: []
   trainings: []
 en:
-  name: "Zurich"
+  name: Zurich
 fr:
-  name: "Zurich"
+  name: Zurich
 it:
-  name: "Zurigo"
+  name: Zurigo
 ---
