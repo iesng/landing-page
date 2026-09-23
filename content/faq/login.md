@@ -2,17 +2,17 @@
 de:
   order: 3
   question: Wie melde ich mich bei IES NG an?
-  answer: Die **Anmeldung** erfolgt über den von Ihrer Organisation gewählten Login. _Kontaktieren_ Sie die [Ansprechperson](www.admin.ch) Ihrer Organisation für Zugangsdaten.
+  answer: 'Die Anmeldung erfolgt über den von Ihrer Organisation gewählten Login: AGOV, PTI-Login oder FedLogin. Kontaktieren Sie die Ansprechperson Ihrer Organisation für Zugangsdaten.'
 en:
   order: 3
-  question: How do I log in to IES NG?
-  answer: Login is via the login chosen by your organisation. Contact your organisation's contact person for credentials.
+  question: How do I sign in to IOS?
+  answer: 'Sign-in is performed using the login method chosen by your organization: AGOV, PTI-Login or FedLogin. Contact your organization’s point of contact for access credentials.'
 fr:
   order: 3
-  question: Comment me connecter à IES NG ?
-  answer: La connexion se fait via le login choisi par votre organisation. Contactez la personne de contact de votre organisation pour les identifiants d'accès.
+  question: Comment me connecter à SII?
+  answer: 'La connexion s’effectue via la méthode de connexion choisie par votre organisation: AGOV, TIP-Login ou FedLogin. Contactez la personne de référence de votre organisation pour obtenir les données d’accès.'
 it:
   order: 3
-  question: Come accedo a IES NG?
-  answer: L'accesso avviene tramite il login scelto dalla vostra organizzazione. Contattate la persona di contatto della vostra organizzazione per le credenziali d'accesso.
+  question: Come posso accedere a SII?
+  answer: 'L’accesso avviene tramite il metodo di login scelto dalla vostra organizzazione: AGOV, PTI-Login o FedLogin. Contattate la persona di riferimento della vostra organizzazione per ottenere le credenziali di accesso.'
 ---
