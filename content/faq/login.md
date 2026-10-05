@@ -1,7 +1,7 @@
 ---
 de:
   order: 3
-  question: Wie melde ich mich bei IES NG an?
+  question: Ereignisbewältigung - Wie melde ich mich bei IES NG an?
   answer: 'Die Anmeldung erfolgt über den von Ihrer Organisation gewählten Login: AGOV, PTI-Login oder FedLogin. Kontaktieren Sie die Ansprechperson Ihrer Organisation für Zugangsdaten.'
 en:
   order: 3
