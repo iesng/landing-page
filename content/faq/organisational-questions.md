@@ -5,7 +5,7 @@ de:
   answer: Für organisatorische Fragen kontaktieren Sie das Projektteam unter ies.ng@babs.admin.ch oder Ihren kantonalen Applikationsverantwortlichen.
 en:
   order: 2
-  question: Who do I contact for organisational questions?
+  question: Incident Management - Who do I contact for organisational questions?
   answer: For organisational questions, contact the project team at ies.ng@babs.admin.ch or your cantonal application manager.
 fr:
   order: 2
