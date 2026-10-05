@@ -5,7 +5,7 @@ de:
   answer: 'Die Anmeldung erfolgt über den von Ihrer Organisation gewählten Login: AGOV, PTI-Login oder FedLogin. Kontaktieren Sie die Ansprechperson Ihrer Organisation für Zugangsdaten.'
 en:
   order: 3
-  question: Ereignisbewältigung - How do I sign in to IOS?
+  question: Incident Management - How do I sign in to IOS?
   answer: 'Sign-in is performed using the login method chosen by your organization: AGOV, PTI-Login or FedLogin. Contact your organization’s point of contact for access credentials.'
 fr:
   order: 3
