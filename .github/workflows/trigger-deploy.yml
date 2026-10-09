@@ -19,6 +19,7 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     name: Dispatch deploy
+    environment: deploy-dispatch
     steps:
       - name: Create GitHub App token
         id: app-token
@@ -28,11 +29,9 @@ jobs:
           private-key: ${{ secrets.DEPLOY_APP_PRIVATE_KEY }}
           owner: iesng
           repositories: landing-page-deploy
+          permission-actions: write
 
-      - name: Send repository_dispatch
+      - name: Trigger deploy workflow
         env:
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
-        run: |
-          gh api repos/iesng/landing-page-deploy/dispatches \
-            -f event_type=deploy \
-            -f "client_payload[sha]=${{ github.sha }}"
+        run: gh workflow run deploy.yml -R iesng/landing-page-deploy -f sha=${{ github.sha }}
