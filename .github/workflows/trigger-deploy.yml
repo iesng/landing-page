@@ -18,11 +18,20 @@ concurrency:
 jobs:
   dispatch:
     runs-on: ubuntu-latest
-    name: Dispatch deploy to landing-page-deploy
+    name: Dispatch deploy
     steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+        with:
+          client-id: ${{ vars.DEPLOY_APP_ID }}
+          private-key: ${{ secrets.DEPLOY_APP_PRIVATE_KEY }}
+          owner: iesng
+          repositories: landing-page-deploy
+
       - name: Send repository_dispatch
         env:
-          GH_TOKEN: ${{ secrets.DEPLOY_DISPATCH_TOKEN }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           gh api repos/iesng/landing-page-deploy/dispatches \
             -f event_type=deploy \
