@@ -34,4 +34,7 @@ jobs:
       - name: Trigger deploy workflow
         env:
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
-        run: gh workflow run deploy.yml -R iesng/landing-page-deploy -f sha=${{ github.sha }}
+        run: |
+          gh api -X POST repos/iesng/landing-page-deploy/actions/workflows/deploy.yml/dispatches \
+            -f ref=main \
+            -f "inputs[sha]=${{ github.sha }}"
