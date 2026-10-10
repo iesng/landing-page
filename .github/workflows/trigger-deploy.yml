@@ -11,13 +11,15 @@ on:
     branches:
       - main
 
+permissions: {}
+
 concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: false
 
 jobs:
   dispatch:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     name: Dispatch deploy
     environment: deploy-dispatch
     steps:
