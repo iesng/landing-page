@@ -2,9 +2,9 @@
 de:
   order: 1
   state: completed
-  date_label: Ab März 2025
-  title: Konzeptphase Patientenweg
-  description: Erhebung der Anforderungen und Prozessdesign für die durchgängige Patientenverfolgung vom Schadenplatz bis zur Spitalaufnahme.
+  date_label: August 2026
+  title: Release 0.7.0 – Bereitstellung der Produktivumgebung
+  description: Das neue IES steht auf der Produktionsumgebung bereit. Applikationsverantwortliche beginnen mit dem Erfassen von Organisationen und Benutzerkonten.
 en:
   order: 1
   date_label: From March 2025
