@@ -28,7 +28,10 @@ fr:
   hmp_button: Plateforme produits thérapeutiques (HMP)
 it:
   title: Sistema d'informazione e d'impiego
-  description: I dirigenti e le organizzazioni d'intervento coordinano con IES il servizio sanitario in caso di evento — tracciamento dei pazienti, capacità ospedaliere e pianificazione delle risorse, in tempo reale e intercantone.
+  description: |-
+    I quadri e le organizzazioni d’intervento coordinano con l’IES il servizio sanitario in caso d’evento — tracciamento dei pazienti, capacità ospedaliere e pianificazione delle risorse, in tempo reale e a livello intercantonale.
+
+    La Piattaforma degli agenti terapeutici è il centro di notifica centrale per gli agenti terapeutici di importanza vitale. Rileva le penurie di approvvigionamento e le interruzioni delle forniture e consente all’Ufficio federale per l’approvvigionamento economico del Paese (UFAE) di disporre di un quadro aggiornato della situazione nonché di adottare misure mirate a garantire l’approvvigionamento del mercato.
   app_title: App mobile
   hmp_title: Piattaforma prodotti terapeutici
   hmp_button: Piattaforma prodotti terapeutici (HMP)
