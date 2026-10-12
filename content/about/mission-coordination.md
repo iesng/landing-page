@@ -3,17 +3,17 @@ de:
   order: 3
   illustration: /illustrations/mission-coordination.svg
   title: Einsatzkoordination
-  description: Kantonsübergreifende Abstimmung von Einsatzkräften, Transportmitteln und Rettungsketten.
+  description: Kantonsübergreifende Abstimmung von Führungs- und Einsatzkräften, Transportmitteln und Rettungsmitteln für einen nahtlosen Ablauf der Rettungskette.
 en:
   order: 3
   title: Mission Coordination
-  description: Cross-cantonal coordination of emergency forces, transport resources and rescue chains.
+  description: Cross-cantonal coordination of command staff, emergency response organisations, and transport and rescue resources for a seamless rescue chain.
 fr:
   order: 3
-  title: Coordination des opérations
-  description: Coordination intercantonale des forces d'intervention, des moyens de transport et des chaînes de sauvetage.
+  title: Coordination des interventions
+  description: Coordination intercantonale des forces de commandement et d’intervention, des moyens de transport et des secours pour assurer la continuité de la chaîne de sauvetage.
 it:
   order: 3
-  title: Coordinamento operativo
-  description: Coordinamento intercantonale delle forze d'intervento, dei mezzi di trasporto e delle catene di salvataggio.
+  title: Coordinamento degli interventi
+  description: Coordinamento intercantonale delle forze di condotta e d’intervento, dei mezzi di trasporto e di soccorso per garantire una catena di salvataggio senza interruzioni.
 ---
