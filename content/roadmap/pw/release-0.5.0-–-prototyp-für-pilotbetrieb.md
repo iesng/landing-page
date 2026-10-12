@@ -8,8 +8,8 @@ de:
 en:
   order: 2
   date_label: 15.10.2025
-  title: 15.10.2025
-  description: 15.10.2025
+  title: Release 0.5.0 – Prototype for pilot operation
+  description: Delivery of the prototype to designated subject matter experts for system testing and initial pilot training sessions.
 fr:
   order: 2
   date_label: 15.10.2025
