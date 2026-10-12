@@ -1,7 +1,7 @@
 ---
 de:
   order: 5
-  question: Ereignisbewältigung - Wie werden meine Daten in IES NG geschützt?
+  question: Ereignisbewältigung - Wie werden meine Daten in IES geschützt?
   answer: Alle Daten werden auf den mobilen Endgeräten, bei der Übertragung und beim Speichern im Schweizer Rechenzentrum verschlüsselt. Der Betrieb erfolgt durch das Bundesamt für Bevölkerungsschutz (BABS) unter Einhaltung der schweizerischen Datenschutzvorgaben.
 en:
   order: 5
