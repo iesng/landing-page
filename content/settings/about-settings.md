@@ -4,9 +4,9 @@ de:
   title: Was ist **IES**?
   subtitle: 'Das Informations- und Einsatzsystem (IES) ist die zentrale Plattform der Schweiz zur Bewältigung von Grossereignissen und Notlagen im Gesundheitswesen. Während Kantone, Spitäler und Einsatzkräfte das System zur Lage- und Patientensteuerung nutzen, dient die angebundene Heilmittelplattform (HMP) dem Bund und den meldepflichtigen Zulassungsinhaberinnen zur Früherkennung von Versorgungsengpässen. Die wichtigsten Funktionen im Überblick:'
 en:
-  nav_label: About IES
+  nav_label: About IOS
   title: What is **IES**?
-  subtitle: "The Information and Operations System (IES) is Switzerland's central platform for managing major incidents and emergencies in the healthcare sector. While cantons, hospitals, and emergency response organisations use the system for situational awareness and patient management, the connected Therapeutic Products Platform (HMP) enables the Confederation and marketing authorisation holders subject to reporting requirements to detect supply shortages at an early stage. Key functions at a glance:"
+  subtitle: "The Information and Operations System (IOS) is Switzerland's central platform for managing major incidents and emergencies in the healthcare sector. While cantons, hospitals, and emergency response organisations use the system for situational awareness and patient management, the connected Therapeutic Products Platform (HMP) enables the Confederation and marketing authorisation holders subject to reporting requirements to detect supply shortages at an early stage. Key functions at a glance:"
 fr:
   nav_label: À propos d'SII
   title: Qu'est-ce que **SII**?
