@@ -2,9 +2,9 @@
 de:
   order: 4
   state: future
-  date_label: Ab August 2026
-  title: Flächendeckender Rollout
-  description: Ausweitung des Patientenwegs auf alle Kantone und Partnerorganisationen.
+  date_label: 18.05.2027
+  title: Operative Betriebsaufnahme von IES
+  description: 'Vollständiger Wechsel auf das neue IES: Alle neuen Einsätze und die operative Führung laufen ab diesem Zeitpunkt über das neue System. Laufende Ereignisse in IES-KSD werden dort noch abgeschlossen.'
 en:
   order: 4
   date_label: From August 2026
