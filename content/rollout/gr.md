@@ -1,18 +1,17 @@
 ---
 de:
-  name: "Graubünden"
+  name: Graubünden
   status: training
   contacts:
-    - name: "Raphael Hofmann"
+    - name: Raphael Hofmann
       role: main
-    - name: "Sergio Halter"
+    - name: Sergio Halter
       role: deputy
-  trainings:
-    - "26.02.2026"
+  trainings: []
 en:
-  name: "Grisons"
+  name: Grisons
 fr:
-  name: "Grisons"
+  name: Grisons
 it:
-  name: "Grigioni"
+  name: Grigioni
 ---
