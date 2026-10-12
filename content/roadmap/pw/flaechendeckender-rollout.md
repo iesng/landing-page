@@ -3,8 +3,8 @@ de:
   order: 4
   state: future
   date_label: 18.05.2027
-  title: Operative Betriebsaufnahme von IES
-  description: 'Vollständiger Wechsel auf das neue IES: Alle neuen Einsätze und die operative Führung laufen ab diesem Zeitpunkt über das neue System. Laufende Ereignisse in IES-KSD werden dort noch abgeschlossen.'
+  title: Release 1.0.0 – Finaler Produktiv-Release
+  description: Einspielen des letzten regulären Software-Updates auf das Produktionssystem zur finalen Vorbereitung des operativen Betriebs.
 en:
   order: 4
   date_label: From August 2026
