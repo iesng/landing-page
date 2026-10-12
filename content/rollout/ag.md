@@ -1,18 +1,15 @@
 ---
 de:
-  name: "Aargau"
+  name: Aargau
   status: training
   contacts:
-    - name: "Erika Csatlos"
+    - name: Erika Csatlos
       role: main
-  trainings:
-    - "08.04.2026"
-    - "06.05.2026"
-    - "04.06.2026"
+  trainings: []
 en:
-  name: "Aargau"
+  name: Aargau
 fr:
-  name: "Argovie"
+  name: Argovie
 it:
-  name: "Argovia"
+  name: Argovia
 ---
