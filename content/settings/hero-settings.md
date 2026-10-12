@@ -11,7 +11,7 @@ de:
 en:
   title: Information and Operations System
   description: |-
-    Leaders and emergency organisations coordinate the medical service during incidents with IES — patient tracking, hospital capacities and resource planning, in real time and across cantons.
+    Command staff and emergency response organisations use IES to coordinate medical services in the event of an incident — patient tracking, hospital capacities, and resource planning, in real time and across cantons.
 
     The Therapeutic Products Platform is the central reporting office for vital therapeutic products. It records supply shortages and delivery disruptions, enabling the Federal Office for National Economic Supply (FONES) to maintain an up-to-date situational picture and take targeted measures to safeguard market supply.
   app_title: Mobile App
