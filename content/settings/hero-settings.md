@@ -22,25 +22,25 @@ en:
   hmp_title: Therapeutic Products Platform
   hmp_button: Therapeutic Products Platform (HMP)
 fr:
-  title: Système d'information et d'engagement
+  title: Système d'information et d'intervention
   description: |-
-    Avec l’IES, la Confédération met en place une solution numérique uniforme pour le système de santé suisse en cas d’événement. La plateforme met en réseau les forces d’intervention cantonales et les hôpitaux, tout en assurant le suivi de l’approvisionnement en produits thérapeutiques vitaux.
+    Avec le SII, la Confédération met en place une solution numérique uniforme pour le système de santé suisse en cas d’événement. La plateforme met en réseau les forces de commandement et d’intervention cantonales et les hôpitaux, tout en assurant le suivi de l’approvisionnement en produits thérapeutiques vitaux.
 
-    Les cadres et les organisations d’intervention coordonnent les services sanitaires en cas d’événement grâce à l’IES — suivi des patients, capacités hospitalières et planification des ressources, en temps réel et à l’échelle intercantonale.
+    Les forces de commandement et d’intervention coordonnent le service sanitaire en cas d’événement avec le SII — suivi des patients, capacités hospitalières et planification des ressources, en temps réel et à l’échelle intercantonale.
 
-    La Plateforme Produits thérapeutiques est le bureau central de notification des produits thérapeutiques vitaux. Elle recense les pénuries d’approvisionnement ainsi que les interruptions de livraison et permet à l’Office fédéral pour l’approvisionnement économique du pays (OFAE) de disposer d’une vue d’ensemble de la situation à jour et de prendre des mesures ciblées pour garantir l’approvisionnement du marché.
+    La Plateforme Produits thérapeutiques est le bureau central de notification des produits thérapeutiques vitaux. Elle recense les pénuries d’approvisionnement ainsi que les interruptions de livraison et permet à l’Office fédéral pour l’approvisionnement économique du pays (OFAE) de disposer d’un aperçu actualisé de la situation et de prendre des mesures ciblées pour garantir l’approvisionnement du marché.
   app_title: Application mobile
   hmp_title: Plateforme produits thérapeutiques
   hmp_button: Plateforme produits thérapeutiques (HMP)
 it:
   title: Sistema d'informazione e d'impiego
   description: |-
-    Con l’IES, la Confederazione crea una soluzione digitale uniforme per il sistema sanitario svizzero in caso d’evento. La piattaforma mette in rete le forze d’intervento cantonali e gli ospedali, garantendo al contempo il monitoraggio dell’approvvigionamento di agenti terapeutici di importanza vitale.
+    Con il SII, la Confederazione crea una soluzione digitale uniforme per il sistema sanitario svizzero in caso d’evento. La piattaforma mette in rete le forze di condotta e d’intervento cantonali e gli ospedali, garantendo al contempo il monitoraggio dell’approvvigionamento di agenti terapeutici d’importanza vitale.
 
-    I quadri e le organizzazioni d’intervento coordinano con l’IES il servizio sanitario in caso d’evento — tracciamento dei pazienti, capacità ospedaliere e pianificazione delle risorse, in tempo reale e a livello intercantonale.
+    Le forze di condotta e d’intervento coordinano con il SII il servizio sanitario in caso d’evento — tracciamento dei pazienti, capacità ospedaliere e pianificazione delle risorse, in tempo reale e a livello intercantonale.
 
-    La Piattaforma degli agenti terapeutici è il centro di notifica centrale per gli agenti terapeutici di importanza vitale. Rileva le penurie di approvvigionamento e le interruzioni delle forniture e consente all’Ufficio federale per l’approvvigionamento economico del Paese (UFAE) di disporre di un quadro aggiornato della situazione nonché di adottare misure mirate a garantire l’approvvigionamento del mercato.
+    La Piattaforma degli agenti terapeutici è il centro di notifica per gli agenti terapeutici d’importanza vitale. Rileva le penurie di approvvigionamento e le interruzioni di fornitura e consente all’Ufficio federale per l’approvvigionamento economico del Paese (UFAE) di disporre di un quadro aggiornato della situazione nonché di adottare misure mirate a garantire l’approvvigionamento del mercato.
   app_title: App mobile
-  hmp_title: Piattaforma prodotti terapeutici
-  hmp_button: Piattaforma prodotti terapeutici (HMP)
+  hmp_title: Piattaforma degli agenti terapeutici
+  hmp_button: Piattaforma degli agenti terapeutici (HMP)
 ---
