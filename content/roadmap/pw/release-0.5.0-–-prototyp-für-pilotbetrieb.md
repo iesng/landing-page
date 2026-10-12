@@ -13,11 +13,11 @@ en:
 fr:
   order: 2
   date_label: 15.10.2025
-  title: 15.10.2025
-  description: 15.10.2025
+  title: Release 0.5.0 – Prototype pour l’exploitation pilote
+  description: Mise à disposition du prototype à des experts désignés pour la réalisation des tests du système et des premières formations pilotes.
 it:
   order: 2
   date_label: 15.10.2025
-  title: 15.10.2025
-  description: 15.10.2025
+  title: Release 0.5.0 – Prototipo per l’esercizio pilota
+  description: Messa a disposizione del prototipo a un gruppo selezionato di esperti per lo svolgimento dei test di sistema e delle prime formazioni pilota.
 ---
