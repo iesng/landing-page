@@ -1,7 +1,7 @@
 ---
 de:
   order: 4
-  state: completed
+  state: current
   date_label: 03.08.2026
   title: Release 0.7.0 – Bereitstellung der Produktivumgebung
   description: Das neue IES steht auf der Produktionsumgebung bereit. Applikationsverantwortliche beginnen mit dem Erfassen von Organisationen und Benutzerkonten.
