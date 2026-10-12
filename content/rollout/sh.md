@@ -1,18 +1,17 @@
 ---
 de:
-  name: "Schaffhausen"
+  name: Schaffhausen
   status: training
   contacts:
-    - name: "Susanne Saxer"
+    - name: Susanne Saxer
       role: main
-    - name: "Jürg Singer"
+    - name: Jürg Singer
       role: main
-  trainings:
-    - "12.03.2026"
+  trainings: []
 en:
-  name: "Schaffhausen"
+  name: Schaffhausen
 fr:
-  name: "Schaffhouse"
+  name: Schaffhouse
 it:
-  name: "Sciaffusa"
+  name: Sciaffusa
 ---
