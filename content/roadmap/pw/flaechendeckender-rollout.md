@@ -2,7 +2,7 @@
 de:
   order: 4
   state: future
-  date_label: 18.05.2027
+  date_label: 12.05.2027
   title: Release 1.0.0 – Finaler Produktiv-Release
   description: Einspielen des letzten regulären Software-Updates auf das Produktionssystem zur finalen Vorbereitung des operativen Betriebs.
 en:
