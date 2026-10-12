@@ -1,21 +1,17 @@
 ---
 de:
-  name: "Uri"
+  name: Uri
   status: training
   contacts:
-    - name: "Matthias Reinhard"
+    - name: Matthias Reinhard
       role: main
-    - name: "Tomas Zwyer"
+    - name: Tomas Zwyer
       role: deputy
-  trainings:
-    - "13.04.2026"
-    - "14.04.2026"
-    - "15.04.2026"
-    - "16.04.2026"
+  trainings: []
 en:
-  name: "Uri"
+  name: Uri
 fr:
-  name: "Uri"
+  name: Uri
 it:
-  name: "Uri"
+  name: Uri
 ---
