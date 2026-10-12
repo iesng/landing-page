@@ -3,8 +3,8 @@ de:
   order: 5
   state: golive
   date_label: 18.05.2027
-  title: Go-Live IES NG
-  description: Durchgängige Nachverfolgung der Patientinnen und Patienten im produktiven Vollbetrieb.
+  title: Operative Betriebsaufnahme von IES
+  description: 'Vollständiger Wechsel auf das neue IES: Alle neuen Einsätze und die operative Führung laufen ab diesem Zeitpunkt über das neue System. Laufende Ereignisse in IES-KSD werden dort noch abgeschlossen.'
 en:
   order: 5
   date_label: December 2026
