@@ -19,7 +19,10 @@ en:
   hmp_button: Therapeutic Products Platform (HMP)
 fr:
   title: Système d'information et d'engagement
-  description: Les cadres et les organisations d'intervention coordonnent avec IES le service sanitaire en cas d'événement — suivi des patients, capacités hospitalières et planification des ressources, en temps réel et à l'échelle intercantonale.
+  description: |-
+    Les cadres et les organisations d’intervention coordonnent les services sanitaires en cas d’événement grâce à l’IES — suivi des patients, capacités hospitalières et planification des ressources, en temps réel et à l’échelle intercantonale.
+
+    La Plateforme Produits thérapeutiques est le bureau central de notification des produits thérapeutiques vitaux. Elle recense les pénuries d’approvisionnement ainsi que les interruptions de livraison et permet à l’Office fédéral pour l’approvisionnement économique du pays (OFAE) de disposer d’une vue d’ensemble de la situation à jour et de prendre des mesures ciblées pour garantir l’approvisionnement du marché.
   app_title: Application mobile
   hmp_title: Plateforme produits thérapeutiques
   hmp_button: Plateforme produits thérapeutiques (HMP)
