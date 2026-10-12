@@ -1,7 +1,10 @@
 ---
 de:
   title: Informations- und Einsatzsystem
-  description: Führungskräfte und Einsatzorganisationen koordinieren mit IES den Sanitätsdienst im Ereignisfall — Patientenverfolgung, Spitalkapazitäten und Ressourcenplanung, in Echtzeit und kantonsübergreifend.
+  description: |-
+    Führungskräfte und Einsatzorganisationen koordinieren mit IES den Sanitätsdienst im Ereignisfall — Patientenverfolgung, Spitalkapazitäten und Ressourcenplanung, in Echtzeit und kantonsübergreifend.
+
+    Die Heilmittelplattform ist die zentrale Meldestelle für lebenswichtige Heilmittel. Sie erfasst Versorgungsengpässe und Lieferunterbrüche und ermöglicht dem Bundesamt für wirtschaftliche Landesversorgung (BWL) ein aktuelles Lagebild sowie gezielte Massnahmen zur Sicherung der Marktversorgung.
   app_title: Mobile App (Patientenweg)
   hmp_title: Heilmittelplattform
   hmp_button: Heilmittelplattform (HMP)
