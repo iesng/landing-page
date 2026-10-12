@@ -1,7 +1,7 @@
 ---
 de:
   order: 5
-  state: current
+  state: future
   date_label: 02.12.2026
   title: Release 0.8.0 – Stammdaten- und Organisationsaufbau
   description: Freigabe des Systems für berechtigte Nutzende zur Erfassung und Pflege von Stammdaten, Organisationsstrukturen und weiteren Benutzerkonten.
