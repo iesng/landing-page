@@ -1,6 +1,6 @@
 ---
 de:
-  order: 10
+  order: 11
   question: Heilmittelplattform - Warum gibt es eine neue Heilmittelplattform (HMP) und wofür wird sie genutzt?
   answer: |-
     Der Bundesrat hat im Januar 2024 entschieden, die damals bestehende Meldeplattform für essentielle Humanarzneimittel zu einem leistungsfähigen und zukunftsgerichtetem Monitoringsystem auszubauen. Die neue Heilmittelplattform bietet eine durchgehende Digitalisierung der zugehörigen Behördenprozesse und eine einheitliche Interaktion mit den meldenden Zulassungsinhaberinnen.
@@ -15,15 +15,15 @@ de:
     - Beantwortung von Marktabfragen zu Arzneimitteln, die der Meldepflicht unterliegen
     - Antrag zur Befreiung von der Pflichtlagerhaltung
 en:
-  order: 10
+  order: 11
   question: '-'
   answer: '-'
 fr:
-  order: 10
+  order: 11
   question: '-'
   answer: '-'
 it:
-  order: 10
+  order: 11
   question: '-'
   answer: '-'
 ---

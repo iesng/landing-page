@@ -1,18 +1,18 @@
 ---
 de:
-  order: 6
+  order: 7
   question: Ereignisbewältigung - Welche Sprachen unterstützt IES?
   answer: IES ist in Deutsch, Französisch, Italienisch und Englisch verfügbar. Die Sprache lässt sich jederzeit in den Einstellungen wechseln.
 en:
-  order: 6
+  order: 7
   question: Incident Management - Which languages does IOS support?
   answer: IOS is available in German, French, Italian and English. The language can be changed at any time in the settings.
 fr:
-  order: 6
+  order: 7
   question: Gestion des incidents - Quelles langues sont prises en charge par SII?
   answer: SII est disponible en allemand, français, italien et anglais. La langue peut être modifiée à tout moment dans les paramètres.
 it:
-  order: 6
+  order: 7
   question: Gestione degli eventi – Quali lingue supporta SII?
   answer: SII è disponibile in tedesco, francese, italiano e inglese. La lingua può essere modificata in qualsiasi momento nelle impostazioni.
 ---
