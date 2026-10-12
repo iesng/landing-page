@@ -3,17 +3,17 @@ de:
   order: 1
   illustration: /illustrations/medical-care.svg
   title: Patientenverfolgung
-  description: Echtzeit-Übersicht über alle betroffenen Personen im Ereignisfall — von der Erstversorgung bis zur Spitalzuweisung.
+  description: Lückenlose Übersicht in Echtzeit über alle betroffenen Personen — von der Erstversorgung vor Ort über den Transport bis zur Aufnahme im Spital.
 en:
   order: 1
-  title: Patient Tracking
-  description: Real-time overview of all affected persons during an incident — from initial care to hospital assignment.
+  title: Patient tracking
+  description: Seamless real-time overview of all affected persons — from initial on-site care and transport to hospital admission.
 fr:
   order: 1
   title: Suivi des patients
-  description: Vue d'ensemble en temps réel de toutes les personnes concernées lors d'un événement — des premiers soins à l'attribution hospitalière.
+  description: Aperçu complet en temps réel de toutes les personnes concernées — de la prise en charge initiale sur le terrain au transport et à l’admission à l’hôpital.
 it:
   order: 1
-  title: Tracciamento pazienti
-  description: Panoramica in tempo reale di tutte le persone coinvolte durante un evento — dalle cure iniziali all'assegnazione ospedaliera.
+  title: Tracciamento dei pazienti
+  description: Panoramica completa in tempo reale di tutte le persone coinvolte — dalla prima assistenza sul posto al trasporto fino all’ammissione in ospedale.
 ---
