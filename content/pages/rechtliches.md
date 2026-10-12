@@ -26,11 +26,11 @@ de:
 
     ### 4. Copyright
 
-    Copyright, Bundesamt für Bevölkerungsschutz BABS / Schweizerische Eidgenossenschaft.
+    Copyright, Schweizerische Eidgenossenschaft / Bundesbehörden der Schweizerischen Eidgenossenschaft.
 
-    Die auf den Websites der Bundesbehörden enthaltenen Informationen werden der Öffentlichkeit zugänglich gemacht. Durch das Herunterladen oder Kopieren von Inhalten, Bildern, Fotos oder anderen Dateien werden keinerlei Rechte bezüglich der Inhalte übertragen.
+    Die auf dieser Website enthaltenen Informationen werden der Öffentlichkeit zugänglich gemacht. Durch das Herunterladen oder Kopieren von Inhalten, Bildern, Fotos oder anderen Dateien werden keinerlei Rechte bezüglich der Inhalte übertragen.
 
-    Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf den Websites der Bundesbehörden gehören ausschliesslich diesen oder den speziell genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
+    Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf dieser Website gehören ausschliesslich den Bundesbehörden der Schweizerischen Eidgenossenschaft oder den speziell genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
 
     ### 5. Datenschutzerklärung
 
@@ -87,11 +87,11 @@ en:
 
     ### 4. Copyright
 
-    Copyright, Federal Office for Civil Protection FOCP / Swiss Confederation.
+    Copyright, Swiss Confederation / Federal Authorities of the Swiss Confederation.
 
-    The information contained on the websites of the federal authorities is made accessible to the public. Downloading or copying content, images, photos, or other files does not transfer any rights regarding the content.
+    The information contained on this website is made accessible to the public. Downloading or copying content, images, photos, or other files does not transfer any rights regarding the content.
 
-    The copyright and all other rights to content, images, photos, or other files on the websites of the federal authorities belong exclusively to them or to the specifically named rights holders. Prior written consent must be obtained from the rights holders for the reproduction of any elements.
+    The copyright and all other rights to content, images, photos, or other files on this website belong exclusively to the federal authorities of the Swiss Confederation or to the specifically named rights holders. Prior written consent must be obtained from the rights holders for the reproduction of any elements.
 
     ### 5. Privacy Policy
 
@@ -148,11 +148,11 @@ fr:
 
     ### 4. Droits d’auteur (Copyright)
 
-    Copyright, Office fédéral de la protection de la population OFPP / Confédération suisse.
+    Copyright, Confédération suisse / Autorités fédérales de la Confédération suisse.
 
-    Les informations contenues sur les sites web des autorités fédérales sont mises à la disposition du public. Le téléchargement ou la copie de contenus, d’images, de photos ou d’autres données n’entraîne aucun transfert de droits sur ces contenus.
+    Les informations contenues sur ce site web sont mises à la disposition du public. Le téléchargement ou la copie de contenus, d’images, de photos ou d’autres données n’entraîne aucun transfert de droits sur ces contenus.
 
-    Les droits d’auteur et tous les autres droits liés aux contenus, images, photos ou autres fichiers placés sur les sites web des autorités fédérales sont la propriété exclusive de ces dernières ou des détenteurs de droits expressément mentionnés. Toute reproduction est soumise à l’accord préalable écrit du détenteur des droits.
+    Les droits d’auteur et tous les autres droits liés aux contenus, images, photos ou autres fichiers placés sur ce site web sont la propriété exclusive des autorités fédérales de la Confédération suisse ou des détenteurs de droits expressément mentionnés. Toute reproduction est soumise à l’accord préalable écrit du détenteur des droits.
 
     ### 5. Déclaration de protection des données
 
@@ -209,11 +209,11 @@ it:
 
     ### 4. Diritti d’autore (Copyright)
 
-    Copyright, Ufficio federale della protezione della popolazione UFPP / Confederazione Svizzera.
+    Copyright, Confederazione Svizzera / Autorità federali della Confederazione Svizzera.
 
-    Le informazioni contenute nei siti web delle autorità federali sono messe a disposizione del pubblico. Lo scaricamento o la riproduzione di contenuti, immagini, fotografie o altri dati non comporta alcun trasferimento di diritti sui contenuti stessi.
+    Le informazioni contenute in questo sito web sono messe a disposizione del pubblico. Lo scaricamento o la riproduzione di contenuti, immagini, fotografie o altri dati non comportaalcun trasferimento di diritti sui contenuti stessi.
 
-    I diritti d’autore e tutti gli altri diritti sui contenuti, immagini, fotografie o altri file pubblicati sui siti web delle autorità federali appartengono esclusivamente a queste ultime o ai titolari espressamente menzionati. La riproduzione di qualsiasi elemento richiede l’autorizzazione scritta preventiva dei titolari dei diritti.
+    I diritti d’autore e tutti gli altri diritti sui contenuti, immagini, fotografie o altri file pubblicati su questo sito web appartengono esclusivamente alle autorità federali della Confederazione Svizzera o ai titolari dei diritti espressamente menzionati. La riproduzione di qualsiasi elemento richiede l’autorizzazione scritta preventiva dei titolari dei diritti.
 
     ### 5. Dichiarazione sulla protezione dei dati
 
