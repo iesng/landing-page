@@ -1,19 +1,17 @@
 ---
 de:
-  name: "Basel-Stadt"
+  name: Basel-Stadt
   status: training
   contacts:
-    - name: "Dieter Kreienbühl"
+    - name: Dieter Kreienbühl
       role: main
-    - name: "Nicolas Körber"
+    - name: Nicolas Körber
       role: deputy
-  trainings:
-    - "03.06.2026"
-    - "18.06.2026"
+  trainings: []
 en:
-  name: "Basel-Stadt"
+  name: Basel-Stadt
 fr:
-  name: "Bâle-Ville"
+  name: Bâle-Ville
 it:
-  name: "Basilea Città"
+  name: Basilea Città
 ---
