@@ -1,20 +1,17 @@
 ---
 de:
-  name: "Thurgau"
+  name: Thurgau
   status: training
   contacts:
-    - name: "Harry Huber"
+    - name: Harry Huber
       role: main
-    - name: "Andreas Mathis"
+    - name: Andreas Mathis
       role: deputy
-  trainings:
-    - "31.03.2026"
-    - "01.04.2026"
-    - "02.04.2026"
+  trainings: []
 en:
-  name: "Thurgau"
+  name: Thurgau
 fr:
-  name: "Thurgovie"
+  name: Thurgovie
 it:
-  name: "Turgovia"
+  name: Turgovia
 ---
