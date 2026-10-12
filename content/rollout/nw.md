@@ -1,25 +1,21 @@
 ---
 de:
-  name: "Nidwalden"
+  name: Nidwalden
   status: training
   contacts:
-    - name: "Matthias Reinhard"
+    - name: Matthias Reinhard
       role: main
-    - name: "Stephan Stadelmann"
+    - name: Stephan Stadelmann
       role: main
-    - name: "Roman Schmid"
+    - name: Roman Schmid
       role: deputy
-    - name: "Tomas Zwyer"
+    - name: Tomas Zwyer
       role: deputy
-  trainings:
-    - "13.04.2026"
-    - "14.04.2026"
-    - "15.04.2026"
-    - "16.04.2026"
+  trainings: []
 en:
-  name: "Nidwalden"
+  name: Nidwalden
 fr:
-  name: "Nidwald"
+  name: Nidwald
 it:
-  name: "Nidvaldo"
+  name: Nidvaldo
 ---
