@@ -1,20 +1,17 @@
 ---
 de:
-  name: "Freiburg"
+  name: Freiburg
   status: training
   contacts:
-    - name: "Manuela Spicher"
+    - name: Manuela Spicher
       role: main
-    - name: "Wenceslao Garcia"
+    - name: Wenceslao Garcia
       role: deputy
-  trainings:
-    - "01.05.2025"
-    - "03.06.2026"
-    - "04.06.2026"
+  trainings: []
 en:
-  name: "Fribourg"
+  name: Fribourg
 fr:
-  name: "Fribourg"
+  name: Fribourg
 it:
-  name: "Friburgo"
+  name: Friburgo
 ---
