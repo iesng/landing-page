@@ -1,10 +1,10 @@
 ---
 de:
-  copyright: Bundesamt für Bevölkerungsschutz BABS — Informations- und Einsatzsystem New Generation
+  copyright: Schweizerische Eidgenossenschaft / Bundesbehörden der Schweizerischen Eidgenossenschaft.
 en:
-  copyright: Federal Office for Civil Protection FOCP — Information and Operations System New Generation
+  copyright: Copyright, Swiss Confederation / Federal Authorities of the Swiss Confederation.
 fr:
-  copyright: Office fédéral de la protection de la population OFPP — Système d'information et d'engagement New Generation
+  copyright: Copyright, Confédération suisse / Autorités fédérales de la Confédération suisse.
 it:
-  copyright: Ufficio federale della protezione della popolazione UFPP — Sistema d'informazione e d'impiego New Generation
+  copyright: Copyright, Confederazione Svizzera / Autorità federali della Confederazione Svizzera.
 ---
