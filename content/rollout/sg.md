@@ -1,22 +1,19 @@
 ---
 de:
-  name: "St. Gallen"
+  name: St. Gallen
   status: training
   contacts:
-    - name: "Joël Rodi"
+    - name: Joël Rodi
       role: main
-    - name: "Daniel Bähler"
+    - name: Daniel Bähler
       role: deputy
-    - name: "Silvan Duft"
+    - name: Silvan Duft
       role: deputy
-  trainings:
-    - "31.03.2026"
-    - "01.04.2026"
-    - "02.04.2026"
+  trainings: []
 en:
-  name: "St. Gallen"
+  name: St. Gallen
 fr:
-  name: "Saint-Gall"
+  name: Saint-Gall
 it:
-  name: "San Gallo"
+  name: San Gallo
 ---
