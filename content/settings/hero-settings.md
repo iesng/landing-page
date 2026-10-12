@@ -2,6 +2,8 @@
 de:
   title: Informations- und Einsatzsystem
   description: |-
+    Mit IES schafft der Bund eine einheitliche digitale Lösung für das schweizerische Gesundheitswesen im Ereignisfall. Die Plattform vernetzt kantonale Einsatzkräfte und Spitäler und sichert gleichzeitig das Versorgungsmonitoring für lebenswichtige Heilmittel.
+
     Führungskräfte und Einsatzorganisationen koordinieren mit IES den Sanitätsdienst im Ereignisfall — Patientenverfolgung, Spitalkapazitäten und Ressourcenplanung, in Echtzeit und kantonsübergreifend.
 
     Die Heilmittelplattform ist die zentrale Meldestelle für lebenswichtige Heilmittel. Sie erfasst Versorgungsengpässe und Lieferunterbrüche und ermöglicht dem Bundesamt für wirtschaftliche Landesversorgung (BWL) ein aktuelles Lagebild sowie gezielte Massnahmen zur Sicherung der Marktversorgung.
@@ -11,6 +13,8 @@ de:
 en:
   title: Information and Operations System
   description: |-
+    With IES, the Confederation is establishing a standardised digital solution for the Swiss healthcare system in the event of an incident. The platform connects cantonal emergency response organisations and hospitals while simultaneously ensuring supply monitoring for vital therapeutic products.
+
     Command staff and emergency response organisations use IES to coordinate medical services in the event of an incident — patient tracking, hospital capacities, and resource planning, in real time and across cantons.
 
     The Therapeutic Products Platform is the central reporting office for vital therapeutic products. It records supply shortages and delivery disruptions, enabling the Federal Office for National Economic Supply (FONES) to maintain an up-to-date situational picture and take targeted measures to safeguard market supply.
@@ -20,6 +24,8 @@ en:
 fr:
   title: Système d'information et d'engagement
   description: |-
+    Avec l’IES, la Confédération met en place une solution numérique uniforme pour le système de santé suisse en cas d’événement. La plateforme met en réseau les forces d’intervention cantonales et les hôpitaux, tout en assurant le suivi de l’approvisionnement en produits thérapeutiques vitaux.
+
     Les cadres et les organisations d’intervention coordonnent les services sanitaires en cas d’événement grâce à l’IES — suivi des patients, capacités hospitalières et planification des ressources, en temps réel et à l’échelle intercantonale.
 
     La Plateforme Produits thérapeutiques est le bureau central de notification des produits thérapeutiques vitaux. Elle recense les pénuries d’approvisionnement ainsi que les interruptions de livraison et permet à l’Office fédéral pour l’approvisionnement économique du pays (OFAE) de disposer d’une vue d’ensemble de la situation à jour et de prendre des mesures ciblées pour garantir l’approvisionnement du marché.
@@ -29,6 +35,8 @@ fr:
 it:
   title: Sistema d'informazione e d'impiego
   description: |-
+    Con l’IES, la Confederazione crea una soluzione digitale uniforme per il sistema sanitario svizzero in caso d’evento. La piattaforma mette in rete le forze d’intervento cantonali e gli ospedali, garantendo al contempo il monitoraggio dell’approvvigionamento di agenti terapeutici di importanza vitale.
+
     I quadri e le organizzazioni d’intervento coordinano con l’IES il servizio sanitario in caso d’evento — tracciamento dei pazienti, capacità ospedaliere e pianificazione delle risorse, in tempo reale e a livello intercantonale.
 
     La Piattaforma degli agenti terapeutici è il centro di notifica centrale per gli agenti terapeutici di importanza vitale. Rileva le penurie di approvvigionamento e le interruzioni delle forniture e consente all’Ufficio federale per l’approvvigionamento economico del Paese (UFAE) di disporre di un quadro aggiornato della situazione nonché di adottare misure mirate a garantire l’approvvigionamento del mercato.
