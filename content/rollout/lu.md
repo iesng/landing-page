@@ -1,21 +1,17 @@
 ---
 de:
-  name: "Luzern"
+  name: Luzern
   status: training
   contacts:
-    - name: "Matthias Reinhard"
+    - name: Matthias Reinhard
       role: main
-    - name: "Tomas Zwyer"
+    - name: Tomas Zwyer
       role: deputy
-  trainings:
-    - "13.04.2026"
-    - "14.04.2026"
-    - "15.04.2026"
-    - "16.04.2026"
+  trainings: []
 en:
-  name: "Lucerne"
+  name: Lucerne
 fr:
-  name: "Lucerne"
+  name: Lucerne
 it:
-  name: "Lucerna"
+  name: Lucerna
 ---
