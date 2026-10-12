@@ -1,10 +1,10 @@
 ---
 de:
   order: 2
-  state: completed
-  date_label: Ab September 2025
-  title: Pilotbetrieb Erstversorgung
-  description: Erprobung der digitalen Patientenerfassung mit ausgewählten Rettungsdiensten und Pilotkantonen.
+  state: current
+  date_label: 02.12.2026
+  title: Release 0.8.0 – Stammdaten- und Organisationsaufbau
+  description: Freigabe des Systems für berechtigte Nutzende zur Erfassung und Pflege von Stammdaten, Organisationsstrukturen und weiteren Benutzerkonten.
 en:
   order: 2
   date_label: From September 2025
