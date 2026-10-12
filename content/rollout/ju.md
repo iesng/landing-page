@@ -1,18 +1,15 @@
 ---
 de:
-  name: "Jura"
+  name: Jura
   status: training
   contacts:
-    - name: "Didier Frésard"
+    - name: Didier Frésard
       role: main
-  trainings:
-    - "01.05.2025"
-    - "03.06.2026"
-    - "04.06.2026"
+  trainings: []
 en:
-  name: "Jura"
+  name: Jura
 fr:
-  name: "Jura"
+  name: Jura
 it:
-  name: "Giura"
+  name: Giura
 ---
