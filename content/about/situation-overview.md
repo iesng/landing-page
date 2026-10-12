@@ -3,17 +3,17 @@ de:
   order: 4
   illustration: /illustrations/real-time-analytics.svg
   title: Lageübersicht
-  description: "Zentrales Lagebild für Führungsstäbe: Wer ist betroffen, welche Ressourcen stehen bereit, wo besteht Handlungsbedarf."
+  description: 'Zentrales Echtzeit-Lagebild für Führungsstäbe: Betroffene Personen, verfügbare Ressourcen und dringender Handlungsbedarf auf einen Blick.'
 en:
   order: 4
-  title: Situation Overview
-  description: "Central situation picture for command staff: Who is affected, which resources are available, where action is needed."
+  title: Situational overview
+  description: 'Central real-time situational picture for command staff: affected persons, available resources, and urgent action areas at a glance.'
 fr:
   order: 4
-  title: Vue d'ensemble de la situation
-  description: "Tableau de situation central pour les états-majors : qui est concerné, quelles ressources sont disponibles, où une action est nécessaire."
+  title: Aperçu de la situation
+  description: 'Aperçu centralisé de la situation en temps réel pour les états-majors de conduite : personnes concernées, ressources disponibles et besoins d’intervention urgents en un coup d’œil.'
 it:
   order: 4
-  title: Panoramica della situazione
-  description: "Quadro situazionale centrale per gli stati maggiori: chi è coinvolto, quali risorse sono disponibili, dove è necessario agire."
+  title: Quadro della situazione
+  description: 'Quadro centralizzato della situazione in tempo reale per gli stati maggiori di condotta: persone coinvolte, risorse disponibili e necessità d’intervento urgenti a colpo d’occhio.'
 ---
