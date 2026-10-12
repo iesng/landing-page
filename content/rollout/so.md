@@ -1,19 +1,17 @@
 ---
 de:
-  name: "Solothurn"
+  name: Solothurn
   status: training
   contacts:
-    - name: "Adrian Rudolf von Rohr"
+    - name: Adrian Rudolf von Rohr
       role: main
-    - name: "Severin Borer"
+    - name: Severin Borer
       role: deputy
-  trainings:
-    - "25.03.2026"
-    - "07.05.2026"
+  trainings: []
 en:
-  name: "Solothurn"
+  name: Solothurn
 fr:
-  name: "Soleure"
+  name: Soleure
 it:
-  name: "Soletta"
+  name: Soletta
 ---
