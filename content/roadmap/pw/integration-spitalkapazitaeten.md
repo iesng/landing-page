@@ -1,10 +1,10 @@
 ---
 de:
   order: 3
-  state: current
-  date_label: Ab April 2026
-  title: Integration Spitalkapazitäten
-  description: Anbindung der Spitäler zur Echtzeit-Zuweisung von Patienten anhand verfügbarer Kapazitäten.
+  state: future
+  date_label: 07.04.2027
+  title: Release 0.9.0 – Vorproduktion und Verifikation
+  description: Bereitstellung des vorproduktiven Systems zur finalen fachlichen Verifikation und Einsatzvorbereitung vor der operativen Inbetriebnahme.
 en:
   order: 3
   date_label: From April 2026
