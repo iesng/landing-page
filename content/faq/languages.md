@@ -1,8 +1,8 @@
 ---
 de:
   order: 6
-  question: Ereignisbewältigung - Welche Sprachen unterstützt IES NG?
-  answer: IES NG ist in Deutsch, Französisch, Italienisch und Englisch verfügbar. Die Sprache lässt sich jederzeit in den Einstellungen wechseln.
+  question: Ereignisbewältigung - Welche Sprachen unterstützt IES?
+  answer: IES ist in Deutsch, Französisch, Italienisch und Englisch verfügbar. Die Sprache lässt sich jederzeit in den Einstellungen wechseln.
 en:
   order: 6
   question: Incident Management - Which languages does IOS support?
