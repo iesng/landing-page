@@ -1,18 +1,17 @@
 ---
 de:
-  name: "Glarus"
+  name: Glarus
   status: training
   contacts:
-    - name: "Jörg Allmendinger"
+    - name: Jörg Allmendinger
       role: main
-    - name: "Daniel Müller"
+    - name: Daniel Müller
       role: deputy
-  trainings:
-    - "12.03.2026"
+  trainings: []
 en:
-  name: "Glarus"
+  name: Glarus
 fr:
-  name: "Glaris"
+  name: Glaris
 it:
-  name: "Glarona"
+  name: Glarona
 ---
