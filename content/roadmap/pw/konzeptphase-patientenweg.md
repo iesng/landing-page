@@ -7,17 +7,17 @@ de:
   description: Das neue IES steht auf der Produktionsumgebung bereit. Applikationsverantwortliche beginnen mit dem Erfassen von Organisationen und Benutzerkonten.
 en:
   order: 4
-  date_label: From March 2025
-  title: Patient Pathway Concept Phase
-  description: Requirements gathering and process design for end-to-end patient tracking from the incident site to hospital admission.
+  date_label: 03.08.2026
+  title: Release 0.7.0 – Deployment of the production environment
+  description: Technical provisioning of the production system. Application managers begin configuring organisations and user accounts.
 fr:
   order: 4
-  date_label: Dès mars 2025
-  title: Phase conceptuelle Parcours du patient
-  description: Recueil des besoins et conception des processus pour un suivi de bout en bout des patients, du lieu de l'incident à l'admission à l'hôpital.
+  date_label: 03.08.2026
+  title: Release 0.7.0 – Mise à disposition de l’environnement de production
+  description: Déploiement technique du système de production. Les responsables d’application commencent la saisie des organisations et des comptes d’utilisateurs.
 it:
   order: 4
-  date_label: Da marzo 2025
-  title: Fase concettuale Percorso del paziente
-  description: Raccolta dei requisiti e progettazione dei processi per il tracciamento end-to-end dei pazienti dal luogo dell'evento all'ammissione in ospedale.
+  date_label: 03.08.2026
+  title: Release 0.7.0 – Messa a disposizione dell’ambiente di produzione
+  description: Messa a disposizione tecnica del sistema produttivo. I responsabili dell’applicazione iniziano la registrazione delle organizzazioni e dei conti utente.
 ---
