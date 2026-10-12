@@ -1,23 +1,21 @@
 ---
 de:
-  name: "Basel-Landschaft"
+  name: Basel-Landschaft
   status: training
   contacts:
-    - name: "Melanie Brack"
+    - name: Melanie Brack
       role: main
-    - name: "Dario Balosetti"
+    - name: Dario Balosetti
       role: deputy
-    - name: "Christoph Buess"
+    - name: Christoph Buess
       role: deputy
-    - name: "Dominik Raphael Howald"
+    - name: Dominik Raphael Howald
       role: deputy
-  trainings:
-    - "03.03.2026"
-    - "10.03.2026"
+  trainings: []
 en:
-  name: "Basel-Landschaft"
+  name: Basel-Landschaft
 fr:
-  name: "Bâle-Campagne"
+  name: Bâle-Campagne
 it:
-  name: "Basilea Campagna"
+  name: Basilea Campagna
 ---
