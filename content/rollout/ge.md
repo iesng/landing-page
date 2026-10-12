@@ -1,20 +1,17 @@
 ---
 de:
-  name: "Genf"
+  name: Genf
   status: training
   contacts:
-    - name: "Robert Larribau"
+    - name: Robert Larribau
       role: main
-    - name: "Florent Guiche"
+    - name: Florent Guiche
       role: deputy
-  trainings:
-    - "01.05.2025"
-    - "03.06.2026"
-    - "04.06.2026"
+  trainings: []
 en:
-  name: "Geneva"
+  name: Geneva
 fr:
-  name: "Genève"
+  name: Genève
 it:
-  name: "Ginevra"
+  name: Ginevra
 ---
