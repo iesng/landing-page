@@ -1,7 +1,7 @@
 ---
 de:
   name: Zürich
-  status: training
+  status: pilot
   contacts: []
   trainings: []
 en:
