@@ -1,7 +1,7 @@
 ---
 de:
   date: 2026-10-15
-  image: /images/uploads/newwebsite.webp
+  image: /images/uploads/newwebsite-1.webp
   title: Aufschaltung der neuen Website zum System IES
   description: Das neue System IES verfügt über einen eigenen Webauftritt. Die Website informiert über die Funktionen und Einsatzbereiche des künftigen Systems, die Einbindung der Partnerorganisationen sowie über die Heilmittelplattform (HMP). Übergeordnete Informationen zum Projekt IES NG werden weiterhin auf der[offiziellen Website des BABS](https://www.babs.admin.ch/de/ies-ng)publiziert.
 en:
