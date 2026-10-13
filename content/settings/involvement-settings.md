@@ -1,8 +1,8 @@
 ---
 de:
   nav_label: Involvierung
-  title: Gemeinsam zu **IES NG**
-  subtitle: IES NG wird mit strategischen Partnerverbänden und Vertretern der verschiedenen Anwendergruppen entwickelt.
+  title: Gemeinsam zum neuen **IES**
+  subtitle: Das System IES wird im Rahmen des Projekts IES NG von Grund auf neu entwickelt und löst das bisherige System ab. Die Anforderungen von Bund, Kantonen, Blaulichtorganisationen, Spitälern und der Armee fliessen dabei in enger Zusammenarbeit direkt in die Konzeption und Umsetzung ein. Dieser kontinuierliche Einbezug stellt sicher, dass das neue System den operativen Bedürfnissen der Praxis entspricht und von allen Akteuren breit getragen wird.
   strategic_heading: '**Strategische** Ebene'
   strategic_description: Die drei strategischen Projektpartner sichern die strategische Ausrichtung des Projekts und die Unterstützung in ihren Bereichen.
   strategic_partners:
@@ -46,8 +46,8 @@ de:
   pool_3_role: Endnutzer, Feedback & Schulung
 en:
   nav_label: Involvement
-  title: Together towards **IES NG**
-  subtitle: IES NG is developed with strategic partner associations and representatives of the various user groups.
+  title: Together towards the new **IOS**
+  subtitle: The IOS system is being completely redeveloped from scratch as part of the IOS NG project and will replace the legacy system. The requirements of the federal government, cantons, blue-light organizations, hospitals, and the armed forces are directly integrated into the design and implementation through close collaboration with partners. This ongoing engagement ensures that the new system meets the operational needs of day-to-day practice and is broadly supported by all stakeholders.
   strategic_heading: '**Strategic** Level'
   strategic_description: The three strategic project partners secure the strategic direction of the project and support in their respective areas.
   tactical_heading: '**Tactical** Level'
@@ -75,8 +75,8 @@ en:
   pool_3_role: End users, feedback & training
 fr:
   nav_label: Implication
-  title: Ensemble vers **IES NG**
-  subtitle: IES NG est développé avec des associations partenaires stratégiques et des représentants des différents groupes d'utilisateurs.
+  title: Ensemble vers le nouveau **SII**
+  subtitle: Le système SII est entièrement redéveloppé dans le cadre du projet SII NG et remplacera le système actuel. Les exigences de la Confédération, des cantons, des organisations d’intervention, des hôpitaux et de l’armée sont intégrées directement dans la conception et la mise en œuvre, en étroite collaboration avec les partenaires. Cette implication continue garantit que le nouveau système répond aux besoins opérationnels de la pratique et bénéficie d’un large soutien de l’ensemble des acteurs.
   strategic_heading: Niveau **stratégique**
   strategic_description: Les trois partenaires stratégiques du projet assurent l'orientation stratégique du projet et le soutien dans leurs domaines respectifs.
   tactical_heading: Niveau **tactique**
@@ -104,8 +104,8 @@ fr:
   pool_3_role: Utilisateurs finaux, feedback & formation
 it:
   nav_label: Coinvolgimento
-  title: Insieme verso **IES NG**
-  subtitle: IES NG è sviluppato con le associazioni partner strategiche e i rappresentanti dei vari gruppi di utenti.
+  title: Insieme verso il nuovo **SII**
+  subtitle: Il sistema SII viene sviluppato ex novo nell’ambito del progetto SII NG e sostituirà il sistema attuale. I requisiti della Confederazione, dei Cantoni, delle organizzazioni di primo intervento, degli ospedali e dell’esercito confluiscono direttamente nella concezione e nell’attuazione, in stretta collaborazione con i partner. Questo coinvolgimento costante garantisce che il nuovo sistema risponda alle esigenze operative della prassi e sia ampiamente sostenuto da tutti gli attori.
   strategic_heading: Livello **strategico**
   strategic_description: I tre partner strategici del progetto assicurano l'orientamento strategico del progetto e il sostegno nei loro ambiti.
   tactical_heading: Livello **tattico**
