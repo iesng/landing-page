@@ -1,7 +1,7 @@
 ---
 de:
   order: 6
-  illustration: /images/uploads/square_3927x3927.webp
+  illustration: /images/uploads/spots/spot-heilmittelplattform.svg
   title: MHP
   description: MHP
 en:
