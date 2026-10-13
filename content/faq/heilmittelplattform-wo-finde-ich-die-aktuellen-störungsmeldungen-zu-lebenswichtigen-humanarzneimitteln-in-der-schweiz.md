@@ -24,7 +24,7 @@ it:
   order: 18
   question: Dove posso trovare le notifiche di perturbazione aggiornate relative agli agenti terapeutici essenziali per uso umano in Svizzera?
   answer: |-
-    Le notifiche di perturbazione aggiornate sono disponibili qui. È inoltre possibile scaricare i dati direttamente in formato Excel o CSV.
+    Le notifiche di perturbazione aggiornate sono disponibili [qui](https://visualize.admin.ch/it/v/7hTW8RHMU7PC?dataSource=Prod). È inoltre possibile scaricare i dati direttamente in formato Excel o CSV.
 
     Per ulteriori domande, vi invitiamo a consultare la nostra sezione [FAQ](https://www.bwl.admin.ch/it/ulteriori-informazioni-agenti-terapeutici#FAQ) sul sito web.
 ---
