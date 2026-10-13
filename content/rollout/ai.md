@@ -3,7 +3,6 @@ de:
   name: "Appenzell Innerrhoden"
   status: planning
   contacts: []
-  trainings: []
 en:
   name: "Appenzell Innerrhoden"
 fr:

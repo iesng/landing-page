@@ -9,7 +9,6 @@ de:
       role: main
     - name: Cédric Stadelmann
       role: main
-  trainings: []
 en:
   name: Valais
 fr:

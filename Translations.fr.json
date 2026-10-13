@@ -46,8 +46,9 @@
   "Landing": {
     "Nav": {
       "Home": "Accueil",
-      "Production": "Production",
+      "Production": "Connexion SII",
       "Training": "Formation",
+      "Edu": "EDU",
       "OpenMenu": "Ouvrir le menu",
       "CloseMenu": "Fermer le menu",
       "BABSFullName": "Office fédéral de la protection de la population OFPP",
@@ -72,14 +73,12 @@
       },
       "Canton": {
         "StatusPlanning": "En planification",
-        "StatusPilot": "Pilotage",
         "StatusTraining": "Formation",
         "StatusProductive": "Productif",
         "Contact_one": "Personne de contact",
         "Contact_other": "Personnes de contact",
         "RoleMain": "Responsable d’application",
         "RoleDeputy": "Responsable d’application suppléant/e",
-        "Trainings": "Formations",
         "Progress": "Progression"
       }
     },

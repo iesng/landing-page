@@ -7,7 +7,6 @@ de:
       role: main
     - name: Jürg Singer
       role: main
-  trainings: []
 en:
   name: Schaffhausen
 fr:

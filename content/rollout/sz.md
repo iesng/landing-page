@@ -1,11 +1,10 @@
 ---
 de:
   name: Schwyz
-  status: pilot
+  status: training
   contacts:
     - name: Milena Bosshard
       role: main
-  trainings: []
 en:
   name: Schwyz
 fr:

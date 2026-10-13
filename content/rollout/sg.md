@@ -9,7 +9,6 @@ de:
       role: deputy
     - name: Silvan Duft
       role: deputy
-  trainings: []
 en:
   name: St. Gallen
 fr:

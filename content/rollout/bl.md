@@ -11,7 +11,6 @@ de:
       role: deputy
     - name: Dominik Raphael Howald
       role: deputy
-  trainings: []
 en:
   name: Basel-Landschaft
 fr:

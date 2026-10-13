@@ -7,7 +7,6 @@ de:
       role: main
     - name: Florent Guiche
       role: deputy
-  trainings: []
 en:
   name: Geneva
 fr:

@@ -11,7 +11,6 @@ de:
       role: main
     - name: "Corina Bandelli"
       role: deputy
-  trainings: []
 en:
   name: "Appenzell Ausserrhoden"
 fr:
