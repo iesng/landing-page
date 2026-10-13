@@ -3,7 +3,7 @@ de:
   name: Schwyz
   status: pilot
   contacts:
-    - name: Milena Bosshard
+    - name: Dominik Oechlin
       role: main
   trainings: []
 en:
