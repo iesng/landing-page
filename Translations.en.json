@@ -46,8 +46,9 @@
   "Landing": {
     "Nav": {
       "Home": "Home",
-      "Production": "Production",
+      "Production": "Login IOS",
       "Training": "Training",
+      "Edu": "EDU",
       "OpenMenu": "Open menu",
       "CloseMenu": "Close menu",
       "BABSFullName": "Federal Office for Civil Protection FOCP",
@@ -72,14 +73,12 @@
       },
       "Canton": {
         "StatusPlanning": "Planning",
-        "StatusPilot": "Pilot",
         "StatusTraining": "Training",
         "StatusProductive": "Productive",
         "Contact_one": "Contact Person",
         "Contact_other": "Contact Persons",
         "RoleMain": "Application Manager",
         "RoleDeputy": "Deputy Application Manager",
-        "Trainings": "Trainings",
         "Progress": "Progress"
       }
     },

@@ -7,7 +7,6 @@ de:
       role: main
     - name: Stéphanie Renard
       role: deputy
-  trainings: []
 en:
   name: Vaud
 fr:

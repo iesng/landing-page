@@ -7,7 +7,6 @@ de:
       role: main
     - name: Henrik Berthel
       role: deputy
-  trainings: []
 en:
   name: Aargau
 fr:

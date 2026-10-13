@@ -46,8 +46,9 @@
   "Landing": {
     "Nav": {
       "Home": "Startseite",
-      "Production": "Produktion",
+      "Production": "Login IES",
       "Training": "Schulung",
+      "Edu": "EDU",
       "OpenMenu": "Menü öffnen",
       "CloseMenu": "Menü schliessen",
       "BABSFullName": "Bundesamt für Bevölkerungsschutz BABS",
@@ -72,14 +73,12 @@
       },
       "Canton": {
         "StatusPlanning": "In Planung",
-        "StatusPilot": "Pilotierung",
         "StatusTraining": "Schulung",
         "StatusProductive": "Produktiv",
         "Contact_one": "Kontaktperson",
         "Contact_other": "Kontaktpersonen",
         "RoleMain": "Applikationsverantwortliche/r",
         "RoleDeputy": "Stv. Applikationsverantwortliche/r",
-        "Trainings": "Schulungen",
         "Progress": "Fortschritt"
       }
     },

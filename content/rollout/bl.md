@@ -11,7 +11,6 @@ de:
       role: deputy
     - name: Stephanie Hofer
       role: deputy
-  trainings: []
 en:
   name: Basel-Landschaft
 fr:

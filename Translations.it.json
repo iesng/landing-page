@@ -46,8 +46,9 @@
   "Landing": {
     "Nav": {
       "Home": "Home",
-      "Production": "Produzione",
+      "Production": "Accesso SII",
       "Training": "Formazione",
+      "Edu": "EDU",
       "OpenMenu": "Apri menu",
       "CloseMenu": "Chiudi menu",
       "BABSFullName": "Ufficio federale della protezione della popolazione UFPP",
@@ -72,14 +73,12 @@
       },
       "Canton": {
         "StatusPlanning": "In pianificazione",
-        "StatusPilot": "Pilotaggio",
         "StatusTraining": "Formazione",
         "StatusProductive": "Produttivo",
         "Contact_one": "Persona di contatto",
         "Contact_other": "Persone di contatto",
         "RoleMain": "Responsabile dell'applicazione",
         "RoleDeputy": "Responsabile supplente dell'applicazione",
-        "Trainings": "Formazioni",
         "Progress": "Progresso"
       }
     },
