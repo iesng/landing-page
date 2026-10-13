@@ -1,7 +1,7 @@
 ---
 de:
   order: 2
-  illustration: /illustrations/dashboard.svg
+  illustration: /images/uploads/spots/spot-spitalkapazitaet.svg
   title: Spitalkapazität
   description: Bettenauslastung, freie Kapazitäten und aktuelle Aufnahmebereitschaft aller Spitäler auf einen Blick — in Echtzeit und kantonsübergreifend.
 en:
