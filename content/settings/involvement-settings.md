@@ -146,10 +146,31 @@ en:
   tactical_army_members: '- Armed Forces liaison officer'
   operative_heading: '**Operative** Level'
   operative_description: At the operational level, end users from emergency medical services, dispatch centers, hospitals, police, civil protection, and the armed forces directly contribute their front-line experience. They define the practical requirements for day-to-day operations and evaluate new features through hands-on technical testing. Through their formal user acceptance testing, they ensure that the system is reliable, intuitive, and mission-ready in real-world crisis situations.
-  operative_preclinic_members: ''
-  operative_clinic_members: ''
-  operative_authorities_members: ''
-  operative_army_members: ''
+  operative_preclinic_members: |-
+    - Dispatchers and shift supervisors emergency dispatch centres
+    - Incident commanders, sector leaders, and officers
+    - Certified paramedics, transport paramedics
+    - Pre-hospital emergency physicians
+    - Air rescue (Rega, Air-Glaciers, Air-Zermatt, AAA)
+    - National and international transfer coordination
+  operative_clinic_members: |-
+    - Emergency and triage nursing staff
+    - Resuscitation / shock room team
+    - Burn centres
+    - Cath lab, interventional cardiology
+    - Hospital CBRN officers
+    - ICU supervisors
+    - Hospital administration
+  operative_authorities_members: |-
+    - Psychosocial Care Teams, emergency psychologists
+    - Police missing persons management, scattered evacuees
+    - Helpline management, social work
+    - Civil protection personnel
+  operative_army_members: |-
+    - Operations Command (similar to dispatch centre)
+    - Medical units, hospital battalions
+    - Swiss Air Force (air transport)
+    - Fallen and missing service (GVD)
 fr:
   nav_label: Implication
   title: Ensemble vers le nouveau **SII**
@@ -211,10 +232,31 @@ fr:
   tactical_army_members: '- Officier de liaison de l’armée'
   operative_heading: Niveau **opérationnel**
   operative_description: Au niveau opérationnel, les utilisatrices et utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
-  operative_preclinic_members: ''
-  operative_clinic_members: ''
-  operative_authorities_members: ''
-  operative_army_members: ''
+  operative_preclinic_members: |-
+    - Régulateurs, régulatrices et chefs de quart CASU
+    - Chefs d’intervention, chefs de secteur et gradés
+    - Ambulanciers ES, techniciens ambulanciers (TA)
+    - Médecins d’urgence préhospitaliers
+    - Sauvetage aérien (Rega, Air-Glaciers, Air-Zermatt, AAA)
+    - Coordination des transferts nationaux et internationaux
+  operative_clinic_members: |-
+    - Personnel soignant des urgences et du triage
+    - Équipe du déchoquage
+    - Centres des grands brûlés
+    - Coronarographie, cardiologie interventionnelle
+    - Responsables CBRN de l’hôpital
+    - Responsables des soins intensifs
+    - Administration hospitalière
+  operative_authorities_members: |-
+    - Équipes de soutien psychologique (Care Teams), psychologues d’urgence
+    - Police : gestion des personnes disparues, personnes dispersées
+    - Gestion de la hotline d’information, travail social
+    - Astreints à la protection civile
+  operative_army_members: |-
+    - Commandement des Opérations (analogue CASU)
+    - Unités sanitaires, bataillons hospitaliers
+    - Forces aériennes (transport aérien)
+    - Service des personnes décédées et disparues (GVD)
 it:
   nav_label: Coinvolgimento
   title: Insieme verso il nuovo **SII**
@@ -276,4 +318,29 @@ it:
   tactical_army_members: '- Ufficiale di collegamento dell’esercito'
   operative_heading: Livello **operativo**
   operative_description: A livello operativo, gli utenti dei servizi di soccorso, delle centrali d’allarme, degli ospedali, della polizia, della protezione civile e dell’esercito apportano direttamente la propria esperienza pratica sul campo. Definiscono i requisiti concreti per l’impiego quotidiano in prima linea e verificano l’efficacia pratica delle nuove funzionalità tramite test specialistici. Con i loro collaudi formali garantiscono che, in caso di emergenza, il sistema sia stabile, intuitivo e pronto all’uso.
+  operative_preclinic_members: |-
+    - Operatori di centrale e capoturno CASU
+    - Capi intervento, responsabili di settore e graduati
+    - Soccorritori dipl. SSS, soccorritori ausiliari
+    - Medici d’urgenza preospedalieri
+    - Soccorso aereo (Rega, Air-Glaciers, Air-Zermatt, AAA)
+    - Coordinamento dei trasferimenti nazionali e internazionali
+  operative_clinic_members: |-
+    - Personale infermieristico di pronto soccorso e triage
+    - Équipe della shock room
+    - Centri grandi ustionati
+    - Coronarografia, cardiologia interventistica
+    - Responsabili CBRN dell’ospedale
+    - Responsabili delle cure intense
+    - Amministrazione ospedaliera
+  operative_authorities_members: |-
+    - Équipe di supporto psicosociale (Care Teams), psicologi d’emergenza
+    - Polizia: gestione persone disperse, persone isolate
+    - Gestione hotline d’emergenza, lavoro sociale
+    - Militi della protezione civile
+  operative_army_members: |-
+    - Comando Operazioni (analogo CASU)
+    - Unità sanitarie, battaglioni d’ospedale
+    - Forze aeree (trasporto aereo)
+    - Servizio dei caduti e dei dispersi (GVD)
 ---
