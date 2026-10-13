@@ -4,10 +4,10 @@ de:
   title: Gemeinsam zum neuen **IES**
   subtitle: Das System IES wird im Rahmen des Projekts IES NG von Grund auf neu entwickelt und löst das bisherige System ab. Die Anforderungen von Bund, Kantonen, Blaulichtorganisationen, Spitälern und der Armee fliessen dabei in enger Zusammenarbeit direkt in die Konzeption und Umsetzung ein. Dieser kontinuierliche Einbezug stellt sicher, dass das neue System den operativen Bedürfnissen der Praxis entspricht und von allen Akteuren breit getragen wird.
   strategic_heading: '**Strategische** Ebene'
-  strategic_description: Die drei strategischen Projektpartner sichern die strategische Ausrichtung des Projekts und die Unterstützung in ihren Bereichen.
+  strategic_description: Auf strategischer Ebene stellen Entscheidungsträgerinnen und Entscheidungsträger aus Behörden, Spitälern, Blaulicht und Armee die übergeordnete Verankerung des Systems sicher. Im Fokus stehen dabei die breite Akzeptanz, die Bereitstellung der personellen und finanziellen Ressourcen sowie die Klärung der rechtlichen Grundlagen für den organisationsübergreifenden Einsatz.
   strategic_partners:
     - abbr: Präklinik
-      full_name: GDK kantonale Gesundheitsämter IVR Swiss Paramedic Association SGNOR
+      full_name: GDK\ kantonale Gesundheitsämter\ IVR\ Swiss Paramedic Association\ SGNOR
       logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: '#1466B8'
       logo_padded: true
@@ -54,7 +54,7 @@ en:
   title: Together towards the new **IOS**
   subtitle: The IOS system is being completely redeveloped from scratch as part of the IOS NG project and will replace the legacy system. The requirements of the federal government, cantons, blue-light organizations, hospitals, and the armed forces are directly integrated into the design and implementation through close collaboration with partners. This ongoing engagement ensures that the new system meets the operational needs of day-to-day practice and is broadly supported by all stakeholders.
   strategic_heading: '**Strategic** Level'
-  strategic_description: The three strategic project partners secure the strategic direction of the project and support in their respective areas.
+  strategic_description: At the strategic level, decision-makers from public authorities, hospitals, blue-light services, and the armed forces secure the overarching foundation of the system. The primary focus lies on broad acceptance, securing human and financial resources, and establishing the legal frameworks required for cross-organizational operations.
   tactical_heading: '**Tactical** Level'
   tactical_description: For collaboration in the project team on specifications and tests, the strategic partners nominate the Head of Pool, who are supported by the Experts.
   hop_title: Head of Pool
@@ -83,7 +83,7 @@ fr:
   title: Ensemble vers le nouveau **SII**
   subtitle: Le système SII est entièrement redéveloppé dans le cadre du projet SII NG et remplacera le système actuel. Les exigences de la Confédération, des cantons, des organisations d’intervention, des hôpitaux et de l’armée sont intégrées directement dans la conception et la mise en œuvre, en étroite collaboration avec les partenaires. Cette implication continue garantit que le nouveau système répond aux besoins opérationnels de la pratique et bénéficie d’un large soutien de l’ensemble des acteurs.
   strategic_heading: Niveau **stratégique**
-  strategic_description: Les trois partenaires stratégiques du projet assurent l'orientation stratégique du projet et le soutien dans leurs domaines respectifs.
+  strategic_description: Au niveau stratégique, les organes décisionnels des autorités, des hôpitaux, des forces d’intervention et de l’armée assurent l’ancrage global du système. L’accent est mis sur une large adhésion, la mise à disposition des ressources humaines et financières ainsi que la clarification des bases légales nécessaires à l’engagement interorganisationnel.
   tactical_heading: Niveau **tactique**
   tactical_description: Pour la collaboration au sein de l'équipe de projet sur les spécifications et les tests, les partenaires stratégiques désignent les Head of Pool, qui sont soutenus par les Experts.
   hop_title: Head of Pool
@@ -112,7 +112,7 @@ it:
   title: Insieme verso il nuovo **SII**
   subtitle: Il sistema SII viene sviluppato ex novo nell’ambito del progetto SII NG e sostituirà il sistema attuale. I requisiti della Confederazione, dei Cantoni, delle organizzazioni di primo intervento, degli ospedali e dell’esercito confluiscono direttamente nella concezione e nell’attuazione, in stretta collaborazione con i partner. Questo coinvolgimento costante garantisce che il nuovo sistema risponda alle esigenze operative della prassi e sia ampiamente sostenuto da tutti gli attori.
   strategic_heading: Livello **strategico**
-  strategic_description: I tre partner strategici del progetto assicurano l'orientamento strategico del progetto e il sostegno nei loro ambiti.
+  strategic_description: A livello strategico, i decisori delle autorità, degli ospedali, dei servizi di pronto intervento e dell’esercito garantiscono il radicamento complessivo del sistema. L’attenzione si concentra su un’ampia accettazione, sulla messa a disposizione delle risorse umane e finanziarie e sul chiarimento delle basi legali per l’impiego interorganizzativo.
   tactical_heading: Livello **tattico**
   tactical_description: Per la collaborazione nel team di progetto su specifiche e test, i partner strategici nominano i Head of Pool, supportati dagli Experts.
   hop_title: Head of Pool
