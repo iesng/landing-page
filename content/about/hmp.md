@@ -1,7 +1,7 @@
 ---
 de:
   order: 5
-  illustration: /images/uploads/landscape_6000x4000.webp
+  illustration: /images/uploads/spots/spot-heilmittelplattform.svg
   title: HMP
   description: Heilmittelplattform SUPER DUPER TEXT.
 en:
