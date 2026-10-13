@@ -1,9 +1,9 @@
 ---
 de:
   date: 2026-10-15
-  image: /images/uploads/landscape_6000x4000.webp
+  image: /images/uploads/newwebsite.webp
   title: Aufschaltung der neuen Website zum System IES
-  description: Das neue System IES verfügt über einen eigenen Webauftritt. Die Website informiert über die Funktionen und Einsatzbereiche des künftigen Systems, die Einbindung der Partnerorganisationen sowie über die Heilmittelplattform (HMP). Übergeordnete Informationen zum Projekt IES NG werden weiterhin auf der [offiziellen Website des BABS](https://www.babs.admin.ch/de/ies-ng) publiziert.
+  description: Das neue System IES verfügt über einen eigenen Webauftritt. Die Website informiert über die Funktionen und Einsatzbereiche des künftigen Systems, die Einbindung der Partnerorganisationen sowie über die Heilmittelplattform (HMP). Übergeordnete Informationen zum Projekt IES NG werden weiterhin auf der[offiziellen Website des BABS](https://www.babs.admin.ch/de/ies-ng)publiziert.
 en:
   title: Launch of the new website for the IOS system
   description: The new IOS system now has its own dedicated website. It provides information on the functionalities and operational areas of the future system, the involvement of partner organizations, and the platform for therapeutic products (HMP). General information regarding the IOS NG project continues to be published on the [official FOCP website](https://www.babs.admin.ch/en/ies-ng-en).
