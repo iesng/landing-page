@@ -10,7 +10,7 @@ en:
   order: 18
   question: Where can I find the latest shortage reports for essential therapeutic products for human use in Switzerland?
   answer: |-
-    You can find the latest shortage reports here. You can also download the data directly as an Excel or CSV file.
+    You can find the latest shortage reports [here](https://visualize.admin.ch/en/v/7hTW8RHMU7PC?dataSource=Prod). You can also download the data directly as an Excel or CSV file.
 
     If you have any further questions, please feel free to consult our detailed [FAQ](https://www.bwl.admin.ch/en/further-information-therapeutic-products#FAQs) on the website.
 fr:
