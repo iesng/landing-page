@@ -42,7 +42,7 @@ de:
     - **Unterstützt Head of Pool** bei spezifischen Fragen
     - Bringt die **operative Perspektive für die Implementierung** ein
   operative_heading: '**Operative** Ebene'
-  operative_description: Die **berufsspezifischen Nutzergruppen** nehmen an regelmässigen Live-Demos teil, teilen ihre Rückmeldungen und tragen Eindrücke in ihre Organisationen.
+  operative_description: Auf operativer Ebene bringen die Anwenderinnen und Anwender aus Rettungsdiensten, Notrufzentralen, Spitälern, Polizei, Zivilschutz und Armee ihre praktischen Erfahrungen direkt ein. Sie definieren die konkreten Anforderungen für den Einsatzalltag an der Front und überprüfen neue Funktionen in Fachtests auf ihre Praxistauglichkeit. Durch ihre formellen Abnahmen stellen sie sicher, dass das System im Ernstfall stabil, intuitiv bedienbar und einsatzbereit ist.
   pool_1_name: Pool Rettungsdienst
   pool_1_role: Endnutzer, Feedback & Schulung
   pool_2_name: Pool Sanität
@@ -71,7 +71,7 @@ en:
     - **Supports Head of Pool** on specific questions
     - Brings the **operative perspective for implementation**
   operative_heading: '**Operative** Level'
-  operative_description: '**Profession-specific user groups** participate in regular live demos, share their feedback and carry impressions back to their organisations.'
+  operative_description: At the operational level, end users from emergency medical services, dispatch centers, hospitals, police, civil protection, and the armed forces directly contribute their front-line experience. They define the practical requirements for day-to-day operations and evaluate new features through hands-on technical testing. Through their formal user acceptance testing, they ensure that the system is reliable, intuitive, and mission-ready in real-world crisis situations.
   pool_1_name: Rescue Services Pool
   pool_1_role: End users, feedback & training
   pool_2_name: Emergency Medical Pool
@@ -100,7 +100,7 @@ fr:
     - **Soutient le Head of Pool** sur des questions spécifiques
     - Apporte la **perspective opérationnelle pour l'implémentation**
   operative_heading: Niveau **opérationnel**
-  operative_description: Les **groupes d'utilisateurs par profession** participent à des démos régulières, partagent leurs retours et transmettent leurs impressions dans leurs organisations.
+  operative_description: Au niveau opérationnel, les utilisatrices et utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
   pool_1_name: Pool Services de sauvetage
   pool_1_role: Utilisateurs finaux, feedback & formation
   pool_2_name: Pool Sanitaire
@@ -129,7 +129,7 @@ it:
     - **Supporta l'Head of Pool** su questioni specifiche
     - Porta la **prospettiva operativa per l'implementazione**
   operative_heading: Livello **operativo**
-  operative_description: I **gruppi di utenti per professione** partecipano a demo regolari, condividono i loro feedback e portano le impressioni nelle loro organizzazioni.
+  operative_description: A livello operativo, gli utenti dei servizi di soccorso, delle centrali d’allarme, degli ospedali, della polizia, della protezione civile e dell’esercito apportano direttamente la propria esperienza pratica sul campo. Definiscono i requisiti concreti per l’impiego quotidiano in prima linea e verificano l’efficacia pratica delle nuove funzionalità tramite test specialistici. Con i loro collaudi formali garantiscono che, in caso di emergenza, il sistema sia stabile, intuitivo e pronto all’uso.
   pool_1_name: Pool Servizi di soccorso
   pool_1_role: Utenti finali, feedback & formazione
   pool_2_name: Pool Sanitario
