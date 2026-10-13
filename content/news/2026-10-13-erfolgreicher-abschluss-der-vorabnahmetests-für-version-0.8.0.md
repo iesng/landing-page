@@ -1,7 +1,7 @@
 ---
 de:
   date: 2026-10-09
-  image: /images/uploads/vorabnahme-pi-8.webp
+  image: /images/uploads/ies_testing_mockup.webp
   title: Erfolgreicher Abschluss der Vorabnahmetests für Version 0.8.0
   description: Die Vorabnahmetests für die Version 0.8.0 des Systems IES wurden erfolgreich abgeschlossen. Neben 281 manuellen Testszenarien decken automatisierte Tests bereits rund 40 Prozent des typischen Funktionsumfangs vollständig ohne Benutzereingriff ab. Über 92 Prozent der manuellen Tests wurden auf Anhieb bestanden; die 21 identifizierten Nachbesserungen fliessen nun direkt in die finale Bereinigung ein.
 en:
