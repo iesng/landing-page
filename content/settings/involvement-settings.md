@@ -57,8 +57,7 @@ de:
     - Applikationsverantwortliche Polizei/Stab/Dritte
     - Zivilschutz-Führung
     - Datenarchivierung
-  tactical_army_members: |-
-    - Verbindungsoffizier:in Armee
+  tactical_army_members: '- Verbindungsoffizier:in Armee'
   operative_heading: '**Operative** Ebene'
   operative_description: Auf operativer Ebene bringen die Anwenderinnen und Anwender aus Rettungsdiensten, Notrufzentralen, Spitälern, Polizei, Zivilschutz und Armee ihre praktischen Erfahrungen direkt ein. Sie definieren die konkreten Anforderungen für den Einsatzalltag an der Front und überprüfen neue Funktionen in Fachtests auf ihre Praxistauglichkeit. Durch ihre formellen Abnahmen stellen sie sicher, dass das System im Ernstfall stabil, intuitiv bedienbar und einsatzbereit ist.
   operative_preclinic_members: |-
@@ -100,6 +99,29 @@ en:
   domain_army_subtitle: Medical service and support provided by the Armed Forces
   strategic_heading: '**Strategic** Level'
   strategic_description: At the strategic level, decision-makers from public authorities, hospitals, blue-light services, and the armed forces secure the overarching foundation of the system. The primary focus lies on broad acceptance, securing human and financial resources, and establishing the legal frameworks required for cross-organizational operations.
+  strategic_preclinic_members: |-
+    - GDK
+    - Cantonal public health offices
+    - IAS
+    - Swiss Paramedic Association
+    - SSESM
+  strategic_clinic_members: |-
+    - H+ The Swiss Hospitals
+    - Hospital boards / directorships
+    - SSESM / SGNOR
+  strategic_authorities_members: |-
+    - CCPCS
+    - Police commands
+    - Care team directors
+    - Cantonal civil protection office
+    - FOCP NEOC (system owner)
+    - armasuisse (project management)
+    - NEOC/KATAMED, BSTB
+    - FOPH, FDFA
+    - BI data users
+  strategic_army_members: |-
+    - Armed Forces Medical Services (San)
+    - Armed Forces Logistics Organisation (LBA)
   tactical_heading: '**Tactical** Level'
   tactical_description: At the tactical level, leadership personnel and technical specialists from the cantons, emergency services, hospitals, and the armed forces coordinate practical implementation. The primary focus is on system rollout, hands-on training concepts, and the targeted management of human and organizational capacity.
   tactical_preclinic_members: |-
@@ -107,8 +129,15 @@ en:
     - Operations planning and training coordinators
     - Heads of emergency medical services
     - Operators of ECC dispatch / command & control systems
+  tactical_clinic_members: ''
+  tactical_authorities_members: ''
+  tactical_army_members: ''
   operative_heading: '**Operative** Level'
   operative_description: At the operational level, end users from emergency medical services, dispatch centers, hospitals, police, civil protection, and the armed forces directly contribute their front-line experience. They define the practical requirements for day-to-day operations and evaluate new features through hands-on technical testing. Through their formal user acceptance testing, they ensure that the system is reliable, intuitive, and mission-ready in real-world crisis situations.
+  operative_preclinic_members: ''
+  operative_clinic_members: ''
+  operative_authorities_members: ''
+  operative_army_members: ''
 fr:
   nav_label: Implication
   title: Ensemble vers le nouveau **SII**
@@ -123,6 +152,29 @@ fr:
   domain_army_subtitle: Service sanitaire et prestations d’appui de l’armée
   strategic_heading: Niveau **stratégique**
   strategic_description: Au niveau stratégique, les organes décisionnels des autorités, des hôpitaux, des forces d’intervention et de l’armée assurent l’ancrage global du système. L’accent est mis sur une large adhésion, la mise à disposition des ressources humaines et financières ainsi que la clarification des bases légales nécessaires à l’engagement interorganisationnel.
+  strategic_preclinic_members: |-
+    - CDS
+    - Services cantonaux de la santé publique
+    - IAS
+    - Swiss Paramedic Association
+    - SSMUS
+  strategic_clinic_members: |-
+    - H+ Les Hôpitaux de Suisse
+    - Directions hospitalières
+    - SSMUS
+  strategic_authorities_members: |-
+    - CCPCS
+    - Commandements de police
+    - Directions de l’assistance psychologique (Care)
+    - Office cantonal de la protection civile
+    - OFPP CENAL (propriétaire du système)
+    - armasuisse (direction du projet)
+    - CENAL/KATAMED, BSTB
+    - OFSP, DFAE
+    - Utilisateurs des données décisionnelles (BI)
+  strategic_army_members: |-
+    - Sanitaire de l’armée (San)
+    - Base logistique de l’armée (BLA)
   tactical_heading: Niveau **tactique**
   tactical_description: Au niveau tactique, les responsables de conduite et les spécialistes des cantons, des organisations d’intervention, des hôpitaux et de l’armée coordonnent la mise en œuvre concrète. L’accent est mis sur le déploiement du système, des concepts de formation pratiques ainsi que la gestion ciblée des capacités humaines et organisationnelles.
   tactical_preclinic_members: |-
@@ -130,8 +182,15 @@ fr:
     - Responsables de la planification des engagements et de la formation
     - Directions des services de sauvetage
     - Exploitants des systèmes d’engagement CAS
+  tactical_clinic_members: ''
+  tactical_authorities_members: ''
+  tactical_army_members: ''
   operative_heading: Niveau **opérationnel**
   operative_description: Au niveau opérationnel, les utilisatrices et utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
+  operative_preclinic_members: ''
+  operative_clinic_members: ''
+  operative_authorities_members: ''
+  operative_army_members: ''
 it:
   nav_label: Coinvolgimento
   title: Insieme verso il nuovo **SII**
@@ -146,6 +205,29 @@ it:
   domain_army_subtitle: Servizio sanitario e prestazioni di supporto dell’esercito
   strategic_heading: Livello **strategico**
   strategic_description: A livello strategico, i decisori delle autorità, degli ospedali, dei servizi di pronto intervento e dell’esercito garantiscono il radicamento complessivo del sistema. L’attenzione si concentra su un’ampia accettazione, sulla messa a disposizione delle risorse umane e finanziarie e sul chiarimento delle basi legali per l’impiego interorganizzativo.
+  strategic_preclinic_members: |-
+    - CDS
+    - Servizi cantonali di sanità pubblica
+    - ISS
+    - Swiss Paramedic Association
+    - SSMUS
+  strategic_clinic_members: |-
+    - H+ Gli Ospedali della Svizzera
+    - Direzioni ospedaliere
+    - SSMUS
+  strategic_authorities_members: |-
+    - CCPCS
+    - Comandi di polizia
+    - Direzioni dei servizi di assistenza psicosociale (Care)
+    - Ufficio cantonale della protezione civile
+    - UFPP CENAL (proprietario del sistema)
+    - armasuisse (direzione del progetto)
+    - CENAL/KATAMED, BSTB
+    - UFSP, DFAE
+    - Utenti dei dati di Business Intelligence (BI)
+  strategic_army_members: |-
+    - Sanità militare (San)
+    - Base logistica dell’esercito (BLEs)
   tactical_heading: Livello **tattico**
   tactical_description: A livello tattico, i responsabili operativi e gli specialisti dei Cantoni, delle organizzazioni di pronto intervento, degli ospedali e dell’esercito coordinano l’attuazione concreta. L’attenzione si concentra sull’introduzione del sistema, su modelli di formazione orientati alla prassi e sulla gestione mirata delle capacità del personale e dell’organizzazione.
   tactical_preclinic_members: |-
