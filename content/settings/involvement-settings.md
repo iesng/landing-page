@@ -27,7 +27,7 @@ de:
       logo_bg: ''
       logo_padded: false
   tactical_heading: '**Taktische** Ebene'
-  tactical_description: Für die Mitarbeit im Projektteam für Spezifikationen und Tests benennen die strategischen Partner die Head of Pool, welche von den Experten unterstützt werden.
+  tactical_description: Auf taktischer Ebene koordinieren Führungsverantwortliche und Fachspezialisten der Kantone, Einsatzorganisationen, Spitäler und der Armee die konkrete Umsetzung. Im Fokus stehen dabei die Einführung des Systems, praxisnahe Ausbildungs- und Schulungskonzepte sowie die gezielte Steuerung der personellen und organisatorischen Kapazitäten.
   hop_title: Head of Pool
   hop_description: Fachliche Leitung und Vertretung des strategischen Partners
   hop_responsibilities: |-
@@ -56,7 +56,7 @@ en:
   strategic_heading: '**Strategic** Level'
   strategic_description: At the strategic level, decision-makers from public authorities, hospitals, blue-light services, and the armed forces secure the overarching foundation of the system. The primary focus lies on broad acceptance, securing human and financial resources, and establishing the legal frameworks required for cross-organizational operations.
   tactical_heading: '**Tactical** Level'
-  tactical_description: For collaboration in the project team on specifications and tests, the strategic partners nominate the Head of Pool, who are supported by the Experts.
+  tactical_description: At the tactical level, leadership personnel and technical specialists from the cantons, emergency services, hospitals, and the armed forces coordinate practical implementation. The primary focus is on system rollout, hands-on training concepts, and the targeted management of human and organizational capacity.
   hop_title: Head of Pool
   hop_description: Technical lead and representative of the strategic partner
   hop_responsibilities: |-
@@ -85,7 +85,7 @@ fr:
   strategic_heading: Niveau **stratégique**
   strategic_description: Au niveau stratégique, les organes décisionnels des autorités, des hôpitaux, des forces d’intervention et de l’armée assurent l’ancrage global du système. L’accent est mis sur une large adhésion, la mise à disposition des ressources humaines et financières ainsi que la clarification des bases légales nécessaires à l’engagement interorganisationnel.
   tactical_heading: Niveau **tactique**
-  tactical_description: Pour la collaboration au sein de l'équipe de projet sur les spécifications et les tests, les partenaires stratégiques désignent les Head of Pool, qui sont soutenus par les Experts.
+  tactical_description: Au niveau tactique, les responsables de conduite et les spécialistes des cantons, des organisations d’intervention, des hôpitaux et de l’armée coordonnent la mise en œuvre concrète. L’accent est mis sur le déploiement du système, des concepts de formation pratiques ainsi que la gestion ciblée des capacités humaines et organisationnelles.
   hop_title: Head of Pool
   hop_description: Direction technique et représentation du partenaire stratégique
   hop_responsibilities: |-
@@ -114,7 +114,7 @@ it:
   strategic_heading: Livello **strategico**
   strategic_description: A livello strategico, i decisori delle autorità, degli ospedali, dei servizi di pronto intervento e dell’esercito garantiscono il radicamento complessivo del sistema. L’attenzione si concentra su un’ampia accettazione, sulla messa a disposizione delle risorse umane e finanziarie e sul chiarimento delle basi legali per l’impiego interorganizzativo.
   tactical_heading: Livello **tattico**
-  tactical_description: Per la collaborazione nel team di progetto su specifiche e test, i partner strategici nominano i Head of Pool, supportati dagli Experts.
+  tactical_description: A livello tattico, i responsabili operativi e gli specialisti dei Cantoni, delle organizzazioni di pronto intervento, degli ospedali e dell’esercito coordinano l’attuazione concreta. L’attenzione si concentra sull’introduzione del sistema, su modelli di formazione orientati alla prassi e sulla gestione mirata delle capacità del personale e dell’organizzazione.
   hop_title: Head of Pool
   hop_description: Direzione tecnica e rappresentanza del partner strategico
   hop_responsibilities: |-
