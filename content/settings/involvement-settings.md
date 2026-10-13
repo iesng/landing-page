@@ -9,7 +9,7 @@ de:
     - abbr: Präklinik
       full_name: '- GDK - kantonale Gesundheitsämter - IVR - Swiss Paramedic Association - SGNOR'
       logo: /images/uploads/landscape_6000x4000.webp
-      logo_bg: '#1466B8'
+      logo_bg: ''
       logo_padded: true
     - abbr: Klinik
       full_name: H+ Die Spitäler der Schweiz Spitaldirektionen SGNOR
@@ -28,13 +28,13 @@ de:
       logo_padded: false
   tactical_heading: '**Taktische** Ebene'
   tactical_description: Auf taktischer Ebene koordinieren Führungsverantwortliche und Fachspezialisten der Kantone, Einsatzorganisationen, Spitäler und der Armee die konkrete Umsetzung. Im Fokus stehen dabei die Einführung des Systems, praxisnahe Ausbildungs- und Schulungskonzepte sowie die gezielte Steuerung der personellen und organisatorischen Kapazitäten.
-  hop_title: Head of Pool
-  hop_description: Fachliche Leitung und Vertretung des strategischen Partners
+  hop_title: Präklink
+  hop_description: Notfallversorgung vor Spitaleintritt und Rettungseinsätze
   hop_responsibilities: |-
-    - **Vertritt** den nominierenden strategischen Projektpartner
-    - Ansprechperson für **fachliche Fragestellungen**
-    - Testet Zwischenprodukte und **gibt fachliche Rückmeldungen**
-    - **Beurteilt Rückmeldungen** der Pool-Mitglieder
+    - Applikationsverantwortliche RD/SNZ
+    - Einsatzplanungs- und Ausbildungsverantwortliche
+    - Leitungen Rettungsdienste
+    - Betreiber SNZ-Leitsysteme
   expert_title: Expert
   expert_description: Testing und spezifische Fachexpertise
   expert_responsibilities: |-
@@ -57,13 +57,13 @@ en:
   strategic_description: At the strategic level, decision-makers from public authorities, hospitals, blue-light services, and the armed forces secure the overarching foundation of the system. The primary focus lies on broad acceptance, securing human and financial resources, and establishing the legal frameworks required for cross-organizational operations.
   tactical_heading: '**Tactical** Level'
   tactical_description: At the tactical level, leadership personnel and technical specialists from the cantons, emergency services, hospitals, and the armed forces coordinate practical implementation. The primary focus is on system rollout, hands-on training concepts, and the targeted management of human and organizational capacity.
-  hop_title: Head of Pool
-  hop_description: Technical lead and representative of the strategic partner
+  hop_title: Pre-hospital
+  hop_description: Emergency medical care and pre-hospital rescue
   hop_responsibilities: |-
-    - **Represents** the nominating strategic project partner
-    - Contact person for **technical questions**
-    - Tests interim products and **provides technical feedback**
-    - **Reviews feedback** from pool members
+    - Application managers EMS / ECC _(EMS = Emergency Medical Services, ECC = Emergency Communication Centre 144)_
+    - Operations planning and training coordinators
+    - Heads of emergency medical services
+    - Operators of ECC dispatch / command & control systems
   expert_title: Expert
   expert_description: Testing and specific domain expertise
   expert_responsibilities: |-
@@ -86,13 +86,13 @@ fr:
   strategic_description: Au niveau stratégique, les organes décisionnels des autorités, des hôpitaux, des forces d’intervention et de l’armée assurent l’ancrage global du système. L’accent est mis sur une large adhésion, la mise à disposition des ressources humaines et financières ainsi que la clarification des bases légales nécessaires à l’engagement interorganisationnel.
   tactical_heading: Niveau **tactique**
   tactical_description: Au niveau tactique, les responsables de conduite et les spécialistes des cantons, des organisations d’intervention, des hôpitaux et de l’armée coordonnent la mise en œuvre concrète. L’accent est mis sur le déploiement du système, des concepts de formation pratiques ainsi que la gestion ciblée des capacités humaines et organisationnelles.
-  hop_title: Head of Pool
-  hop_description: Direction technique et représentation du partenaire stratégique
+  hop_title: Préhospitalier
+  hop_description: Soins d’urgence préhospitaliers et secours
   hop_responsibilities: |-
-    - **Représente** le partenaire stratégique qui l'a nommé
-    - Personne de contact pour les **questions techniques**
-    - Teste les produits intermédiaires et **fournit des retours techniques**
-    - **Évalue les retours** des membres du pool
+    - Responsables d’application SU / CAS _(SU = Services d’urgence / secours, CAS = Centrale d’appels sanitaires 144)_
+    - Responsables de la planification des engagements et de la formation
+    - Directions des services de sauvetage
+    - Exploitants des systèmes d’engagement CAS
   expert_title: Expert
   expert_description: Tests et expertise métier spécifique
   expert_responsibilities: |-
@@ -115,13 +115,13 @@ it:
   strategic_description: A livello strategico, i decisori delle autorità, degli ospedali, dei servizi di pronto intervento e dell’esercito garantiscono il radicamento complessivo del sistema. L’attenzione si concentra su un’ampia accettazione, sulla messa a disposizione delle risorse umane e finanziarie e sul chiarimento delle basi legali per l’impiego interorganizzativo.
   tactical_heading: Livello **tattico**
   tactical_description: A livello tattico, i responsabili operativi e gli specialisti dei Cantoni, delle organizzazioni di pronto intervento, degli ospedali e dell’esercito coordinano l’attuazione concreta. L’attenzione si concentra sull’introduzione del sistema, su modelli di formazione orientati alla prassi e sulla gestione mirata delle capacità del personale e dell’organizzazione.
-  hop_title: Head of Pool
-  hop_description: Direzione tecnica e rappresentanza del partner strategico
+  hop_title: Preospedaliero
+  hop_description: Soccorso sanitario d’urgenza e preospedaliero
   hop_responsibilities: |-
-    - **Rappresenta** il partner strategico che lo ha nominato
-    - Persona di contatto per **questioni tecniche**
-    - Testa i prodotti intermedi e **fornisce feedback tecnici**
-    - **Valuta i feedback** dei membri del pool
+    - Responsabili applicativi SS / CAS _(SS = Servizi di soccorso, CAS = Centrale d’allarme sanitario 144)_
+    - Responsabili della pianificazione degli interventi e della formazione
+    - Direzioni dei servizi di soccorso
+    - Gestori dei sistemi di comando e controllo CAS
   expert_title: Expert
   expert_description: Test e competenza specifica nel settore
   expert_responsibilities: |-
