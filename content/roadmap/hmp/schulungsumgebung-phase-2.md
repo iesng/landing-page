@@ -1,7 +1,7 @@
 ---
 de:
   order: 3
-  state: current
+  state: completed
   date_label: September 2024
   title: Verfügbarkeit des MMP
   description: Bereitstellung des Minimal Marketable Product (MMP) und erste Demonstrationen der neuen Heilmittelplattform für relevante Stakeholder.
