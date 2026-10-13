@@ -7,7 +7,7 @@ de:
   strategic_description: Auf strategischer Ebene stellen Entscheidungsträgerinnen und Entscheidungsträger aus Behörden, Spitälern, Blaulicht und Armee die übergeordnete Verankerung des Systems sicher. Im Fokus stehen dabei die breite Akzeptanz, die Bereitstellung der personellen und finanziellen Ressourcen sowie die Klärung der rechtlichen Grundlagen für den organisationsübergreifenden Einsatz.
   strategic_partners:
     - abbr: Präklinik
-      full_name: GDK\ kantonale Gesundheitsämter\ IVR\ Swiss Paramedic Association\ SGNOR
+      full_name: '- GDK - kantonale Gesundheitsämter - IVR - Swiss Paramedic Association - SGNOR'
       logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: '#1466B8'
       logo_padded: true
