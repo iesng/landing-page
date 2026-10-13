@@ -129,9 +129,21 @@ en:
     - Operations planning and training coordinators
     - Heads of emergency medical services
     - Operators of ECC dispatch / command & control systems
-  tactical_clinic_members: ''
-  tactical_authorities_members: ''
-  tactical_army_members: ''
+  tactical_clinic_members: |-
+    - Hospital application managers
+    - Emergency department management
+    - Hospital crisis management board
+    - Lead anaesthesiologists
+    - Operating theatre coordination
+    - Intensive care unit (ICU) management
+    - Hospital Information System (HIS) operators
+  tactical_authorities_members: |-
+    - Cantonal crisis management bodies
+    - CMS delegates
+    - Application managers Police / Staff / Third parties
+    - Civil protection command
+    - Data archiving
+  tactical_army_members: '- Armed Forces liaison officer'
   operative_heading: '**Operative** Level'
   operative_description: At the operational level, end users from emergency medical services, dispatch centers, hospitals, police, civil protection, and the armed forces directly contribute their front-line experience. They define the practical requirements for day-to-day operations and evaluate new features through hands-on technical testing. Through their formal user acceptance testing, they ensure that the system is reliable, intuitive, and mission-ready in real-world crisis situations.
   operative_preclinic_members: ''
@@ -182,9 +194,21 @@ fr:
     - Responsables de la planification des engagements et de la formation
     - Directions des services de sauvetage
     - Exploitants des systèmes d’engagement CAS
-  tactical_clinic_members: ''
-  tactical_authorities_members: ''
-  tactical_army_members: ''
+  tactical_clinic_members: |-
+    - Responsables d’application hôpital
+    - Direction du service des urgences
+    - État-major de crise hospitalier
+    - Médecins cadres / chefs d’anesthésie
+    - Coordination du bloc opératoire
+    - Direction des soins intensifs (SI)
+    - Exploitants du DPI / SIH
+  tactical_authorities_members: |-
+    - Organes cantonaux de conduite (OCC)
+    - Délégués SSC
+    - Responsables d’application Police / État-major / Tiers
+    - Cadres de la protection civile
+    - Archivage des données
+  tactical_army_members: '- Officier de liaison de l’armée'
   operative_heading: Niveau **opérationnel**
   operative_description: Au niveau opérationnel, les utilisatrices et utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
   operative_preclinic_members: ''
@@ -235,6 +259,21 @@ it:
     - Responsabili della pianificazione degli interventi e della formazione
     - Direzioni dei servizi di soccorso
     - Gestori dei sistemi di comando e controllo CAS
+  tactical_clinic_members: |-
+    - Responsabili applicativi ospedale
+    - Direzione del pronto soccorso
+    - Stato maggiore di crisi ospedaliero
+    - Primari / responsabili di anestesia
+    - Coordinamento sale operatorie
+    - Direzione delle cure intense (CI)
+    - Gestori dei sistemi informativi ospedalieri (SIO)
+  tactical_authorities_members: |-
+    - Organi cantonali di condotta (OCC)
+    - Delegati SSC
+    - Responsabili applicativi Polizia / Stato maggiore / Terzi
+    - Comando della protezione civile
+    - Archiviazione dei dati
+  tactical_army_members: '- Ufficiale di collegamento dell’esercito'
   operative_heading: Livello **operativo**
   operative_description: A livello operativo, gli utenti dei servizi di soccorso, delle centrali d’allarme, degli ospedali, della polizia, della protezione civile e dell’esercito apportano direttamente la propria esperienza pratica sul campo. Definiscono i requisiti concreti per l’impiego quotidiano in prima linea e verificano l’efficacia pratica delle nuove funzionalità tramite test specialistici. Con i loro collaudi formali garantiscono che, in caso di emergenza, il sistema sia stabile, intuitivo e pronto all’uso.
 ---
