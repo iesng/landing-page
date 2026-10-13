@@ -6,19 +6,24 @@ de:
   strategic_heading: '**Strategische** Ebene'
   strategic_description: Die drei strategischen Projektpartner sichern die strategische Ausrichtung des Projekts und die Unterstützung in ihren Bereichen.
   strategic_partners:
-    - abbr: SGNOR
-      full_name: Schweizerische Gesellschaft für Notfall- und Rettungsmedizin
-      logo: /logos/sgnor.svg
+    - abbr: Präklinik
+      full_name: GDK kantonale Gesundheitsämter IVR Swiss Paramedic Association SGNOR
+      logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: '#1466B8'
       logo_padded: true
-    - abbr: IVR
-      full_name: Interverband für Rettungswesen
-      logo: /logos/ivr.webp
+    - abbr: Klinik
+      full_name: H+ Die Spitäler der Schweiz Spitaldirektionen SGNOR
+      logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: ''
       logo_padded: false
-    - abbr: SPA
-      full_name: Swiss Paramedic Association
-      logo: /logos/spa.webp
+    - abbr: Polizei / Stab / Dritte
+      full_name: KKPKS Polizeikommandos Care-Leitungen Kantonales Amt für Zivilschutz BABS NEOC (Systemeigner)  armasuisse (Projektleitung)  NAZ/KATAMED, BSTB BAG, EDA BI-Datennutzer
+      logo: /images/uploads/landscape_6000x4000.webp
+      logo_bg: ''
+      logo_padded: false
+    - abbr: Armee
+      full_name: Armee Sanität (San) Logistikbasis der Armee (LBA)
+      logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: ''
       logo_padded: false
   tactical_heading: '**Taktische** Ebene'
