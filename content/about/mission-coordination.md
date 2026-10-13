@@ -1,7 +1,7 @@
 ---
 de:
   order: 3
-  illustration: /illustrations/mission-coordination.svg
+  illustration: /images/uploads/spots/spot-einsatzkoordination.svg
   title: Einsatzkoordination
   description: Kantonsübergreifende Abstimmung von Führungs- und Einsatzkräften, Transportmitteln und Rettungsmitteln für einen nahtlosen Ablauf der Rettungskette.
 en:

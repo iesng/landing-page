@@ -2,19 +2,19 @@
 de:
   order: 1
   state: completed
-  date_label: 1. Juli 2025
-  title: Heilmittelplattform
-  description: Go-Live Heilmittelplattform (BWL) zum aktiven Monitoring der Verfügbarkeit von kritischen Heilmitteln.
+  date_label: Januar 2024
+  title: Bundesratsentscheid
+  description: Der Bundesrat hat sich für die Erstellung eines proaktiven Monitorings entschieden, wofür sich auch Industrie und Stakeholder ausgesprochen haben.
 en:
-  date_label: July 2025
-  title: Medicines Platform
-  description: Go-live of the Medicines Platform (HMP) for active monitoring of critical medicines availability.
+  date_label: January 2024
+  title: Federal Council Decision
+  description: The Federal Council decided to set up proactive monitoring, which industry and stakeholders had also called for.
 fr:
-  date_label: Juillet 2025
-  title: Plateforme des médicaments
-  description: Mise en service de la plateforme des médicaments (HMP) pour le suivi actif de la disponibilité des médicaments critiques.
+  date_label: Janvier 2024
+  title: Décision du Conseil fédéral
+  description: Le Conseil fédéral a décidé de mettre en place un monitorage proactif. L'industrie et les parties prenantes s'étaient également prononcées en faveur de cette solution.
 it:
-  date_label: Luglio 2025
-  title: Piattaforma dei medicamenti
-  description: Go-live della piattaforma dei medicamenti (HMP) per il monitoraggio attivo della disponibilità di medicamenti critici.
+  date_label: Gennaio 2024
+  title: Decisione del Consiglio federale
+  description: II Consiglio federale ha deciso di istituire un sistema di monitoraggio proattivo, a favore del quale si sono dichiarati anche l'industria e gli stakeholder.
 ---

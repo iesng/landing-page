@@ -2,19 +2,19 @@
 de:
   order: 2
   state: completed
-  date_label: "Ab Oktober 2025"
-  title: "Schulungsumgebung Phase 1"
-  description: "Schulungsumgebung für «Head of Pools», Experten und Pilotkantone."
+  date_label: April 2024
+  title: Start der Umsetzung
+  description: Die technische Realisierung der neuen Heilmittelplattform begann im Rahmen des Projekts IES NG unter Federführung des Bundesamts für Bevölkerungsschutz (BABS).
 en:
-  date_label: "October 2025"
-  title: "Training Environment Phase 1"
-  description: "Training environment accessible for Pool management, subject matter experts and pilot cantons."
+  date_label: April 2024
+  title: Start of Implementation
+  description: Technical implementation of the new platform for therapeutic products began as part of the IES NG project, led by the Federal Office for Civil Protection (FOCP).
 fr:
-  date_label: "Octobre 2025"
-  title: "Environnement de formation Phase 1"
-  description: "Environnement de formation accessible pour la direction du Pool, les experts et les cantons pilotes."
+  date_label: Avril 2024
+  title: Début de la mise en œuvre
+  description: La réalisation technique de la nouvelle Plateforme des produits thérapeutiques a débuté dans le cadre du projet IES NG, sous la conduite de l'Office fédéral de la protection de la population (OFPP).
 it:
-  date_label: "Ottobre 2025"
-  title: "Ambiente di formazione Fase 1"
-  description: "Ambiente di formazione accessibile per la direzione del Pool, esperti e cantoni pilota."
+  date_label: Aprile 2024
+  title: Avvio dell'attuazione
+  description: La realizzazione tecnica della nuova Piattaforma degli Agenti terapeutici è iniziata nell'ambito del progetto IES NG, sotto la direzione dell'Ufficio federale della protezione della popolazione (UFPP).
 ---

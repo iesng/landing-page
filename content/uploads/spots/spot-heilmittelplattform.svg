@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-label="Heilmittelplattform"><title>Heilmittelplattform</title><style>
+.bg{fill:#F0F4F7}.tint{fill:#DCEFF9}.blue{fill:#0090DA}.dark{fill:#2f4356}.white{fill:#fff}.grey{fill:#D5DCE4}
+.st{stroke:#2f4356;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;fill:none}
+.stb{stroke:#0090DA;stroke-width:2;stroke-linecap:round;fill:none}
+.dash{stroke:#0090DA;stroke-width:2;stroke-dasharray:2 6;stroke-linecap:round;fill:none}
+.topo{stroke:#D5DCE4;stroke-width:1.5;fill:none}
+.wst{stroke:#fff;stroke-width:2;stroke-linecap:square;fill:none}
+@media (prefers-color-scheme:dark){
+.bg{fill:#1c2834}.tint{fill:#0b3a55}.white{fill:#263645}.grey{fill:#46596b}.dark{fill:#F0F4F7}
+.st{stroke:#F0F4F7}.topo{stroke:#263645}}
+</style><circle class="bg" cx="160" cy="116" r="96"/><ellipse class="tint" cx="160" cy="206" rx="118" ry="10"/><path class="white st" d="M70 202V96h70v106z"/><path class="tint" d="M71 120h68v40H71z"/><path class="st" d="M70 120h70M70 160h70"/><path class="stb" d="M105 128v24M93 140h24"/><path class="white st" d="M76 96l8-14h52l4 14"/><g transform="rotate(-35 172 178)"><rect class="blue" x="152" y="170" width="40" height="16" rx="8"/><rect class="white" x="172" y="171" width="19" height="14" rx="7"/></g><g transform="rotate(20 200 196)"><rect class="dark" x="182" y="189" width="36" height="14" rx="7"/></g><rect class="white st" x="166" y="52" width="96" height="84" rx="4"/><path class="st" d="M178 120h72"/><rect class="blue" x="184" y="78" width="10" height="42" rx="1"/><rect class="blue" x="200" y="86" width="10" height="34" rx="1"/><rect class="grey" x="216" y="98" width="10" height="22" rx="1"/><rect class="grey" x="232" y="108" width="10" height="12" rx="1"/><path class="st" d="M182 68l60 28"/><path class="st" d="M234 96h8v-8"/><path class="white" d="M248 44l16 28h-32z"/><path class="st" d="M248 44l16 28h-32z"/><path class="st" d="M248 54v8"/><circle class="dark" cx="248" cy="67" r="1.6"/></svg>

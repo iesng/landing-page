@@ -3,7 +3,7 @@ de:
   name: Schwyz
   status: training
   contacts:
-    - name: Milena Bosshard
+    - name: Dominik Oechlin
       role: main
 en:
   name: Schwyz

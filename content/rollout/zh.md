@@ -2,7 +2,11 @@
 de:
   name: Zürich
   status: training
-  contacts: []
+  contacts:
+    - name: Robin Breu
+      role: main
+    - name: Michael Keller
+      role: deputy
 en:
   name: Zurich
 fr:

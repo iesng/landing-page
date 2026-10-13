@@ -2,19 +2,19 @@
 de:
   order: 3
   state: current
-  date_label: "Ab Februar 2026"
-  title: "Schulungsumgebung Phase 2"
-  description: "Schulungsumgebung für alle Nutzer zugänglich. Schulungsmaterial und Onboarding-Unterstützung verfügbar."
+  date_label: September 2024
+  title: Verfügbarkeit des MMP
+  description: Bereitstellung des Minimal Marketable Product (MMP) und erste Demonstrationen der neuen Heilmittelplattform für relevante Stakeholder.
 en:
-  date_label: "February 2026"
-  title: "Training Environment Phase 2"
-  description: "Training environment available for all organisations. Training material and onboarding support available."
+  date_label: September 2024
+  title: MMP available
+  description: The Minimal Marketable Product (MMP) was delivered, and the new platform for therapeutic products was demonstrated to relevant stakeholders for the first time.
 fr:
-  date_label: "Février 2026"
-  title: "Environnement de formation Phase 2"
-  description: "Environnement de formation disponible pour toutes les organisations. Matériel de formation et support d'intégration disponibles."
+  date_label: Septembre 2024
+  title: Disponibilité du MMP
+  description: Le Minimal Marketable Product (MMP) a été mis à disposition, et la nouvelle plateforme des produits thérapeutiques a été présentée aux parties prenantes concernées lors de premières démonstrations.
 it:
-  date_label: "Febbraio 2026"
-  title: "Ambiente di formazione Fase 2"
-  description: "Ambiente di formazione disponibile per tutte le organizzazioni. Materiale di formazione e supporto all'inserimento disponibili."
+  date_label: Settembre 2024
+  title: Disponibilità dell'MMP
+  description: II Minimal Marketable Product (MMP) è stato messo a disposizione e la nuova piattaforma degli agenti terapeutici è stata presentata per la prima volta ai principali stakeholder.
 ---
