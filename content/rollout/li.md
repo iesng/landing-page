@@ -1,12 +1,18 @@
 ---
 de:
-  name: Liechtenstein
-  status: planning
-  contacts: []
+  name: Fürstentum Liechtenstein
+  status: training
+  contacts:
+    - name: Markus Senti
+      role: main
+    - name: Adrian John
+      role: deputy
+    - name: Milena Bosshard
+      role: deputy
 en:
-  name: Liechtenstein
+  name: Principality of Liechtenstein
 fr:
-  name: Liechtenstein
+  name: Principauté du Liechtenstein
 it:
-  name: Liechtenstein
+  name: Principato del Liechtenstein
 ---
