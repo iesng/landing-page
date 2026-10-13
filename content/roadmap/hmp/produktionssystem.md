@@ -1,23 +1,23 @@
 ---
 de:
   order: 4
-  state: future
-  date_label: Ab Juni 2026
-  title: Produktionssystem
-  description: Produktivsystem steht technisch zur Verfügung.
+  state: completed
+  date_label: März 2025
+  title: Pilot mit der Industrie
+  description: Ausgewählte Unternehmen erprobten die Plattform und testeten die Schnittstellen auf Basis des MMP.
 en:
   order: 4
-  date_label: June 2026
-  title: Production System
-  description: The production system is released for all organisations. Start of operational use.
+  date_label: March 2025
+  title: Pilot with Industry
+  description: Selected companies trialled the platform and tested the interfaces based on the MMP.
 fr:
   order: 4
-  date_label: Juin 2026
-  title: Système de production
-  description: Le système de production est libéré pour toutes les organisations. Début de l'utilisation opérationnelle.
+  date_label: Mars 2025
+  title: Projet pilote avec l'industrie
+  description: Des entreprises sélectionnées ont testé la plateforme ainsi que les interfaces sur la base du MMP.
 it:
   order: 4
-  date_label: Giugno 2026
-  title: Sistema di produzione
-  description: Il sistema di produzione viene rilasciato per tutte le organizzazioni. Inizio dell'utilizzo operativo.
+  date_label: Marzo 2025
+  title: Progetto pilota con l'industria
+  description: Alcune aziende selezionate hanno provato la piattaforma e testato il funzionamento delle interfacce sulla base dell'MMP.
 ---
