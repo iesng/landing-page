@@ -1,7 +1,7 @@
 ---
 de:
   date: 2026-09-01
-  image: ''
+  image: /images/uploads/stakeholderkartenews.webp
   title: Strukturierte Stakeholder-Einbindung und Bildung von Fachgremien
   description: Um die bedarfsgerechte Weiterentwicklung des Systems IES über den gesamten Lebenszyklus sicherzustellen, wird die Einbindung der Partnerorganisationen über alle Fachbereiche hinweg in eine strategische, taktische und operative Ebene gegliedert. Für jeden Fachbereich werden künftig spezifische Fachgremien IES gebildet, deren Vertreterinnen und Vertreter direkt durch den jeweiligen Bereich nominiert werden. Die Kantone sind aufgerufen, ihre zuständigen Fachpersonen pro Bereich zu melden, um die fachlichen Anforderungen kontinuierlich in das System einzubringen.
 en:
