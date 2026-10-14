@@ -1,7 +1,7 @@
 ---
 de:
   play_store_url: https://play.google.com/store/apps/details?id=ch.ies.sanitaet.training&hl=de
-  app_store_url: https://edu.ies.swiss/de/docs/a.-einf%C3%BChrung/a.e_-_installation_ios_mobile_applikation_de/
+  app_store_url: https://edu.ies.swiss/de/document/installation-ios-mobile-applikation/
   play_store_url_production: ''
   app_store_url_production: ''
   hmp_url: https://www.bwl.admin.ch/de/meldestelle-heilmittel
@@ -15,7 +15,7 @@ de:
   login_label_training: Schulung
 en:
   play_store_url: https://play.google.com/store/apps/details?id=ch.ies.sanitaet.training&hl=en
-  app_store_url: https://edu.ies.swiss/de/docs/a.-einf%C3%BChrung/a.e_-_installation_ios_mobile_applikation_de/
+  app_store_url: https://edu.ies.swiss/de/document/installation-ios-mobile-applikation/
   play_store_url_production: ''
   app_store_url_production: ''
   hmp_url: https://www.bwl.admin.ch/en/therapeutic-products-reporting-office
@@ -43,7 +43,7 @@ fr:
   login_label_training: Formation
 it:
   play_store_url: https://play.google.com/store/apps/details?id=ch.ies.sanitaet.training&hl=it
-  app_store_url: https://edu.ies.swiss/de/docs/a.-einf%C3%BChrung/a.e_-_installation_ios_mobile_applikation_de/
+  app_store_url: https://edu.ies.swiss/de/document/installation-ios-mobile-applikation/
   play_store_url_production: ''
   app_store_url_production: ''
   hmp_url: https://www.bwl.admin.ch/it/centro-di-notifica-agenti-terapeutici
