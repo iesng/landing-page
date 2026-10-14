@@ -46,9 +46,6 @@
   "Landing": {
     "Nav": {
       "Home": "Home",
-      "Production": "Login IOS",
-      "Training": "Training",
-      "Edu": "EDU",
       "OpenMenu": "Open menu",
       "CloseMenu": "Close menu",
       "BABSFullName": "Federal Office for Civil Protection FOCP",
