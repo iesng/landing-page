@@ -9,7 +9,7 @@ en:
   answer: 'Sign-in is performed using the login method chosen by your organization: AGOV, PTI-Login or FedLogin. Contact your organization’s point of contact for access credentials.'
 fr:
   order: 4
-  question: Gestion des incidents - Comment me connecter à SII?
+  question: Gestion des incidents - Comment me connecter au SII?
   answer: 'La connexion s’effectue via la méthode de connexion choisie par votre organisation: AGOV, TIP-Login ou FedLogin. Contactez la personne de référence de votre organisation pour obtenir les données d’accès.'
 it:
   order: 4
