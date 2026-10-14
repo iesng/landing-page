@@ -53,7 +53,7 @@ de:
 
     #### 5.3 Bereitstellung der Website (Statische Inhalte)
 
-    Der Webauftritt `www.ies.swiss` stellt ausschliesslich öffentlich zugängliche, statische Informationen zur Verfügung. Auf dieser Website findet keine Transportverschlüsselung (kein HTTPS) statt, da keinerlei vertrauliche Informationen, Nutzereingaben oder schützenswerte Personendaten übertragen werden.
+    Der Webauftritt `www.ies.swiss` stellt ausschliesslich öffentlich zugängliche, statische Informationen zur Verfügung. Die Verbindung zur Website ist durchgehend mittels Transportverschlüsselung (HTTPS) gesichert; unverschlüsselte Aufrufe werden automatisch auf HTTPS umgeleitet.
 
     #### 5.4 Kontaktaufnahme per E-Mail
 
@@ -114,7 +114,7 @@ en:
 
     #### 5.3 Provision of the website (static content)
 
-    The website `www.ies.swiss` provides exclusively publicly accessible, static information. Transport encryption (HTTPS) is not implemented on this website, as no confidential information, user inputs, or sensitive personal data are transmitted.
+    The website `www.ies.swiss` provides exclusively publicly accessible, static information. All connections to the website are secured by transport encryption (HTTPS); unencrypted requests are automatically redirected to HTTPS.
 
     #### 5.4 Contact by email
 
@@ -175,7 +175,7 @@ fr:
 
     #### 5.3 Mise à disposition du site web (contenus statiques)
 
-    Le site web `www.ies.swiss` met exclusivement à disposition des informations statiques accessibles au public. Ce site ne fait pas appel au chiffrement de transport (pas de HTTPS), dans la mesure où aucune information confidentielle, aucune saisie utilisateur et aucune donnée personnelle nécessitant une protection n’y est transmise.
+    Le site web `www.ies.swiss` met exclusivement à disposition des informations statiques accessibles au public. La connexion au site est systématiquement sécurisée par un chiffrement de transport (HTTPS) ; les requêtes non chiffrées sont automatiquement redirigées vers HTTPS.
 
     #### 5.4 Prise de contact par courriel
 
@@ -236,7 +236,7 @@ it:
 
     #### 5.3 Messa a disposizione del sito web (contenuti statici)
 
-    Il sito web `www.ies.swiss` fornisce esclusivamente informazioni statiche pubblicamente accessibili. Su questo sito non è presente alcuna crittografia del trasporto (nessun HTTPS), in quanto non vengono trasmessi dati riservati, inserimenti di utenti o dati personali degni di protezione.
+    Il sito web `www.ies.swiss` fornisce esclusivamente informazioni statiche pubblicamente accessibili. La connessione al sito è protetta in modo sistematico mediante crittografia del trasporto (HTTPS); le richieste non crittografate vengono reindirizzate automaticamente su HTTPS.
 
     #### 5.4 Contatto via e-mail
 
