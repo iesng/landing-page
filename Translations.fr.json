@@ -46,9 +46,6 @@
   "Landing": {
     "Nav": {
       "Home": "Accueil",
-      "Production": "Connexion SII",
-      "Training": "Formation",
-      "Edu": "EDU",
       "OpenMenu": "Ouvrir le menu",
       "CloseMenu": "Fermer le menu",
       "BABSFullName": "Office fédéral de la protection de la population OFPP",

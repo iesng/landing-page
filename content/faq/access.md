@@ -9,7 +9,7 @@ en:
   answer: Employees of emergency response organizations, hospitals and command staffs receive access through their organization.
 fr:
   order: 2
-  question: Gestion des incidents - Qui a accès au SII dans le domaine de la gestion des événements?
+  question: Gestion des incidents - Qui a accès au SII dans le domaine de la gestion des événements ?
   answer: Les collaborateurs des organisations d’intervention, des hôpitaux et des états-majors ont accès via leur organisation.
 it:
   order: 2
