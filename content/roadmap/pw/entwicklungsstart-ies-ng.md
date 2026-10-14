@@ -13,7 +13,7 @@ en:
 fr:
   order: 1
   date_label: 11.01.2024
-  title: Lancement du développement de SII NG
+  title: Lancement du développement du SII NG
   description: Clôture de la phase de conception et début des travaux de développement technique de la nouvelle génération du système.
 it:
   order: 1
