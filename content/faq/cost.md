@@ -9,8 +9,8 @@ en:
   answer: Using IES NG is free of charge for connected organisations. The system is funded by the Swiss Federal Office for Civil Protection (FOCP).
 fr:
   order: 9
-  question: Gestion des incidents - L'utilisation de SII NG entraîne-t-elle des coûts pour mon organisation ?
-  answer: L’utilisation d’SII est gratuite pour toutes les organisations raccordées. Le système est financé par l’Office fédéral de la protection de la population (OFPP).
+  question: Gestion des incidents - L'utilisation du SII NG entraîne-t-elle des coûts pour mon organisation ?
+  answer: L’utilisation du SII est gratuite pour toutes les organisations raccordées. Le système est financé par l’Office fédéral de la protection de la population (OFPP).
 it:
   order: 9
   question: Gestione degli eventi – L'utilizzo di SII NG comporta costi per la mia organizzazione?
