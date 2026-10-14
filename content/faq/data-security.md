@@ -9,7 +9,7 @@ en:
   answer: All data is encrypted on mobile devices, during transmission, and while stored in the Swiss data center. Operations are managed by the Federal Office for Civil Protection (FOCP) in compliance with Swiss data protection requirements.
 fr:
   order: 6
-  question: Gestion des incidents - Comment mes données sont-elles protégées dans SII?
+  question: Gestion des incidents - Comment mes données sont-elles protégées dans le SII?
   answer: Toutes les données sont chiffrées sur les terminaux mobiles, lors de la transmission et lors du stockage dans le centre de calcul suisse. L’exploitation est assurée par l’Office fédéral de la protection de la population (OFPP) dans le respect des exigences suisses en matière de protection des données.
 it:
   order: 6
