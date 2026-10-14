@@ -8,7 +8,7 @@ de:
   edu_url: https://edu.ies.swiss/de/
   edu_label: EDU
   status_url: https://status.ies.swiss
-  status_label: Status
+  status_label: Status de
   login_url_production: https://ies.swiss/?lang=de
   login_label_production: Login IES
   login_url_training: https://training.ies.swiss/?lang=de
@@ -36,7 +36,7 @@ fr:
   edu_url: https://edu.ies.swiss/fr/
   edu_label: EDU
   status_url: https://status.ies.swiss
-  status_label: Status
+  status_label: Status fr
   login_url_production: https://ies.swiss/?lang=fr
   login_label_production: Connexion SII
   login_url_training: https://training.ies.swiss/?lang=fr
