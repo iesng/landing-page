@@ -17,7 +17,7 @@ fr:
   order: 18
   question: Où puis-je trouver les dernières notifications de perturbation concernant les produits thérapeutiques à usage humain essentiels en Suisse ?
   answer: |-
-    Vous trouverez les dernières Notifications de perturbation [ici](https://visualize.admin.ch/fr/v/7hTW8RHMU7PC?dataSource=Prod). Vous pouvez également télécharger directement ces données sous forme de fichier Excel ou CSV.
+    Vous trouverez les dernières notifications de perturbation [ici](https://visualize.admin.ch/fr/v/7hTW8RHMU7PC?dataSource=Prod). Vous pouvez également télécharger directement ces données sous forme de fichier Excel ou CSV.
 
     Pour toute autre question, n'hésitez pas à consulter notre [FAQ](https://www.bwl.admin.ch/fr/informations-complementaires-produits-therapeutiques#FAQ) détaillée sur notre site web.
 it:
