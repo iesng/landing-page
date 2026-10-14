@@ -16,5 +16,5 @@ fr:
 it:
   date_label: Aprile 2024
   title: Avvio dell'attuazione
-  description: La realizzazione tecnica della nuova Piattaforma degli Agenti terapeutici è iniziata nell'ambito del progetto IES NG, sotto la direzione dell'Ufficio federale della protezione della popolazione (UFPP).
+  description: La realizzazione tecnica della nuova Piattaforma degli Agenti terapeutici è iniziata nell'ambito del progetto SII NG, sotto la direzione dell'Ufficio federale della protezione della popolazione (UFPP).
 ---

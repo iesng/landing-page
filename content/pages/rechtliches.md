@@ -211,7 +211,7 @@ it:
 
     Copyright, Confederazione Svizzera / Autorità federali della Confederazione Svizzera.
 
-    Le informazioni contenute in questo sito web sono messe a disposizione del pubblico. Lo scaricamento o la riproduzione di contenuti, immagini, fotografie o altri dati non comportaalcun trasferimento di diritti sui contenuti stessi.
+    Le informazioni contenute in questo sito web sono messe a disposizione del pubblico. Lo scaricamento o la riproduzione di contenuti, immagini, fotografie o altri dati non comporta alcun trasferimento di diritti sui contenuti stessi.
 
     I diritti d’autore e tutti gli altri diritti sui contenuti, immagini, fotografie o altri file pubblicati su questo sito web appartengono esclusivamente alle autorità federali della Confederazione Svizzera o ai titolari dei diritti espressamente menzionati. La riproduzione di qualsiasi elemento richiede l’autorizzazione scritta preventiva dei titolari dei diritti.
 
