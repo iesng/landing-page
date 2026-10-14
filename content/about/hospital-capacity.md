@@ -7,7 +7,7 @@ de:
 en:
   order: 2
   title: Hospital Capacity
-  description: ed occupancy, available capacities, and current admission readiness of all hospitals at a glance — in real time and across cantons.
+  description: Bed occupancy, available capacities, and current admission readiness of all hospitals at a glance — in real time and across cantons.
 fr:
   order: 2
   title: Capacité hospitalière

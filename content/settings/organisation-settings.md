@@ -10,9 +10,9 @@ en:
 fr:
   nav_label: Organisation
   title: Responsabilité
-  subtitle: Le projet et le système SII NG sont portés et financés conjointement par l’Office fédéral de la protection de la population (OFPP) et l’Office fédéral pour l’approvisionnement économique du pays (OAE).
+  subtitle: Le projet et le système SII NG sont portés et financés conjointement par l’Office fédéral de la protection de la population (OFPP) et l’Office fédéral pour l’approvisionnement économique du pays (OFAE).
 it:
   nav_label: Organizzazione
   title: Ente responsabile
-  subtitle: Il progetto e il sistema SII NG sono promossi e finanziati congiuntamente dall’Ufficio federale della protezione della popolazione (UFPP) e dall’Ufficio federale per l’approvvigionamento economico del Paese (UAE).
+  subtitle: Il progetto e il sistema SII NG sono promossi e finanziati congiuntamente dall’Ufficio federale della protezione della popolazione (UFPP) e dall’Ufficio federale per l’approvvigionamento economico del Paese (UFAE).
 ---

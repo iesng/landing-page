@@ -2,7 +2,7 @@
 de:
   order: 9
   question: Ereignisbewältigung - Entstehen für meine Organisation Kosten durch IES?
-  answer: Die Nutzung von IES ist für alle angeschlossene Organisationen kostenlos. Das System wird durch das Bundesamt für Bevölkerungsschutz (BABS) finanziert.
+  answer: Die Nutzung von IES ist für alle angeschlossenen Organisationen kostenlos. Das System wird durch das Bundesamt für Bevölkerungsschutz (BABS) finanziert.
 en:
   order: 9
   question: Incident Management - Will IOS incur any costs for my organisation?

@@ -2,7 +2,7 @@
 de:
   order: 8
   question: Ereignisbewältigung - Wo erhalte ich technischen Support?
-  answer: Bei technischen Fragen steht ihnen https://edu.ies.swiss zur Verfügung. Ansonsten wenden Sie sich an den Super User ihrer Organisation, ihren kantonalen Applikationsverantwortlichen oder an das Betriebsteam unter ies.ng@babs.admin.ch.
+  answer: Bei technischen Fragen steht Ihnen https://edu.ies.swiss zur Verfügung. Ansonsten wenden Sie sich an den Super User Ihrer Organisation, Ihren kantonalen Applikationsverantwortlichen oder an das Betriebsteam unter ies.ng@babs.admin.ch.
 en:
   order: 8
   question: Incident Management - Where do I get technical support?

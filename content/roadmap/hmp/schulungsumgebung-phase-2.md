@@ -16,5 +16,5 @@ fr:
 it:
   date_label: Settembre 2024
   title: Disponibilità dell'MMP
-  description: II Minimal Marketable Product (MMP) è stato messo a disposizione e la nuova piattaforma degli agenti terapeutici è stata presentata per la prima volta ai principali stakeholder.
+  description: Il Minimal Marketable Product (MMP) è stato messo a disposizione e la nuova piattaforma degli agenti terapeutici è stata presentata per la prima volta ai principali stakeholder.
 ---

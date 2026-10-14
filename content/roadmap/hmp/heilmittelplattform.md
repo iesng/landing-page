@@ -16,5 +16,5 @@ fr:
 it:
   date_label: Gennaio 2024
   title: Decisione del Consiglio federale
-  description: II Consiglio federale ha deciso di istituire un sistema di monitoraggio proattivo, a favore del quale si sono dichiarati anche l'industria e gli stakeholder.
+  description: Il Consiglio federale ha deciso di istituire un sistema di monitoraggio proattivo, a favore del quale si sono dichiarati anche l'industria e gli stakeholder.
 ---
