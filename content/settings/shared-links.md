@@ -19,7 +19,7 @@ en:
   play_store_url_production: ''
   app_store_url_production: ''
   hmp_url: https://www.bwl.admin.ch/en/therapeutic-products-reporting-office
-  edu_url: https://edu.ies.swiss/en/
+  edu_url: https://edu.ies.swiss/de/
   edu_label: EDU
   status_url: https://status.ies.swiss
   status_label: Status
@@ -47,7 +47,7 @@ it:
   play_store_url_production: ''
   app_store_url_production: ''
   hmp_url: https://www.bwl.admin.ch/it/centro-di-notifica-agenti-terapeutici
-  edu_url: https://edu.ies.swiss/it/
+  edu_url: https://edu.ies.swiss/de/
   edu_label: EDU
   status_url: https://status.ies.swiss
   status_label: Status
