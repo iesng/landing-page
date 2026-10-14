@@ -46,9 +46,6 @@
   "Landing": {
     "Nav": {
       "Home": "Startseite",
-      "Production": "Login IES",
-      "Training": "Schulung",
-      "Edu": "EDU",
       "OpenMenu": "Menü öffnen",
       "CloseMenu": "Menü schliessen",
       "BABSFullName": "Bundesamt für Bevölkerungsschutz BABS",
