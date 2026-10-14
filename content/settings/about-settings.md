@@ -10,7 +10,7 @@ en:
 fr:
   nav_label: À propos du SII
   title: Qu'est-ce que **SII**?
-  subtitle: 'Le Système d’information et d’intervention (SII) est la plateforme centrale de la Suisse pour la maîtrise des événements majeurs et des situations d’urgence dans le secteur de la santé. Tandis que les cantons, les hôpitaux et les forces de commandement et d’intervention utilisent le système pour le suivi de la situation et des patients, la Plateforme Produits thérapeutiques (HMP) connectée permet à la Confédération et aux titulaires d’autorisation soumis à l’obligation de notifier de détecter précocement les pénuries d’approvisionnement. Les principales fonctions en un coup d’œil :'
+  subtitle: 'Le Système d’information et d’intervention (SII) est la plateforme centrale de la Suisse pour la maîtrise des événements majeurs et des situations d’urgence dans le secteur de la santé. Tandis que les cantons, les hôpitaux et les forces de commandement et d’intervention utilisent le système pour le suivi de la situation et des patients, la plateforme des produits thérapeutiques (HMP) connectée permet à la Confédération et aux titulaires d’autorisation soumis à l’obligation de notifier de détecter précocement les pénuries d’approvisionnement. Les principales fonctions en un coup d’œil :'
 it:
   nav_label: Informazioni su SII
   title: Cos'è **SII**?
