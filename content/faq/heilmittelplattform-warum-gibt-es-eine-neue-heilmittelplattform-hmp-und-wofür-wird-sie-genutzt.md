@@ -43,9 +43,9 @@ fr:
 
     Les dossiers suivants sont traités via la HMP :
 
-    •     Notification d’une pénurie ou de la rupture d’approvisionnement d’un médicament soumis à l’Obligation de notifier
+    •     Notification d’une pénurie ou de la rupture d’approvisionnement d’un médicament soumis à l’obligation de notifier
 
-    •     Notification d’un Retrait du marché
+    •     Notification d’un retrait du marché
 
     •     Demande de déblocage des réserves obligatoires de médicaments
 
