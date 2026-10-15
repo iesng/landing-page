@@ -2,7 +2,7 @@
 de:
   nav_label: Heilmittelplattform
   title: Versorgungsengpässe Heilmittel
-  subtitle: Versorgungsengpässe und kritische Heilmittel werden zentral durch das Bundesamt für wirtschaftliche Landesversorgung (BWL) erfasst und kommuniziert.
+  subtitle: Die Heilmittelplattform ist die zentrale Meldestelle für Versorgungsengpässe von lebenswichtigen Heilmitteln in der Schweiz. Zulassungsinhaberinnen liefern die Daten, das Bundesamt für wirtschaftliche Landesversorgung (BWL) verschafft sich daraus das Lagebild - und kann handeln, bevor Engpässe zu Versorgungslücken werden.
   cta_label: Zur Meldestelle
 en:
   nav_label: Therapeutic Products Platform
