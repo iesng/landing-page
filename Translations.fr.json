@@ -96,6 +96,10 @@
       "FAQ": {
         "Title": "Questions fréquemment posées - IES",
         "Description": "Réponses aux questions fréquemment posées sur IES NG – connexion, accès, sécurité, application mobile et assistance."
+      },
+      "PrivacyApp": {
+        "Title": "Protection des données App IES NG - IES",
+        "Description": "Déclaration de protection des données pour l’application mobile IES NG pour Android et iOS."
       }
     }
   }
