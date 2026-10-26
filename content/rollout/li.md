@@ -3,7 +3,7 @@ de:
   name: Fürstentum Liechtenstein
   status: training
   contacts:
-    - name: Markus Senti
+    - name: Thomas Biedermann
       role: main
     - name: Adrian John
       role: deputy
