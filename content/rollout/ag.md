@@ -3,10 +3,8 @@ de:
   name: Aargau
   status: training
   contacts:
-    - name: Chantal Céline Kleiner
+    - name: Erika Csatlos
       role: main
-    - name: Henrik Berthel
-      role: deputy
 en:
   name: Aargau
 fr:
