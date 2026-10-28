@@ -61,10 +61,10 @@ de:
   operative_heading: '**Operative** Ebene'
   operative_description: Auf operativer Ebene bringen die Anwenderinnen und Anwender aus Rettungsdiensten, Notrufzentralen, Spitälern, Polizei, Zivilschutz und Armee ihre praktischen Erfahrungen direkt ein. Sie definieren die konkreten Anforderungen für den Einsatzalltag an der Front und überprüfen neue Funktionen in Fachtests auf ihre Praxistauglichkeit. Durch ihre formellen Abnahmen stellen sie sicher, dass das System im Ernstfall stabil, intuitiv bedienbar und einsatzbereit ist.
   operative_preclinic_members: |-
-    - Disponent:innen, Schichtleitung SNZ
-    - Einsatzleiter:innen, Bereichsleiter:innen, Chargierte
+    - Disponenten, Schichtleitung SNZ
+    - Einsatzleiter, Bereichsleiter, Chargierte
     - RS HF, TS
-    - Notärzt:innen präklinisch
+    - Notärzte präklinisch
     - Luftrettung (Rega, Air-Glaciers, Air-Zermatt, AAA)
     - Verlegungskoordination national/international
   operative_clinic_members: |-
@@ -76,10 +76,10 @@ de:
     - IPS-Verantwortliche
     - Spitaladministration
   operative_authorities_members: |-
-    - Care-Teams, Notfallpsycholog:innen
+    - Care-Teams, Notfallpsychologen
     - Polizei Vermisstenmanagement, Streugut
     - Hotline-Führung, Soziale Arbeit
-    - Zivilschützer:innen
+    - Zivilschützer
   operative_army_members: |-
     - Kommando Operationen (analog SNZ)
     - Sanitätseinheiten, Spitalbataillone
@@ -231,7 +231,7 @@ fr:
     - Archivage des données
   tactical_army_members: '- Officier de liaison de l’armée'
   operative_heading: Niveau **opérationnel**
-  operative_description: Au niveau opérationnel, les utilisatrices et utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
+  operative_description: Au niveau opérationnel, les utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
   operative_preclinic_members: |-
     - Régulateurs, régulatrices et chefs de quart CASU
     - Chefs d’intervention, chefs de secteur et gradés
