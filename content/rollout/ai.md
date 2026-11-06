@@ -1,12 +1,14 @@
 ---
 de:
-  name: "Appenzell Innerrhoden"
+  name: Appenzell Innerrhoden
   status: planning
-  contacts: []
+  contacts:
+    - name: Pablo Cáceres
+      role: main
 en:
-  name: "Appenzell Innerrhoden"
+  name: Appenzell Innerrhoden
 fr:
-  name: "Appenzell Rhodes-Intérieures"
+  name: Appenzell Rhodes-Intérieures
 it:
-  name: "Appenzello Interno"
+  name: Appenzello Interno
 ---
