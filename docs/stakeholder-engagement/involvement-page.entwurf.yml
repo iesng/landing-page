@@ -1,0 +1,188 @@
+# Inhaltsentwurf Unterseite «Mitwirkung» (Etappe 2) – nur DE
+# Schema-Vorschlag siehe KONZEPT.md, Kap. 3. Nicht im CMS aktiv.
+# Stand 12.11.2026 · Quellen: FS, SM v0.1, FB, IA (12.11.2026)
+
+de:
+  nav_label: Mitwirkung
+  title: Mitwirkung bei **IES**
+  subtitle: IES soll ein Produkt für die Anwenderinnen und Anwender sein. Deshalb wirken die Kantone und Organisationen auf drei Ebenen und in zwölf Fachbereichen direkt an der Entwicklung mit.
+
+  # M1 Grundsätze
+  principles:
+    - icon: building-columns
+      title: Klare Rollen
+      text: Der Bund stellt das System, die Kantone führen das Ereignis, die Organisationen arbeiten damit. Das BABS versteht sich als Dienstleister.
+    - icon: map
+      title: Föderal verankert
+      text: Gesundheit, Rettungswesen und Sicherheit sind kantonal. Die Kantone delegieren ihre Fachvertreter:innen über die GDK und die KKPKS. «Kantone» umfasst alle 26 Kantone und das Fürstentum Liechtenstein.
+    - icon: user-gear
+      title: Die Funktion zählt
+      text: Massgebend ist die Funktion, nicht die Person. Wer taktisch und operativ tätig ist, wird je nach Aufgabe zugeordnet.
+
+  # M2 Ebenen × Domänen
+  levels:
+    - key: s
+      label: Strategisch
+      description: Politische und strategische Verankerung, Ressourcen, rechtliche Grundlagen.
+    - key: t
+      label: Taktisch
+      description: Einführungsorganisation – Einführung, Ausbildung, Konfiguration und Betrieb.
+    - key: o
+      label: Operativ
+      description: Arbeit an der Front – Anforderungen aus dem Einsatz.
+  domains:
+    - key: praeklinik
+      label: Präklinik
+      stakeholders:
+        s: [GDK und kantonale Gesundheitsämter, Interverband für Rettungswesen IVR, Swiss Paramedic Association]
+        t: [Applikationsverantwortliche Rettungsdienst und Sanitätsnotrufzentrale, Einsatzplanungs- und Ausbildungsverantwortliche, Leitungen Rettungsdienste, Betreiber Leitsysteme Sanitätsnotrufzentrale]
+        o: [Disponent:innen und Schichtleitung Sanitätsnotrufzentrale, Einsatzleitende und Chargierte, Rettungssanitäter:innen, Transportsanitäter:innen und Notärzt:innen, Luftrettung, Verlegungskoordination]
+    - key: klinik
+      label: Klinik
+      stakeholders:
+        s: [H+ Die Spitäler der Schweiz, Spitaldirektionen, SGNOR]
+        t: [Applikationsverantwortliche Spital, Leitung Notaufnahme und Krisenstab, Anästhesie- und OP-Koordination, Leitung Intensivpflege, Betreiber Klinikinformationssysteme]
+        o: [Notfall- und Triagepflege, Schockraum, Verbrennungszentren, Koronarversorgung, CBRN-Versorgung im Spital]
+    - key: polizei-stab-dritte
+      label: Polizei / Stab / Dritte
+      stakeholders:
+        s: [KKPKS und Polizeikommandos, Care-Leitungen, BABS NEOC, armasuisse, NAZ/KATAMED, BSTB, BAG, EDA]
+        t: [Kantonale Führungsorgane und KATAMED-Beauftragte, Applikationsverantwortliche Polizei / Stab / Dritte, Datenarchivierung]
+        o: [Care-Teams und Notfallpsycholog:innen, Vermisstenmanagement, Hotline und Soziale Arbeit, Zivilschutz]
+    - key: armee
+      label: Armee
+      stakeholders:
+        s: [Sanität der Armee, Logistikbasis der Armee LBA]
+        t: [Verbindungsoffizier:innen der Armee]
+        o: [Kommando Operationen, Sanitätseinheiten und Spitalbataillone, Luftwaffe]
+  domains_note: Eine Organisation kann mehreren Domänen und Ebenen zugeordnet sein. In kleinen Organisationen liegen taktische und operative Aufgaben oft bei derselben Person.
+
+  # M3 Rollen (Aufgaben, Kompetenzen, Verantwortung)
+  roles:
+    - key: fachvertretende
+      title: Fachvertreter:innen
+      appointment: Vom Kanton delegiert, über die GDK (Gesundheit) bzw. die KKPKS (Sicherheit)
+      levels: [t, o]
+      tasks:
+        - Praxis und Sicht des Kantons in den Fachbereich einbringen
+        - Neue Funktionen im Austausch mit den Product Ownern, in Fachworkshops und Abnahmetests prüfen
+        - Informationen in den Kanton zurücktragen
+      competences:
+        - Wählen je Fachbereich das Gruppierungsmodell und die Fachverantwortlichen (eine Stimme je Kanton und Fachbereich)
+        - Können sich als Fachverantwortliche zur Wahl stellen
+      responsibility: Abgestimmte Position des Kantons im Fachbereich
+      participation: Fachworkshops und Abnahmetests virtuell (hybrid)
+    - key: fachverantwortliche
+      title: Fachverantwortliche
+      appointment: Von den Fachvertreter:innen gewählt, bis zu fünf je Fachbereich, je eine Person pro Interessengruppe
+      levels: [t, o]
+      tasks:
+        - Meinungen der Fachvertreter:innen abholen und konsolidieren
+        - Priorisierung der Rückmeldungen im Backlog bestätigen
+        - Entscheid des Fachbereichs gegenüber dem Projekt vertreten
+      competences:
+        - Stimmrecht bei der fachlichen Abnahmeempfehlung
+      responsibility: Fachliche Abnahmeempfehlung für den eigenen Fachbereich – abgestimmt mit den Fachvertreter:innen, kein Alleingang
+      participation: Fachworkshops und Abnahmetests vor Ort
+    - key: applikationsverantwortliche
+      title: Applikationsverantwortliche
+      appointment: Durch Kanton bzw. Organisation bestimmt
+      levels: [t]
+      tasks:
+        - Ansprechstelle zwischen BABS und Kanton bzw. Organisation
+        - Super-User verwalten und Ausbildung organisieren
+        - Prozess-Review durchführen – Abgleich mit der kantonalen Einsatzdoktrin, Konfigurationsbedarf für den Rollout
+      competences:
+        - Vergeben Berechtigungen in der eigenen Organisation, auch für die Schulungsumgebung
+      responsibility: Einführung von IES in der eigenen Organisation
+      participation: Prozess-Review in der Organisation
+    - key: product-owner
+      title: Product Owner (BABS)
+      appointment: Projektteam IES NG
+      levels: []
+      tasks:
+        - Epics und Akzeptanzkriterien formulieren, Backlog führen
+        - Austausch, Fachworkshops und Abnahmetests vorbereiten und moderieren
+        - Jede Rückmeldung im Backlog erfassen
+      competences:
+        - Planen die Umsetzung je Program Increment
+      responsibility: Fachlicher Inhalt des Produkts IES
+      participation: Alle Gefässe
+    - key: epic-owner
+      title: Epic Owner (BABS)
+      appointment: Projektteam IES NG
+      levels: []
+      tasks:
+        - Moderiert die Konsensfindung, wenn Fachverantwortliche sich widersprechen
+      competences:
+        - Eskaliert an die Projektleitung
+      responsibility: Abschluss des Epics
+      participation: Bei Bedarf
+  roles_key_message: Es entscheiden die Fachverantwortlichen, soweit möglich nach Rücksprache mit den Fachvertreter:innen.
+
+  # M4 Fachbereiche
+  groups:
+    - title: Koordination Rettung & Verlegung
+      fachbereiche:
+        - { name: Sanitätsnotrufzentrale, tasks: [Alarmierung 144, Koordination und Führungsunterstützung, Lage Sanitätsnotrufzentrale] }
+        - { name: Luftrettung Koordination, tasks: [Luftrettung] }
+        - { name: Koordination Verlegungen national, tasks: [Sekundärverlegungen] }
+        - { name: Koordination Verlegungen international, tasks: [Repatriierung inkl. Ambulanzjet] }
+    - title: Präklinik
+      fachbereiche:
+        - { name: Präklinik Einsatzleitung, tasks: [Lage, Taktik und Operationen, Ressourcen, Präklinische Behandlung] }
+        - { name: Präklinik Front, tasks: [Transportausführung] }
+    - title: Klinik
+      fachbereiche:
+        - { name: Notfallstationen, tasks: [Koordination Walk-in, Schockräume, Lage und Behandlungskapazität] }
+        - { name: Klinik, tasks: [Verbrennung, OP und Anästhesie, Intensivpflege, Koronarversorgung, CBRN] }
+    - title: Polizei / Stab / Dritte
+      fachbereiche:
+        - { name: Polizei / Stab / Dritte, tasks: [Betreuung, Vermisstenmanagement, Hotline] }
+    - title: Analyse & Technik
+      fachbereiche:
+        - { name: Datenmanagement, tasks: [Bedarfsplanung, Datenexport, Auswertung nach dem Ereignis, Archivierung und Aufbewahrung] }
+        - { name: Technik, tasks: [Umsysteme – Klinikinformationssysteme und kantonale Leitsysteme] }
+        - { name: Business Engineering, tasks: [Datennutzung und Business Intelligence] }   # Bezeichnung offen, KONZEPT Kap. 6 Nr. 9
+
+  # M5 Mitwirkung im Entwicklungszyklus
+  cycle:
+    - { step: Anforderung, actor: Fachvertreter:innen, text: Bringen Anforderungen aus der Praxis ein. }
+    - { step: Planung, actor: Product Owner, text: Planen die Umsetzung im Program Increment. }
+    - { step: Umsetzung, actor: Entwicklungsteam, text: Setzt in zweiwöchigen Sprints um. }
+    - { step: Fachtesting, actor: Fachverantwortliche und Fachvertreter:innen, text: Prüfen die Funktionen an realistischen Einsatzbeispielen. }
+    - { step: Rückmeldung, actor: Product Owner, text: Erfassen die Rückmeldungen im Backlog. }
+  cycle_note: Agile Entwicklung folgt demselben Rhythmus wie die Führung im Einsatz – beurteilen, entscheiden, umsetzen, kontrollieren.
+  formats:
+    - { name: Austausch mit den Product Ownern, form: online, participants: alle Fachvertreter:innen, purpose: Stand zeigen, neue Funktionen vorstellen, Akzeptanzkriterien schärfen }
+    - { name: Fachworkshop, form: vor Ort / hybrid, participants: Fachverantwortliche vor Ort, Fachvertreter:innen virtuell, purpose: Funktionen an realistischen Einsatzbeispielen prüfen }
+    - { name: Abnahmetest, form: vor Ort / hybrid, participants: wie Fachworkshop, purpose: Fachliche Abnahmeempfehlung }
+    - { name: Prozess-Review, form: in den Organisationen, participants: Applikationsverantwortliche, purpose: Abgleich mit der kantonalen Einsatzdoktrin, Grundlage für Rollout und Ausbildung }
+  testing_steps:
+    - { title: Vorbereiten, text: Testszenarien und Prüfkriterien je Fachbereich, namentliche Einladung. }
+    - { title: Testen, text: Vor Ort am System – Arbeitsablauf und Bedienbarkeit an realistischen Einsatzbeispielen. }
+    - { title: Erfassen, text: Die Product Owner erfassen jede Rückmeldung, die Fachverantwortlichen bestätigen die Priorisierung. }
+    - { title: Empfehlen, text: Mindestens eine bzw. einer der Fachverantwortlichen gibt die Abnahmeempfehlung ab, idealerweise alle. Bei Widerspruch moderiert der Epic Owner. }
+  testing_note: Geprüft wird die fachliche Anwendbarkeit, nicht die technische Umsetzung. Die kommerzielle Abnahme bleibt davon getrennt.
+  key_message: «Fehlt noch» ist kein Befund. «Passt nicht zum Einsatz» ist der wichtige Befund.
+
+  # M7 Kontakt
+  contact:
+    title: Fragen zur Mitwirkung?
+    text: Wenden Sie sich an das Projektteam oder an die Applikationsverantwortlichen Ihres Kantons.
+    email: ies.ng@babs.admin.ch
+    feedback_label: Rückmeldung zum System geben
+    feedback_url: ''   # offen, KONZEPT Kap. 6 Nr. 6
+
+# M6 Termine – Vorschlag Collection content/involvement-events/*.md
+# Stand IA 12.11.2026, vor Publikation mit Roadmap abgleichen (KONZEPT Kap. 6 Nr. 4)
+events:
+  - { date: 2026-11-17, title: Infoanlass Fachvertreter:innen, form: MS Teams }
+  - { date: 2026-11-26, title: Infoanlass Fachvertreter:innen, form: MS Teams }
+  - { date: 2026-12-07, title: Wahl der Fachverantwortlichen abgeschlossen, form: online }
+  - { date: 2026-12-10, title: Fachworkshop 1, form: vor Ort / hybrid }
+  - { date: 2027-01-12, title: Austausch mit den Product Ownern, form: online }
+  - { date: 2027-02-08, title: Fachworkshop 2, form: vor Ort / hybrid }
+  - { date: 2027-03-02, title: Abnahmetest, form: vor Ort / hybrid }
+  - { date: 2027-04-06, title: Austausch mit den Product Ownern, form: online }
+  - { date: 2027-05-18, title: Go-Live, form: '' }

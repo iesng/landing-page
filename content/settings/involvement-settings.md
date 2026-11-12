@@ -1,54 +1,55 @@
 ---
 de:
-  nav_label: Involvierung
+  nav_label: Mitwirkung
   title: Gemeinsam zum neuen **IES**
-  subtitle: Das System IES wird im Rahmen des Projekts IES NG von Grund auf neu entwickelt und löst das bisherige System ab. Die Anforderungen von Bund, Kantonen, Blaulichtorganisationen, Spitälern und der Armee fliessen dabei in enger Zusammenarbeit direkt in die Konzeption und Umsetzung ein. Dieser kontinuierliche Einbezug stellt sicher, dass das neue System den operativen Bedürfnissen der Praxis entspricht und von allen Akteuren breit getragen wird.
+  subtitle: 'IES wird im Projekt IES NG von Grund auf neu entwickelt. Der Bund stellt das System, die Kantone führen das Ereignis, die Organisationen arbeiten damit. Damit IES ein Produkt für die Anwenderinnen und Anwender wird, wirken Bund, Kantone, Blaulichtorganisationen, Spitäler und Armee auf drei Ebenen mit: Die Kantone delegieren Fachvertreter:innen in die Fachbereiche, diese wählen je Fachbereich bis zu fünf Fachverantwortliche, und die Fachverantwortlichen geben die fachliche Abnahmeempfehlung ab. Massgebend ist die Funktion, nicht die Person.'
   strategic_heading: '**Strategische** Ebene'
-  strategic_description: Auf strategischer Ebene stellen Entscheidungsträgerinnen und Entscheidungsträger aus Behörden, Spitälern, Blaulicht und Armee die übergeordnete Verankerung des Systems sicher. Im Fokus stehen dabei die breite Akzeptanz, die Bereitstellung der personellen und finanziellen Ressourcen sowie die Klärung der rechtlichen Grundlagen für den organisationsübergreifenden Einsatz.
+  strategic_description: Auf strategischer und politischer Ebene stellen Konferenzen, Verbände, Spitäler, Bundesstellen und Armee die übergeordnete Verankerung von IES sicher. Sie sind im Projektausschuss vertreten und sorgen für Akzeptanz, Ressourcen und rechtliche Grundlagen. Über die GDK (Gesundheit) und die KKPKS (Sicherheit) delegieren die Kantone ihre Fachvertreter:innen in die Fachbereiche.
   strategic_partners:
     - abbr: Präklinik
-      full_name: '- GDK - kantonale Gesundheitsämter - IVR - Swiss Paramedic Association - SGNOR'
+      full_name: GDK und kantonale Gesundheitsämter · Interverband für Rettungswesen IVR · Swiss Paramedic Association
       logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: ''
       logo_padded: true
     - abbr: Klinik
-      full_name: H+ Die Spitäler der Schweiz Spitaldirektionen SGNOR
+      full_name: H+ Die Spitäler der Schweiz · Spitaldirektionen · SGNOR
       logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: ''
       logo_padded: false
     - abbr: Polizei / Stab / Dritte
-      full_name: KKPKS Polizeikommandos Care-Leitungen Kantonales Amt für Zivilschutz BABS NEOC (Systemeigner)  armasuisse (Projektleitung)  NAZ/KATAMED, BSTB BAG, EDA BI-Datennutzer
+      full_name: KKPKS und Polizeikommandos · Care-Leitungen · BABS NEOC (Systemeigner) · armasuisse · NAZ/KATAMED · BSTB · BAG · EDA
       logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: ''
       logo_padded: false
     - abbr: Armee
-      full_name: Armee Sanität (San) Logistikbasis der Armee (LBA)
+      full_name: Sanität der Armee · Logistikbasis der Armee LBA
       logo: /images/uploads/landscape_6000x4000.webp
       logo_bg: ''
       logo_padded: false
   tactical_heading: '**Taktische** Ebene'
-  tactical_description: Auf taktischer Ebene koordinieren Führungsverantwortliche und Fachspezialisten der Kantone, Einsatzorganisationen, Spitäler und der Armee die konkrete Umsetzung. Im Fokus stehen dabei die Einführung des Systems, praxisnahe Ausbildungs- und Schulungskonzepte sowie die gezielte Steuerung der personellen und organisatorischen Kapazitäten.
-  hop_title: Präklink
-  hop_description: Notfallversorgung vor Spitaleintritt und Rettungseinsätze
+  tactical_description: Auf taktischer Ebene führen die Einführungsorganisationen der Kantone, Rettungsdienste, Sanitätsnotrufzentralen, Spitäler, Führungsorgane und der Armee IES ein. Sie stellen Ausbildung, Konfiguration und Betrieb in ihrer Organisation sicher. Die gewählten Fachverantwortlichen bündeln die Rückmeldungen ihres Fachbereichs und vertreten den Entscheid gegenüber dem Projekt.
+  hop_title: Applikationsverantwortliche
+  hop_description: Ansprechstelle zwischen BABS und Kanton bzw. Organisation
   hop_responsibilities: |-
-    - Applikationsverantwortliche RD/SNZ
-    - Einsatzplanungs- und Ausbildungsverantwortliche
-    - Leitungen Rettungsdienste
-    - Betreiber SNZ-Leitsysteme
-  expert_title: Expert
-  expert_description: Testing und spezifische Fachexpertise
+    - **Single Point of Contact** zwischen BABS und Kanton bzw. Organisation
+    - Verwalten der **Super-User** und Berechtigungen
+    - Organisieren der **Ausbildung** in der eigenen Organisation
+    - Führen den **Prozess-Review** durch: Abgleich mit der kantonalen Einsatzdoktrin und Konfigurationsbedarf für den Rollout
+  expert_title: Fachverantwortliche
+  expert_description: Von den Fachvertreter:innen gewählt, bis zu fünf je Fachbereich
   expert_responsibilities: |-
-    - Testet Zwischenprodukte und **beurteilt den Mehrwert**
-    - **Unterstützt Head of Pool** bei spezifischen Fragen
-    - Bringt die **operative Perspektive für die Implementierung** ein
+    - Holen die Meinungen der Fachvertreter:innen ab und **konsolidieren** sie
+    - Bestätigen die **Priorisierung** der Rückmeldungen im Backlog
+    - Geben die **fachliche Abnahmeempfehlung** für ihren Fachbereich ab (Stimmrecht)
+    - Nehmen an Fachworkshops und Abnahmetests **vor Ort** teil, kein Alleingang
   operative_heading: '**Operative** Ebene'
-  operative_description: Auf operativer Ebene bringen die Anwenderinnen und Anwender aus Rettungsdiensten, Notrufzentralen, Spitälern, Polizei, Zivilschutz und Armee ihre praktischen Erfahrungen direkt ein. Sie definieren die konkreten Anforderungen für den Einsatzalltag an der Front und überprüfen neue Funktionen in Fachtests auf ihre Praxistauglichkeit. Durch ihre formellen Abnahmen stellen sie sicher, dass das System im Ernstfall stabil, intuitiv bedienbar und einsatzbereit ist.
-  pool_1_name: Pool Rettungsdienst
-  pool_1_role: Endnutzer, Feedback & Schulung
-  pool_2_name: Pool Sanität
-  pool_2_role: Endnutzer, Feedback & Schulung
-  pool_3_name: Pool Spital
-  pool_3_role: Endnutzer, Feedback & Schulung
+  operative_description: Auf operativer Ebene arbeiten Disponent:innen, Einsatzleitende, Rettungsfachpersonal, Notfall- und Intensivpflege, Care-Teams, Polizei, Zivilschutz und Armee an der Front mit IES. Ihre Anforderungen fliessen über die delegierten Fachvertreter:innen in die Entwicklung ein. In Fachworkshops und Abnahmetests prüfen sie neue Funktionen an realistischen Einsatzbeispielen auf ihre fachliche Anwendbarkeit.
+  pool_1_name: Fachvertreter:innen
+  pool_1_role: Vom Kanton delegiert · Praxis einbringen, Fachverantwortliche wählen
+  pool_2_name: Super-User und Trainer:innen
+  pool_2_role: Ausbildung und Support in der eigenen Organisation
+  pool_3_name: Anwender:innen
+  pool_3_role: Einsatz an der Front · Rückmeldungen über das Feedback-Formular
 en:
   nav_label: Involvement
   title: Together towards the new **IOS**
