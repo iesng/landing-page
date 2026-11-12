@@ -120,7 +120,7 @@ Publizieren mit Hinweis «Stand»:
 | Nr. | Punkt | Zuständig |
 |---|---|---|
 | 1 | Freigabe Etappe 1 (DE) und (A)-Zuordnungen der Partnerliste | PO-Team / Lead PO |
-| 2 | Übersetzung EN/FR/IT (Skill `ies-ng-translation`, Glossar). Achtung: Website nutzt «SII», Glossar «IIS NG» → klären | PO-Team |
+| 2 | Übersetzung EN/FR/IT (Skill `ies-ng-translation`, Glossar). FR/IT: Produkt IES = **SII**, Projekt IES NG = **SII NG**, Altsystem IES-KSD = **SII-SSC** (Glossar am 12.11.2026 angeglichen) | PO-Team |
 | 3 | Rolle armasuisse auf Website: «Beschaffung» oder ohne Zusatz? | Projektleitung |
 | 4 | Termine: Roadmap nennt R0.8 02.12.2026 / R1.0 12.05.2027, Projektplanung R0.8 25.11.2026 / R1.0 31.03.2027 / Go-Live 18.05.2027 → angleichen | PO-Team |
 | 5 | Etappe 2: Schema und Unterseite im Deploy-Repo umsetzen | Code Owner `landing-page-deploy` |
