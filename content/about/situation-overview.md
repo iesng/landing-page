@@ -1,7 +1,7 @@
 ---
 de:
   order: 4
-  illustration: /illustrations/real-time-analytics.svg
+  illustration: /images/uploads/spots/spot-lageuebersicht.svg
   title: Lageübersicht
   description: 'Zentrales Echtzeit-Lagebild für Führungsstäbe: Betroffene Personen, verfügbare Ressourcen und dringender Handlungsbedarf auf einen Blick.'
 en:

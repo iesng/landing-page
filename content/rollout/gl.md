@@ -7,7 +7,6 @@ de:
       role: main
     - name: Daniel Müller
       role: deputy
-  trainings: []
 en:
   name: Glarus
 fr:

@@ -1,9 +1,12 @@
 ---
 de:
   name: Zürich
-  status: pilot
-  contacts: []
-  trainings: []
+  status: training
+  contacts:
+    - name: Robin Breu
+      role: main
+    - name: Michael Keller
+      role: deputy
 en:
   name: Zurich
 fr:

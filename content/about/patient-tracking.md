@@ -1,7 +1,7 @@
 ---
 de:
   order: 1
-  illustration: /illustrations/medical-care.svg
+  illustration: /images/uploads/spots/spot-patientenverfolgung.svg
   title: Patientenverfolgung
   description: Lückenlose Übersicht in Echtzeit über alle betroffenen Personen — von der Erstversorgung vor Ort über den Transport bis zur Aufnahme im Spital.
 en:

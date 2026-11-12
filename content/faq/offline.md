@@ -9,8 +9,8 @@ en:
   answer: IOS generally requires an active internet connection. Some mobile app functions are also available offline to a limited extent. Data captured offline is automatically synchronized once an internet connection becomes available again.
 fr:
   order: 5
-  question: L’application mobile fonctionne-t-elle sans connexion Internet?
-  answer: SII nécessite en principe une connexion Internet active. Certaines fonctions de l’application mobile sont également disponibles hors ligne dans une mesure limitée. Les données saisSII hors ligne sont synchronisées automatiquement dès qu’une connexion Internet est à nouveau disponible.
+  question: Gestion des incidents - L’application mobile fonctionne-t-elle sans connexion Internet ?
+  answer: Le SII nécessite en principe une connexion Internet active. Certaines fonctions de l’application mobile sont également disponibles hors ligne dans une mesure limitée. Les données saisies hors ligne sont synchronisées automatiquement dès qu’une connexion Internet est à nouveau disponible.
 it:
   order: 5
   question: Gestione degli eventi – L’app mobile funziona senza connessione Internet?

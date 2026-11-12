@@ -46,8 +46,6 @@
   "Landing": {
     "Nav": {
       "Home": "Home",
-      "Production": "Production",
-      "Training": "Training",
       "OpenMenu": "Open menu",
       "CloseMenu": "Close menu",
       "BABSFullName": "Federal Office for Civil Protection FOCP",
@@ -72,14 +70,12 @@
       },
       "Canton": {
         "StatusPlanning": "Planning",
-        "StatusPilot": "Pilot",
         "StatusTraining": "Training",
         "StatusProductive": "Productive",
         "Contact_one": "Contact Person",
         "Contact_other": "Contact Persons",
         "RoleMain": "Application Manager",
         "RoleDeputy": "Deputy Application Manager",
-        "Trainings": "Trainings",
         "Progress": "Progress"
       }
     },
@@ -100,6 +96,10 @@
       "FAQ": {
         "Title": "Frequently Asked Questions - IES",
         "Description": "Answers to frequently asked questions about IES NG – login, access, security, mobile app and support."
+      },
+      "PrivacyApp": {
+        "Title": "Privacy Policy IES NG App - IES",
+        "Description": "Privacy policy for the IES NG mobile app for Android and iOS."
       }
     }
   }

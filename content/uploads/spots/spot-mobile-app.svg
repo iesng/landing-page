@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-label="Mobile App"><title>Mobile App</title><style>
+.bg{fill:#F0F4F7}.tint{fill:#DCEFF9}.blue{fill:#0090DA}.dark{fill:#2f4356}.white{fill:#fff}.grey{fill:#D5DCE4}
+.st{stroke:#2f4356;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;fill:none}
+.stb{stroke:#0090DA;stroke-width:2;stroke-linecap:round;fill:none}
+.dash{stroke:#0090DA;stroke-width:2;stroke-dasharray:2 6;stroke-linecap:round;fill:none}
+.topo{stroke:#D5DCE4;stroke-width:1.5;fill:none}
+.wst{stroke:#fff;stroke-width:2;stroke-linecap:square;fill:none}
+@media (prefers-color-scheme:dark){
+.bg{fill:#1c2834}.tint{fill:#0b3a55}.white{fill:#263645}.grey{fill:#46596b}.dark{fill:#F0F4F7}
+.st{stroke:#F0F4F7}.topo{stroke:#263645}}
+</style><circle class="bg" cx="160" cy="116" r="96"/><ellipse class="tint" cx="160" cy="206" rx="118" ry="10"/><rect class="white st" x="118" y="34" width="84" height="164" rx="10"/><path class="st" d="M150 186h20"/><rect class="tint" x="126" y="50" width="68" height="124" rx="2"/><rect class="blue" x="126" y="50" width="68" height="18"/><rect class="white" x="132" y="76" width="56" height="26" rx="2"/><circle class="tint" cx="144" cy="89" r="7"/><rect class="grey" x="156" y="83" width="26" height="4" rx="2"/><rect class="grey" x="156" y="91" width="18" height="4" rx="2"/><rect class="white" x="132" y="108" width="56" height="16" rx="2"/><rect class="blue" x="136" y="112" width="18" height="8" rx="2"/><rect class="white" x="132" y="130" width="56" height="16" rx="2"/><rect class="dark" x="136" y="134" width="24" height="8" rx="2"/><rect class="blue" x="132" y="154" width="56" height="12" rx="2"/><rect class="white st" x="208" y="96" width="54" height="54" rx="4"/><path class="stb" d="M216 112v-8h8M254 112v-8h-8M216 134v8h8M254 134v8h-8"/><rect class="dark" x="226" y="114" width="6" height="6"/><rect class="dark" x="238" y="114" width="6" height="6"/><rect class="dark" x="226" y="126" width="6" height="6"/><rect class="blue" x="238" y="126" width="6" height="6"/><rect class="white st" x="58" y="70" width="54" height="44" rx="4"/><path class="stb" d="M68 92h6l4-8 6 16 4-8h14"/></svg>

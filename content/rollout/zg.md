@@ -1,11 +1,10 @@
 ---
 de:
   name: Zug
-  status: pilot
+  status: training
   contacts:
     - name: Andreas Müller
       role: main
-  trainings: []
 en:
   name: Zug
 fr:

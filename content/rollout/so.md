@@ -7,7 +7,6 @@ de:
       role: main
     - name: Severin Borer
       role: deputy
-  trainings: []
 en:
   name: Solothurn
 fr:

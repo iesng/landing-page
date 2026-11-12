@@ -7,7 +7,6 @@ de:
       role: main
     - name: Tomas Zwyer
       role: deputy
-  trainings: []
 en:
   name: Uri
 fr:

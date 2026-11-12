@@ -16,9 +16,9 @@ de:
 
     Projekt IES NG
 
-    E-Mail:[ies.ng@babs.admin.ch](https://www.google.com/search?q=mailto%3Aies.ng%40babs.admin.ch)
+    E-Mail:[ies.ng@babs.admin.ch](mailto:ies.ng@babs.admin.ch)
 
-    Web:[www.ies.swiss](https://www.google.com/search?q=http://www.ies.swiss)
+    Web:[www.ies.swiss](https://www.ies.swiss)
 
     **Fachbereich & Modul Heilmittelplattform (HMP)**
 
@@ -28,7 +28,7 @@ de:
 
     Bei Fragen steht Ihnen das Projektteam Heilmittelplattform gerne zur Verfügung:
 
-    E-Mail:[heilmittelplattform@bwl.admin.ch](https://www.google.com/search?q=mailto%3Aheilmittelplattform%40bwl.admin.ch)
+    E-Mail:[heilmittelplattform@bwl.admin.ch](mailto:heilmittelplattform@bwl.admin.ch)
 
     Weitere Informationen: [Projekt «Neue Heilmittelplattform» (BWL)](https://www.bwl.admin.ch/de/projekt-neue-heilmittelplattform)
 en:
@@ -44,15 +44,15 @@ en:
 
     Guisanplatz 1, CH-3003 Bern
 
-    Website:[www.focp.admin.ch](https://www.google.com/search?q=https://www.focp.admin.ch)|[www.naz.ch](https://www.naz.ch)
+    Website:[www.focp.admin.ch](https://www.focp.admin.ch)|[www.naz.ch](https://www.naz.ch)
 
     **Overall Project Management & Contact IOS NG**
 
     IOS NG Project
 
-    E-Mail:[ies.ng@babs.admin.ch](https://www.google.com/search?q=mailto%3Aies.ng%40babs.admin.ch)
+    E-Mail:[ies.ng@babs.admin.ch](mailto:ies.ng@babs.admin.ch)
 
-    Website:[www.ies.swiss](https://www.google.com/search?q=http://www.ies.swiss)
+    Website:[www.ies.swiss](https://www.ies.swiss)
 
     **Domain & Module Therapeutic Products Platform (HMP / TPP)**
 
@@ -62,7 +62,7 @@ en:
 
     If you have any questions, the Therapeutic Products Platform project team will be pleased to assist:
 
-    E-Mail:[heilmittelplattform@bwl.admin.ch](https://www.google.com/search?q=mailto%3Aheilmittelplattform%40bwl.admin.ch)
+    E-Mail:[heilmittelplattform@bwl.admin.ch](mailto:heilmittelplattform@bwl.admin.ch)
 
     Further information: [Project "New platform of therapeutic products" (FONES)](https://www.bwl.admin.ch/en/new-therapeutic-products-platform)
 fr:
@@ -78,15 +78,15 @@ fr:
 
     Guisanplatz 1, CH-3003 Berne
 
-    Site web :[www.ofpp.admin.ch](https://www.google.com/search?q=https://www.ofpp.admin.ch)|[www.naz.ch](https://www.naz.ch)
+    Site web :[www.ofpp.admin.ch](https://www.ofpp.admin.ch)|[www.naz.ch](https://www.naz.ch)
 
     **Direction générale du projet & Contact SII NG**
 
     Projet SII NG
 
-    Courriel :[ies.ng@babs.admin.ch](https://www.google.com/search?q=mailto%3Aies.ng%40babs.admin.ch)
+    Courriel :[ies.ng@babs.admin.ch](mailto:ies.ng@babs.admin.ch)
 
-    Site web :[www.ies.swiss](https://www.google.com/search?q=http://www.ies.swiss)
+    Site web :[www.ies.swiss](https://www.ies.swiss)
 
     **Domaine d’expertise & Module Plateforme des produits thérapeutiques (HMP)**
 
@@ -96,9 +96,9 @@ fr:
 
     En cas de questions, l’équipe du projet Plateforme des produits thérapeutiques se tient à votre disposition :
 
-    Courriel :[heilmittelplattform@bwl.admin.ch](https://www.google.com/search?q=mailto%3Aheilmittelplattform%40bwl.admin.ch)
+    Courriel :[heilmittelplattform@bwl.admin.ch](mailto:heilmittelplattform@bwl.admin.ch)
 
-    Plus d’informations: [Projet « Nouvelle Plateforme des produits thérapeutiques » (OAE)](https://www.bwl.admin.ch/fr/projet-nouvelle-plateforme-produits-therapeutiques)
+    Plus d’informations: [Projet « Nouvelle Plateforme des produits thérapeutiques » (OFAE)](https://www.bwl.admin.ch/fr/projet-nouvelle-plateforme-produits-therapeutiques)
 it:
   title: Impressum
   body: |-
@@ -112,15 +112,15 @@ it:
 
     Guisanplatz 1, CH-3003 Berna
 
-    Sito web:[www.ufpp.admin.ch](https://www.google.com/search?q=https://www.ufpp.admin.ch)|[www.naz.ch](https://www.naz.ch)
+    Sito web:[www.ufpp.admin.ch](https://www.ufpp.admin.ch)|[www.naz.ch](https://www.naz.ch)
 
     **Direzione generale del progetto & Contatto SII NG**
 
     Progetto SII NG
 
-    E-mail:[ies.ng@babs.admin.ch](https://www.google.com/search?q=mailto%3Aies.ng%40babs.admin.ch)
+    E-mail:[ies.ng@babs.admin.ch](mailto:ies.ng@babs.admin.ch)
 
-    Sito web:[www.ies.swiss](https://www.google.com/search?q=http://www.ies.swiss)
+    Sito web:[www.ies.swiss](https://www.ies.swiss)
 
     **Settore specialistico & Modulo Piattaforma dei prodotti terapeutici (HMP)**
 
@@ -130,7 +130,7 @@ it:
 
     In caso di domande, il team di progetto della Piattaforma dei prodotti terapeutici è a vostra disposizione:
 
-    E-mail:[heilmittelplattform@bwl.admin.ch](https://www.google.com/search?q=mailto%3Aheilmittelplattform%40bwl.admin.ch)
+    E-mail:[heilmittelplattform@bwl.admin.ch](mailto:heilmittelplattform@bwl.admin.ch)
 
-    Maggiori informazioni:[Progetto «Nuova Piattaforma degli agenti terapeutici» (UAE)](https://www.bwl.admin.ch/it/centro-di-notifica-agenti-terapeutici)
+    Maggiori informazioni:[Progetto «Nuova Piattaforma degli agenti terapeutici» (UFAE)](https://www.bwl.admin.ch/it/centro-di-notifica-agenti-terapeutici)
 ---

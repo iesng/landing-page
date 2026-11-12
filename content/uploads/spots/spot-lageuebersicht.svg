@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-label="Lageübersicht"><title>Lageübersicht</title><style>
+.bg{fill:#F0F4F7}.tint{fill:#DCEFF9}.blue{fill:#0090DA}.dark{fill:#2f4356}.white{fill:#fff}.grey{fill:#D5DCE4}
+.st{stroke:#2f4356;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;fill:none}
+.stb{stroke:#0090DA;stroke-width:2;stroke-linecap:round;fill:none}
+.dash{stroke:#0090DA;stroke-width:2;stroke-dasharray:2 6;stroke-linecap:round;fill:none}
+.topo{stroke:#D5DCE4;stroke-width:1.5;fill:none}
+.wst{stroke:#fff;stroke-width:2;stroke-linecap:square;fill:none}
+@media (prefers-color-scheme:dark){
+.bg{fill:#1c2834}.tint{fill:#0b3a55}.white{fill:#263645}.grey{fill:#46596b}.dark{fill:#F0F4F7}
+.st{stroke:#F0F4F7}.topo{stroke:#263645}}
+</style><circle class="bg" cx="160" cy="116" r="96"/><ellipse class="tint" cx="160" cy="206" rx="118" ry="10"/><rect class="white st" x="56" y="50" width="208" height="128" rx="4"/><path class="st" d="M160 178v22M128 202h64"/><rect class="tint" x="68" y="62" width="108" height="104" rx="2"/><path class="topo" style="stroke:#fff" d="M68 130c18-10 30 0 48-12s30-20 60-14M68 100c20-6 34 6 52-6s30-14 56-10"/><circle class="blue" cx="98" cy="96" r="6"/><circle class="blue" cx="140" cy="122" r="6"/><circle class="dark" cx="120" cy="146" r="5"/><circle class="stb" cx="140" cy="122" r="12"/><rect class="bg" x="186" y="62" width="66" height="30" rx="2"/><rect class="blue" x="194" y="70" width="22" height="14" rx="2"/><rect class="grey" x="222" y="72" width="22" height="4" rx="2"/><rect class="grey" x="222" y="80" width="14" height="4" rx="2"/><rect class="bg" x="186" y="100" width="66" height="66" rx="2"/><path class="stb" d="M194 152l12-14 10 6 12-18 16 8"/><path class="st" d="M194 158h50"/></svg>

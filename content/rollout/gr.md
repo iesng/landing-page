@@ -7,7 +7,6 @@ de:
       role: main
     - name: Sergio Halter
       role: deputy
-  trainings: []
 en:
   name: Grisons
 fr:

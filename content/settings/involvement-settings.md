@@ -2,139 +2,343 @@
 de:
   nav_label: Mitwirkung
   title: Gemeinsam zum neuen **IES**
-  subtitle: 'IES wird im Projekt IES NG von Grund auf neu entwickelt. Der Bund stellt das System, die Kantone führen das Ereignis, die Organisationen arbeiten damit. Damit IES ein Produkt für die Anwenderinnen und Anwender wird, wirken Bund, Kantone, Blaulichtorganisationen, Spitäler und Armee auf drei Ebenen mit: Die Kantone delegieren Fachvertreter:innen in die Fachbereiche, diese wählen je Fachbereich bis zu fünf Fachverantwortliche, und die Fachverantwortlichen geben die fachliche Abnahmeempfehlung ab. Massgebend ist die Funktion, nicht die Person.'
+  subtitle: 'IES wird im Projekt IES NG von Grund auf neu entwickelt. Der Bund stellt das System, die Kantone führen das Ereignis, die Organisationen arbeiten damit. Damit IES ein Produkt für die Anwenderinnen und Anwender wird, wirken Bund, Kantone, Blaulichtorganisationen, Spitäler und Armee in vier Domänen und auf drei Ebenen mit: Die Kantone delegieren Fachvertreter:innen in die Fachbereiche, diese wählen je Fachbereich bis zu fünf Fachverantwortliche, und die Fachverantwortlichen geben die fachliche Abnahmeempfehlung ab. Massgebend ist die Funktion, nicht die Person.'
+  domain_preclinic_title: Präklinik
+  domain_preclinic_subtitle: Notfallversorgung vor Spitaleintritt und Rettungseinsätze
+  domain_clinic_title: Klinik
+  domain_clinic_subtitle: Spitäler und klinische Notfallversorgung
+  domain_authorities_title: Polizei / Stab / Dritte
+  domain_authorities_subtitle: Führungsorgane, Behörden und Partnerorganisationen
+  domain_army_title: Armee
+  domain_army_subtitle: Sanitätsdienst und Unterstützungsleistungen der Armee
   strategic_heading: '**Strategische** Ebene'
   strategic_description: Auf strategischer und politischer Ebene stellen Konferenzen, Verbände, Spitäler, Bundesstellen und Armee die übergeordnete Verankerung von IES sicher. Sie sind im Projektausschuss vertreten und sorgen für Akzeptanz, Ressourcen und rechtliche Grundlagen. Über die GDK (Gesundheit) und die KKPKS (Sicherheit) delegieren die Kantone ihre Fachvertreter:innen in die Fachbereiche.
-  strategic_partners:
-    - abbr: Präklinik
-      full_name: GDK und kantonale Gesundheitsämter · Interverband für Rettungswesen IVR · Swiss Paramedic Association
-      logo: /images/uploads/landscape_6000x4000.webp
-      logo_bg: ''
-      logo_padded: true
-    - abbr: Klinik
-      full_name: H+ Die Spitäler der Schweiz · Spitaldirektionen · SGNOR
-      logo: /images/uploads/landscape_6000x4000.webp
-      logo_bg: ''
-      logo_padded: false
-    - abbr: Polizei / Stab / Dritte
-      full_name: KKPKS und Polizeikommandos · Care-Leitungen · BABS NEOC (Systemeigner) · armasuisse · NAZ/KATAMED · BSTB · BAG · EDA
-      logo: /images/uploads/landscape_6000x4000.webp
-      logo_bg: ''
-      logo_padded: false
-    - abbr: Armee
-      full_name: Sanität der Armee · Logistikbasis der Armee LBA
-      logo: /images/uploads/landscape_6000x4000.webp
-      logo_bg: ''
-      logo_padded: false
+  strategic_preclinic_members: |-
+    - GDK
+    - kantonale Gesundheitsämter
+    - IVR
+    - Swiss Paramedic Association
+  strategic_clinic_members: |-
+    - H+ Die Spitäler der Schweiz
+    - Spitaldirektionen
+    - SGNOR
+  strategic_authorities_members: |-
+    - KKPKS
+    - Polizeikommandos
+    - Care-Leitungen
+    - BABS NEOC (Systemeigner)
+    - armasuisse
+    - NAZ/KATAMED, BSTB
+    - BAG, EDA
+    - BI-Datennutzer
+  strategic_army_members: |-
+    - Armee Sanität (San)
+    - Logistikbasis der Armee (LBA)
   tactical_heading: '**Taktische** Ebene'
-  tactical_description: Auf taktischer Ebene führen die Einführungsorganisationen der Kantone, Rettungsdienste, Sanitätsnotrufzentralen, Spitäler, Führungsorgane und der Armee IES ein. Sie stellen Ausbildung, Konfiguration und Betrieb in ihrer Organisation sicher. Die gewählten Fachverantwortlichen bündeln die Rückmeldungen ihres Fachbereichs und vertreten den Entscheid gegenüber dem Projekt.
-  hop_title: Applikationsverantwortliche
-  hop_description: Ansprechstelle zwischen BABS und Kanton bzw. Organisation
-  hop_responsibilities: |-
-    - **Single Point of Contact** zwischen BABS und Kanton bzw. Organisation
-    - Verwalten der **Super-User** und Berechtigungen
-    - Organisieren der **Ausbildung** in der eigenen Organisation
-    - Führen den **Prozess-Review** durch: Abgleich mit der kantonalen Einsatzdoktrin und Konfigurationsbedarf für den Rollout
-  expert_title: Fachverantwortliche
-  expert_description: Von den Fachvertreter:innen gewählt, bis zu fünf je Fachbereich
-  expert_responsibilities: |-
-    - Holen die Meinungen der Fachvertreter:innen ab und **konsolidieren** sie
-    - Bestätigen die **Priorisierung** der Rückmeldungen im Backlog
-    - Geben die **fachliche Abnahmeempfehlung** für ihren Fachbereich ab (Stimmrecht)
-    - Nehmen an Fachworkshops und Abnahmetests **vor Ort** teil, kein Alleingang
+  tactical_description: Auf taktischer Ebene führen die Einführungsorganisationen der Kantone, Rettungsdienste, Sanitätsnotrufzentralen, Spitäler, Führungsorgane und der Armee IES ein. Die Applikationsverantwortlichen sind Ansprechstelle zwischen BABS und Kanton bzw. Organisation, verwalten die Super-User, organisieren die Ausbildung und gleichen im Prozess-Review IES mit der kantonalen Einsatzdoktrin ab.
+  tactical_preclinic_members: |-
+    - Applikationsverantwortliche RD/SNZ
+    - Einsatzplanungs- und Ausbildungsverantwortliche
+    - Leitungen Rettungsdienste
+    - Betreiber SNZ-Leitsysteme
+  tactical_clinic_members: |-
+    - Applikationsverantwortliche Spital
+    - Notaufnahme-Leitung
+    - Krisenstab Spital
+    - Leitende Anästhesie
+    - OP-Koordination
+    - IPS-Leitung
+    - KIS-Betreiber
+  tactical_authorities_members: |-
+    - Kantonale Führungsorgane
+    - KATAMED-Beauftragte
+    - Applikationsverantwortliche Polizei/Stab/Dritte
+    - Zivilschutz-Führung
+    - Datenarchivierung
+  tactical_army_members: '- Verbindungsoffizier:in Armee'
   operative_heading: '**Operative** Ebene'
-  operative_description: Auf operativer Ebene arbeiten Disponent:innen, Einsatzleitende, Rettungsfachpersonal, Notfall- und Intensivpflege, Care-Teams, Polizei, Zivilschutz und Armee an der Front mit IES. Ihre Anforderungen fliessen über die delegierten Fachvertreter:innen in die Entwicklung ein. In Fachworkshops und Abnahmetests prüfen sie neue Funktionen an realistischen Einsatzbeispielen auf ihre fachliche Anwendbarkeit.
-  pool_1_name: Fachvertreter:innen
-  pool_1_role: Vom Kanton delegiert · Praxis einbringen, Fachverantwortliche wählen
-  pool_2_name: Super-User und Trainer:innen
-  pool_2_role: Ausbildung und Support in der eigenen Organisation
-  pool_3_name: Anwender:innen
-  pool_3_role: Einsatz an der Front · Rückmeldungen über das Feedback-Formular
+  operative_description: Auf operativer Ebene arbeiten Disponent:innen, Einsatzleitende, Rettungsfachpersonal, Notfall- und Intensivpflege, Care-Teams, Polizei, Zivilschutz und Armee an der Front mit IES. Ihre Anforderungen fliessen über die delegierten Fachvertreter:innen in die Entwicklung ein. In Fachworkshops und Abnahmetests prüfen Fachverantwortliche und Fachvertreter:innen neue Funktionen an realistischen Einsatzbeispielen auf ihre fachliche Anwendbarkeit; die Fachverantwortlichen geben die fachliche Abnahmeempfehlung ab.
+  operative_preclinic_members: |-
+    - Disponent:innen, Schichtleitung SNZ
+    - Einsatzleitende, Bereichsleitende, Chargierte
+    - RS HF, TS
+    - Notärzt:innen präklinisch
+    - Luftrettung (Rega, Air-Glaciers, Air Zermatt, AAA)
+    - Verlegungskoordination national/international
+  operative_clinic_members: |-
+    - Notfall- und Triagepflege
+    - Schockraum-Team
+    - Verbrennungszentren
+    - Koro, Interventionskardiologie
+    - CBRN-Verantwortliche Spital
+    - IPS-Verantwortliche
+    - Spitaladministration
+  operative_authorities_members: |-
+    - Care-Teams, Notfallpsycholog:innen
+    - Polizei Vermisstenmanagement, Streugut
+    - Hotline-Führung, Soziale Arbeit
+    - Zivilschutzangehörige
+  operative_army_members: |-
+    - Kommando Operationen (analog SNZ)
+    - Sanitätseinheiten, Spitalbataillone
+    - Luftwaffe (Lufttransport)
+    - GVD Gefallenen- und Vermisstendienst
 en:
   nav_label: Involvement
   title: Together towards the new **IOS**
   subtitle: The IOS system is being completely redeveloped from scratch as part of the IOS NG project and will replace the legacy system. The requirements of the federal government, cantons, blue-light organizations, hospitals, and the armed forces are directly integrated into the design and implementation through close collaboration with partners. This ongoing engagement ensures that the new system meets the operational needs of day-to-day practice and is broadly supported by all stakeholders.
+  domain_preclinic_title: Pre-hospital
+  domain_preclinic_subtitle: Emergency medical care and pre-hospital rescue
+  domain_clinic_title: Hospital
+  domain_clinic_subtitle: Hospitals and clinical emergency care
+  domain_authorities_title: Police / Staff / Third parties
+  domain_authorities_subtitle: Command bodies, authorities and partner organisations
+  domain_army_title: Armed Forces
+  domain_army_subtitle: Medical service and support provided by the Armed Forces
   strategic_heading: '**Strategic** Level'
   strategic_description: At the strategic level, decision-makers from public authorities, hospitals, blue-light services, and the armed forces secure the overarching foundation of the system. The primary focus lies on broad acceptance, securing human and financial resources, and establishing the legal frameworks required for cross-organizational operations.
+  strategic_preclinic_members: |-
+    - GDK
+    - Cantonal public health offices
+    - IAS
+    - Swiss Paramedic Association
+    - SSESM
+  strategic_clinic_members: |-
+    - H+ The Swiss Hospitals
+    - Hospital boards / directorships
+    - SSESM / SGNOR
+  strategic_authorities_members: |-
+    - CCPCS
+    - Police commands
+    - Care team directors
+    - Cantonal civil protection office
+    - FOCP NEOC (system owner)
+    - armasuisse (project management)
+    - NEOC/KATAMED, BSTB
+    - FOPH, FDFA
+    - BI data users
+  strategic_army_members: |-
+    - Armed Forces Medical Services (San)
+    - Armed Forces Logistics Organisation (LBA)
   tactical_heading: '**Tactical** Level'
   tactical_description: At the tactical level, leadership personnel and technical specialists from the cantons, emergency services, hospitals, and the armed forces coordinate practical implementation. The primary focus is on system rollout, hands-on training concepts, and the targeted management of human and organizational capacity.
-  hop_title: Pre-hospital
-  hop_description: Emergency medical care and pre-hospital rescue
-  hop_responsibilities: |-
+  tactical_preclinic_members: |-
     - Application managers EMS / ECC _(EMS = Emergency Medical Services, ECC = Emergency Communication Centre 144)_
     - Operations planning and training coordinators
     - Heads of emergency medical services
     - Operators of ECC dispatch / command & control systems
-  expert_title: Expert
-  expert_description: Testing and specific domain expertise
-  expert_responsibilities: |-
-    - Tests interim products and **evaluates added value**
-    - **Supports Head of Pool** on specific questions
-    - Brings the **operative perspective for implementation**
+  tactical_clinic_members: |-
+    - Hospital application managers
+    - Emergency department management
+    - Hospital crisis management board
+    - Lead anaesthesiologists
+    - Operating theatre coordination
+    - Intensive care unit (ICU) management
+    - Hospital Information System (HIS) operators
+  tactical_authorities_members: |-
+    - Cantonal crisis management bodies
+    - CMS delegates
+    - Application managers Police / Staff / Third parties
+    - Civil protection command
+    - Data archiving
+  tactical_army_members: '- Armed Forces liaison officer'
   operative_heading: '**Operative** Level'
   operative_description: At the operational level, end users from emergency medical services, dispatch centers, hospitals, police, civil protection, and the armed forces directly contribute their front-line experience. They define the practical requirements for day-to-day operations and evaluate new features through hands-on technical testing. Through their formal user acceptance testing, they ensure that the system is reliable, intuitive, and mission-ready in real-world crisis situations.
-  pool_1_name: Rescue Services Pool
-  pool_1_role: End users, feedback & training
-  pool_2_name: Emergency Medical Pool
-  pool_2_role: End users, feedback & training
-  pool_3_name: Hospital Pool
-  pool_3_role: End users, feedback & training
+  operative_preclinic_members: |-
+    - Dispatchers and shift supervisors emergency dispatch centres
+    - Incident commanders, sector leaders, and officers
+    - Certified paramedics, transport paramedics
+    - Pre-hospital emergency physicians
+    - Air rescue (Rega, Air-Glaciers, Air-Zermatt, AAA)
+    - National and international transfer coordination
+  operative_clinic_members: |-
+    - Emergency and triage nursing staff
+    - Resuscitation / shock room team
+    - Burn centres
+    - Cath lab, interventional cardiology
+    - Hospital CBRN officers
+    - ICU supervisors
+    - Hospital administration
+  operative_authorities_members: |-
+    - Psychosocial Care Teams, emergency psychologists
+    - Police missing persons management, scattered evacuees
+    - Helpline management, social work
+    - Civil protection personnel
+  operative_army_members: |-
+    - Operations Command (similar to dispatch centre)
+    - Medical units, hospital battalions
+    - Swiss Air Force (air transport)
+    - Fallen and missing service (GVD)
 fr:
   nav_label: Implication
   title: Ensemble vers le nouveau **SII**
   subtitle: Le système SII est entièrement redéveloppé dans le cadre du projet SII NG et remplacera le système actuel. Les exigences de la Confédération, des cantons, des organisations d’intervention, des hôpitaux et de l’armée sont intégrées directement dans la conception et la mise en œuvre, en étroite collaboration avec les partenaires. Cette implication continue garantit que le nouveau système répond aux besoins opérationnels de la pratique et bénéficie d’un large soutien de l’ensemble des acteurs.
+  domain_preclinic_title: Préhospitalier
+  domain_preclinic_subtitle: Soins d’urgence préhospitaliers et secours
+  domain_clinic_title: Clinique
+  domain_clinic_subtitle: Hôpitaux et soins d’urgence cliniques
+  domain_authorities_title: Police / État-major / Tiers
+  domain_authorities_subtitle: Organes de conduite, autorités et organisations partenaires
+  domain_army_title: Armée
+  domain_army_subtitle: Service sanitaire et prestations d’appui de l’armée
   strategic_heading: Niveau **stratégique**
   strategic_description: Au niveau stratégique, les organes décisionnels des autorités, des hôpitaux, des forces d’intervention et de l’armée assurent l’ancrage global du système. L’accent est mis sur une large adhésion, la mise à disposition des ressources humaines et financières ainsi que la clarification des bases légales nécessaires à l’engagement interorganisationnel.
+  strategic_preclinic_members: |-
+    - CDS
+    - Services cantonaux de la santé publique
+    - IAS
+    - Swiss Paramedic Association
+    - SSMUS
+  strategic_clinic_members: |-
+    - H+ Les Hôpitaux de Suisse
+    - Directions hospitalières
+    - SSMUS
+  strategic_authorities_members: |-
+    - CCPCS
+    - Commandements de police
+    - Directions de l’assistance psychologique (Care)
+    - Office cantonal de la protection civile
+    - OFPP CENAL (propriétaire du système)
+    - armasuisse (direction du projet)
+    - CENAL/KATAMED, BSTB
+    - OFSP, DFAE
+    - Utilisateurs des données décisionnelles (BI)
+  strategic_army_members: |-
+    - Sanitaire de l’armée (San)
+    - Base logistique de l’armée (BLA)
   tactical_heading: Niveau **tactique**
   tactical_description: Au niveau tactique, les responsables de conduite et les spécialistes des cantons, des organisations d’intervention, des hôpitaux et de l’armée coordonnent la mise en œuvre concrète. L’accent est mis sur le déploiement du système, des concepts de formation pratiques ainsi que la gestion ciblée des capacités humaines et organisationnelles.
-  hop_title: Préhospitalier
-  hop_description: Soins d’urgence préhospitaliers et secours
-  hop_responsibilities: |-
+  tactical_preclinic_members: |-
     - Responsables d’application SU / CAS _(SU = Services d’urgence / secours, CAS = Centrale d’appels sanitaires 144)_
     - Responsables de la planification des engagements et de la formation
     - Directions des services de sauvetage
     - Exploitants des systèmes d’engagement CAS
-  expert_title: Expert
-  expert_description: Tests et expertise métier spécifique
-  expert_responsibilities: |-
-    - Teste les produits intermédiaires et **évalue la valeur ajoutée**
-    - **Soutient le Head of Pool** sur des questions spécifiques
-    - Apporte la **perspective opérationnelle pour l'implémentation**
+  tactical_clinic_members: |-
+    - Responsables d’application hôpital
+    - Direction du service des urgences
+    - État-major de crise hospitalier
+    - Médecins cadres / chefs d’anesthésie
+    - Coordination du bloc opératoire
+    - Direction des soins intensifs (SI)
+    - Exploitants du DPI / SIH
+  tactical_authorities_members: |-
+    - Organes cantonaux de conduite (OCC)
+    - Délégués SSC
+    - Responsables d’application Police / État-major / Tiers
+    - Cadres de la protection civile
+    - Archivage des données
+  tactical_army_members: '- Officier de liaison de l’armée'
   operative_heading: Niveau **opérationnel**
-  operative_description: Au niveau opérationnel, les utilisatrices et utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
-  pool_1_name: Pool Services de sauvetage
-  pool_1_role: Utilisateurs finaux, feedback & formation
-  pool_2_name: Pool Sanitaire
-  pool_2_role: Utilisateurs finaux, feedback & formation
-  pool_3_name: Pool Hôpital
-  pool_3_role: Utilisateurs finaux, feedback & formation
+  operative_description: Au niveau opérationnel, les utilisateurs des services de secours, des centrales d’appels d’urgence, des hôpitaux, de la police, de la protection civile et de l’armée apportent directement leur expérience du terrain. Ils définissent les exigences concrètes pour les interventions quotidiennes et évaluent l’adéquation pratique des nouvelles fonctionnalités lors de tests métiers. Par leurs réceptions formelles, ils garantissent que le système est stable, intuitif et opérationnel lors des situations d’urgence.
+  operative_preclinic_members: |-
+    - Régulateurs, régulatrices et chefs de quart CASU
+    - Chefs d’intervention, chefs de secteur et gradés
+    - Ambulanciers ES, techniciens ambulanciers (TA)
+    - Médecins d’urgence préhospitaliers
+    - Sauvetage aérien (Rega, Air-Glaciers, Air-Zermatt, AAA)
+    - Coordination des transferts nationaux et internationaux
+  operative_clinic_members: |-
+    - Personnel soignant des urgences et du triage
+    - Équipe du déchoquage
+    - Centres des grands brûlés
+    - Coronarographie, cardiologie interventionnelle
+    - Responsables CBRN de l’hôpital
+    - Responsables des soins intensifs
+    - Administration hospitalière
+  operative_authorities_members: |-
+    - Équipes de soutien psychologique (Care Teams), psychologues d’urgence
+    - Police : gestion des personnes disparues, personnes dispersées
+    - Gestion de la hotline d’information, travail social
+    - Astreints à la protection civile
+  operative_army_members: |-
+    - Commandement des Opérations (analogue CASU)
+    - Unités sanitaires, bataillons hospitaliers
+    - Forces aériennes (transport aérien)
+    - Service des personnes décédées et disparues (GVD)
 it:
   nav_label: Coinvolgimento
   title: Insieme verso il nuovo **SII**
   subtitle: Il sistema SII viene sviluppato ex novo nell’ambito del progetto SII NG e sostituirà il sistema attuale. I requisiti della Confederazione, dei Cantoni, delle organizzazioni di primo intervento, degli ospedali e dell’esercito confluiscono direttamente nella concezione e nell’attuazione, in stretta collaborazione con i partner. Questo coinvolgimento costante garantisce che il nuovo sistema risponda alle esigenze operative della prassi e sia ampiamente sostenuto da tutti gli attori.
+  domain_preclinic_title: Preospedaliero
+  domain_preclinic_subtitle: Soccorso sanitario d’urgenza e preospedaliero
+  domain_clinic_title: Clinica
+  domain_clinic_subtitle: Ospedali e cure d’urgenza cliniche
+  domain_authorities_title: Polizia / Stato maggiore / Terzi
+  domain_authorities_subtitle: Organi di condotta, autorità e organizzazioni partner
+  domain_army_title: Esercito
+  domain_army_subtitle: Servizio sanitario e prestazioni di supporto dell’esercito
   strategic_heading: Livello **strategico**
   strategic_description: A livello strategico, i decisori delle autorità, degli ospedali, dei servizi di pronto intervento e dell’esercito garantiscono il radicamento complessivo del sistema. L’attenzione si concentra su un’ampia accettazione, sulla messa a disposizione delle risorse umane e finanziarie e sul chiarimento delle basi legali per l’impiego interorganizzativo.
+  strategic_preclinic_members: |-
+    - CDS
+    - Servizi cantonali di sanità pubblica
+    - ISS
+    - Swiss Paramedic Association
+    - SSMUS
+  strategic_clinic_members: |-
+    - H+ Gli Ospedali della Svizzera
+    - Direzioni ospedaliere
+    - SSMUS
+  strategic_authorities_members: |-
+    - CCPCS
+    - Comandi di polizia
+    - Direzioni dei servizi di assistenza psicosociale (Care)
+    - Ufficio cantonale della protezione civile
+    - UFPP CENAL (proprietario del sistema)
+    - armasuisse (direzione del progetto)
+    - CENAL/KATAMED, BSTB
+    - UFSP, DFAE
+    - Utenti dei dati di Business Intelligence (BI)
+  strategic_army_members: |-
+    - Sanità militare (San)
+    - Base logistica dell’esercito (BLEs)
   tactical_heading: Livello **tattico**
   tactical_description: A livello tattico, i responsabili operativi e gli specialisti dei Cantoni, delle organizzazioni di pronto intervento, degli ospedali e dell’esercito coordinano l’attuazione concreta. L’attenzione si concentra sull’introduzione del sistema, su modelli di formazione orientati alla prassi e sulla gestione mirata delle capacità del personale e dell’organizzazione.
-  hop_title: Preospedaliero
-  hop_description: Soccorso sanitario d’urgenza e preospedaliero
-  hop_responsibilities: |-
+  tactical_preclinic_members: |-
     - Responsabili applicativi SS / CAS _(SS = Servizi di soccorso, CAS = Centrale d’allarme sanitario 144)_
     - Responsabili della pianificazione degli interventi e della formazione
     - Direzioni dei servizi di soccorso
     - Gestori dei sistemi di comando e controllo CAS
-  expert_title: Expert
-  expert_description: Test e competenza specifica nel settore
-  expert_responsibilities: |-
-    - Testa i prodotti intermedi e **valuta il valore aggiunto**
-    - **Supporta l'Head of Pool** su questioni specifiche
-    - Porta la **prospettiva operativa per l'implementazione**
+  tactical_clinic_members: |-
+    - Responsabili applicativi ospedale
+    - Direzione del pronto soccorso
+    - Stato maggiore di crisi ospedaliero
+    - Primari / responsabili di anestesia
+    - Coordinamento sale operatorie
+    - Direzione delle cure intense (CI)
+    - Gestori dei sistemi informativi ospedalieri (SIO)
+  tactical_authorities_members: |-
+    - Organi cantonali di condotta (OCC)
+    - Delegati SSC
+    - Responsabili applicativi Polizia / Stato maggiore / Terzi
+    - Comando della protezione civile
+    - Archiviazione dei dati
+  tactical_army_members: '- Ufficiale di collegamento dell’esercito'
   operative_heading: Livello **operativo**
   operative_description: A livello operativo, gli utenti dei servizi di soccorso, delle centrali d’allarme, degli ospedali, della polizia, della protezione civile e dell’esercito apportano direttamente la propria esperienza pratica sul campo. Definiscono i requisiti concreti per l’impiego quotidiano in prima linea e verificano l’efficacia pratica delle nuove funzionalità tramite test specialistici. Con i loro collaudi formali garantiscono che, in caso di emergenza, il sistema sia stabile, intuitivo e pronto all’uso.
-  pool_1_name: Pool Servizi di soccorso
-  pool_1_role: Utenti finali, feedback & formazione
-  pool_2_name: Pool Sanitario
-  pool_2_role: Utenti finali, feedback & formazione
-  pool_3_name: Pool Ospedale
-  pool_3_role: Utenti finali, feedback & formazione
+  operative_preclinic_members: |-
+    - Operatori di centrale e capoturno CASU
+    - Capi intervento, responsabili di settore e graduati
+    - Soccorritori dipl. SSS, soccorritori ausiliari
+    - Medici d’urgenza preospedalieri
+    - Soccorso aereo (Rega, Air-Glaciers, Air-Zermatt, AAA)
+    - Coordinamento dei trasferimenti nazionali e internazionali
+  operative_clinic_members: |-
+    - Personale infermieristico di pronto soccorso e triage
+    - Équipe della shock room
+    - Centri grandi ustionati
+    - Coronarografia, cardiologia interventistica
+    - Responsabili CBRN dell’ospedale
+    - Responsabili delle cure intense
+    - Amministrazione ospedaliera
+  operative_authorities_members: |-
+    - Équipe di supporto psicosociale (Care Teams), psicologi d’emergenza
+    - Polizia: gestione persone disperse, persone isolate
+    - Gestione hotline d’emergenza, lavoro sociale
+    - Militi della protezione civile
+  operative_army_members: |-
+    - Comando Operazioni (analogo CASU)
+    - Unità sanitarie, battaglioni d’ospedale
+    - Forze aeree (trasporto aereo)
+    - Servizio dei caduti e dei dispersi (GVD)
 ---

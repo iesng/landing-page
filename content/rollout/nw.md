@@ -11,7 +11,6 @@ de:
       role: deputy
     - name: Tomas Zwyer
       role: deputy
-  trainings: []
 en:
   name: Nidwalden
 fr:

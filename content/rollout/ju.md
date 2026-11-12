@@ -5,7 +5,6 @@ de:
   contacts:
     - name: Didier Frésard
       role: main
-  trainings: []
 en:
   name: Jura
 fr:

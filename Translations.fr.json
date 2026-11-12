@@ -46,8 +46,6 @@
   "Landing": {
     "Nav": {
       "Home": "Accueil",
-      "Production": "Production",
-      "Training": "Formation",
       "OpenMenu": "Ouvrir le menu",
       "CloseMenu": "Fermer le menu",
       "BABSFullName": "Office fédéral de la protection de la population OFPP",
@@ -72,14 +70,12 @@
       },
       "Canton": {
         "StatusPlanning": "En planification",
-        "StatusPilot": "Pilotage",
         "StatusTraining": "Formation",
         "StatusProductive": "Productif",
         "Contact_one": "Personne de contact",
         "Contact_other": "Personnes de contact",
         "RoleMain": "Responsable d’application",
         "RoleDeputy": "Responsable d’application suppléant/e",
-        "Trainings": "Formations",
         "Progress": "Progression"
       }
     },
@@ -100,6 +96,10 @@
       "FAQ": {
         "Title": "Questions fréquemment posées - IES",
         "Description": "Réponses aux questions fréquemment posées sur IES NG – connexion, accès, sécurité, application mobile et assistance."
+      },
+      "PrivacyApp": {
+        "Title": "Protection des données App IES NG - IES",
+        "Description": "Déclaration de protection des données pour l’application mobile IES NG pour Android et iOS."
       }
     }
   }

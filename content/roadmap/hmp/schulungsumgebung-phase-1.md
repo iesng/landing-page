@@ -12,9 +12,9 @@ en:
 fr:
   date_label: Avril 2024
   title: Début de la mise en œuvre
-  description: La réalisation technique de la nouvelle Plateforme des produits thérapeutiques a débuté dans le cadre du projet IES NG, sous la conduite de l'Office fédéral de la protection de la population (OFPP).
+  description: La réalisation technique de la nouvelle Plateforme des produits thérapeutiques a débuté dans le cadre du projet SII NG, sous la conduite de l'Office fédéral de la protection de la population (OFPP).
 it:
   date_label: Aprile 2024
   title: Avvio dell'attuazione
-  description: La realizzazione tecnica della nuova Piattaforma degli Agenti terapeutici è iniziata nell'ambito del progetto IES NG, sotto la direzione dell'Ufficio federale della protezione della popolazione (UFPP).
+  description: La realizzazione tecnica della nuova Piattaforma degli Agenti terapeutici è iniziata nell'ambito del progetto SII NG, sotto la direzione dell'Ufficio federale della protezione della popolazione (UFPP).
 ---

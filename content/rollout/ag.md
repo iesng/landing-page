@@ -5,7 +5,6 @@ de:
   contacts:
     - name: Erika Csatlos
       role: main
-  trainings: []
 en:
   name: Aargau
 fr:

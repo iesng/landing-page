@@ -7,7 +7,6 @@ de:
       role: main
     - name: Nicolas Körber
       role: deputy
-  trainings: []
 en:
   name: Basel-Stadt
 fr:

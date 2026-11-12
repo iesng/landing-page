@@ -7,7 +7,6 @@ de:
       role: main
     - name: Jean-Daniel Zimmerli
       role: deputy
-  trainings: []
 en:
   name: Neuchâtel
 fr:

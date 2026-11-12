@@ -14,7 +14,7 @@ fr:
   order: 5
   date_label: 02.12.2026
   title: Release 0.8.0 – Données de base et structures organisationnelles
-  description: Ouverture du système aux utilisateurs autorisés pour la saisie et la mise à jour des données de base, des structures d’organisation et des comptes d’utilisateurs.
+  description: Ouverture du système aux utilisateurs autorisés pour la saisie et la mise à jour des données de base, des structures des ressources et des comptes d’utilisateurs.
 it:
   order: 5
   date_label: 02.12.2026

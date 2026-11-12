@@ -9,8 +9,8 @@ en:
   answer: IOS is available in German, French, Italian and English. The language can be changed at any time in the settings.
 fr:
   order: 7
-  question: Gestion des incidents - Quelles langues sont prises en charge par SII?
-  answer: SII est disponible en allemand, français, italien et anglais. La langue peut être modifiée à tout moment dans les paramètres.
+  question: Gestion des incidents - Quelles langues sont prises en charge par le SII?
+  answer: Le SII est disponible en allemand, français, italien et anglais. La langue peut être modifiée à tout moment dans les paramètres.
 it:
   order: 7
   question: Gestione degli eventi – Quali lingue supporta SII?

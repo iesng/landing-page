@@ -5,13 +5,12 @@ de:
   contacts:
     - name: Melanie Brack
       role: main
-    - name: Dario Balosetti
+    - name: Monika Giess
       role: deputy
     - name: Christoph Buess
       role: deputy
-    - name: Dominik Raphael Howald
+    - name: Stephanie Hofer
       role: deputy
-  trainings: []
 en:
   name: Basel-Landschaft
 fr:

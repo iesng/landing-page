@@ -1,13 +1,13 @@
 ---
 de:
   order: 2
-  illustration: /illustrations/dashboard.svg
+  illustration: /images/uploads/spots/spot-spitalkapazitaet.svg
   title: Spitalkapazität
   description: Bettenauslastung, freie Kapazitäten und aktuelle Aufnahmebereitschaft aller Spitäler auf einen Blick — in Echtzeit und kantonsübergreifend.
 en:
   order: 2
   title: Hospital Capacity
-  description: ed occupancy, available capacities, and current admission readiness of all hospitals at a glance — in real time and across cantons.
+  description: Bed occupancy, available capacities, and current admission readiness of all hospitals at a glance — in real time and across cantons.
 fr:
   order: 2
   title: Capacité hospitalière

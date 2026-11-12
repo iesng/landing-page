@@ -143,7 +143,7 @@ de:
       fachbereiche:
         - { name: Datenmanagement, tasks: [Bedarfsplanung, Datenexport, Auswertung nach dem Ereignis, Archivierung und Aufbewahrung] }
         - { name: Technik, tasks: [Umsysteme – Klinikinformationssysteme und kantonale Leitsysteme] }
-        - { name: Business Engineering, tasks: [Datennutzung und Business Intelligence] }   # Bezeichnung offen, KONZEPT Kap. 6 Nr. 9
+        - { name: Business Engineering, tasks: [Datennutzung und Business Intelligence] }   # Bezeichnung offen, KONZEPT Kap. 6 Nr. 8
 
   # M5 Mitwirkung im Entwicklungszyklus
   cycle:

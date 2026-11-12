@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-label="Meldung"><title>Meldung</title><style>
+.bg{fill:#F0F4F7}.tint{fill:#DCEFF9}.blue{fill:#0090DA}.dark{fill:#2f4356}.white{fill:#fff}.grey{fill:#D5DCE4}
+.st{stroke:#2f4356;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;fill:none}
+.stb{stroke:#0090DA;stroke-width:2;stroke-linecap:round;fill:none}
+.dash{stroke:#0090DA;stroke-width:2;stroke-dasharray:2 6;stroke-linecap:round;fill:none}
+.topo{stroke:#D5DCE4;stroke-width:1.5;fill:none}
+.wst{stroke:#fff;stroke-width:2;stroke-linecap:square;fill:none}
+@media (prefers-color-scheme:dark){
+.bg{fill:#1c2834}.tint{fill:#0b3a55}.white{fill:#263645}.grey{fill:#46596b}.dark{fill:#F0F4F7}
+.st{stroke:#F0F4F7}.topo{stroke:#263645}}
+</style><circle class="bg" cx="160" cy="116" r="96"/><ellipse class="tint" cx="160" cy="206" rx="118" ry="10"/><rect class="white st" x="76" y="46" width="152" height="148" rx="4"/><rect class="tint" x="90" y="60" width="124" height="60" rx="2"/><path class="topo" style="stroke:#fff" d="M90 106l30-26 22 18 20-14 52 30"/><circle class="white" cx="190" cy="78" r="8"/><rect class="dark" x="90" y="132" width="96" height="8" rx="2"/><rect class="grey" x="90" y="148" width="124" height="5" rx="2"/><rect class="grey" x="90" y="160" width="124" height="5" rx="2"/><rect class="grey" x="90" y="172" width="80" height="5" rx="2"/><circle class="blue" cx="234" cy="60" r="18"/><g transform="translate(225.36 51.36) scale(0.7200)" fill="none" stroke="#fff" color="#fff" stroke-width="2.222" stroke-linecap="square"><path d="M4 6h16v14H4z"/><path d="M4 10h16M8 4v4M16 4v4"/></g></svg>

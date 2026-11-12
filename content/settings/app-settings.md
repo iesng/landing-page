@@ -11,7 +11,9 @@ de:
 
     - **Operative App:** Ausschliesslich für reale Einsätze und die operative Bewältigung von Grossereignissen.
     - **Trainings-App:** Eine separate Umgebung für Ausbildungen und Übungen, damit echte Patientendaten und Übungsszenarien strikt voneinander getrennt bleiben.
-  download_label: 'Trainings-App: Jetzt herunterladen'
+  training_app_label: Trainings-App
+  operational_app_label: Operative App
+  operational_app_unavailable: Noch nicht verfügbar
 en:
   nav_label: Mobile App
   title: IOS Mobile App
@@ -24,7 +26,9 @@ en:
 
     - **Operational App:** Exclusively for real-world operations and the operational management of major incidents.
     - **Training App:** A dedicated environment for training sessions and exercises, ensuring complete separation between live patient data and practice scenarios.
-  download_label: 'Training App: Download now'
+  training_app_label: Training App
+  operational_app_label: Operational App
+  operational_app_unavailable: Not yet available
 fr:
   nav_label: Application mobile
   title: Application mobile **SII**
@@ -37,7 +41,9 @@ fr:
 
     - **Application opérationnelle :** Réservée exclusivement aux engagements réels et à la gestion opérationnelle des événements majeurs.
     - **Application de formation :** Un environnement dédié pour les cours et les exercices, garantissant une séparation stricte entre données de patients réelles et scénarios d’exercice.
-  download_label: 'Application de formation: Télécharger maintenant'
+  training_app_label: Application de formation
+  operational_app_label: Application opérationnelle
+  operational_app_unavailable: Pas encore disponible
 it:
   nav_label: App mobile
   title: App mobile **SII**
@@ -50,5 +56,7 @@ it:
 
     - **App operativa:** Destinata esclusivamente agli interventi reali e alla gestione operativa di eventi maggiori.
     - **App di formazione:** Un ambiente dedicato all’addestramento e alle esercitazioni, per garantire la separazione rigorosa tra dati reali dei pazienti e scenari formativi.
-  download_label: 'App di formazione: Scarica ora'
+  training_app_label: App di formazione
+  operational_app_label: App operativa
+  operational_app_unavailable: Non ancora disponibile
 ---

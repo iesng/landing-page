@@ -46,8 +46,6 @@
   "Landing": {
     "Nav": {
       "Home": "Home",
-      "Production": "Produzione",
-      "Training": "Formazione",
       "OpenMenu": "Apri menu",
       "CloseMenu": "Chiudi menu",
       "BABSFullName": "Ufficio federale della protezione della popolazione UFPP",
@@ -72,14 +70,12 @@
       },
       "Canton": {
         "StatusPlanning": "In pianificazione",
-        "StatusPilot": "Pilotaggio",
         "StatusTraining": "Formazione",
         "StatusProductive": "Produttivo",
         "Contact_one": "Persona di contatto",
         "Contact_other": "Persone di contatto",
         "RoleMain": "Responsabile dell'applicazione",
         "RoleDeputy": "Responsabile supplente dell'applicazione",
-        "Trainings": "Formazioni",
         "Progress": "Progresso"
       }
     },
@@ -100,6 +96,10 @@
       "FAQ": {
         "Title": "Domande frequenti - IES",
         "Description": "Risposte alle domande frequenti su IES NG – accesso, autorizzazioni, sicurezza, app mobile e supporto."
+      },
+      "PrivacyApp": {
+        "Title": "Protezione dei dati App IES NG - IES",
+        "Description": "Dichiarazione sulla protezione dei dati per l’app mobile IES NG per Android e iOS."
       }
     }
   }

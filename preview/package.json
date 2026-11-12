@@ -1,0 +1,12 @@
+{
+  "name": "ies-landing-preview",
+  "private": true,
+  "type": "module",
+  "description": "Lokale Vorschau: Produktiv-Frontend von www.ies.swiss mit den Inhalten des aktuellen Checkouts",
+  "scripts": {
+    "mirror": "node mirror.mjs",
+    "build": "node build.mjs",
+    "serve": "node serve.mjs",
+    "start": "node build.mjs && node serve.mjs"
+  }
+}

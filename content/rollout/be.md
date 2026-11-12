@@ -7,7 +7,6 @@ de:
       role: main
     - name: Claudia Bütschi
       role: deputy
-  trainings: []
 en:
   name: Bern
 fr:

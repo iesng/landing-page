@@ -5,41 +5,32 @@ Grundlage: CLAUDE.md «CD Bund / BABS und Stakeholder-Engagement», Teil B (Quel
 
 ## 1 Ausgangslage Website
 
-- Repo enthält nur Inhalte (Sveltia CMS). Rendering und Schema liegen im privaten Repo `landing-page-deploy`.
-- Abschnitt «Involvierung» (`content/settings/involvement-settings.md`) hat ein **festes Schema**:
-  - Strategisch: Einleitung + Liste `strategic_partners` (4 Karten)
-  - Taktisch: Einleitung + 2 Rollenkarten (`hop_*`, `expert_*`)
-  - Operativ: Einleitung + 3 Kurzkarten (`pool_1..3_*`)
-- Ist-Inhalt ist halb migriert und fachlich überholt:
-  - DE: Mischung aus neuer Domänenlogik und altem Modell (Rolle «Expert», «Head of Pool»), Tippfehler «Präklink», Partnerliste mit Bindestrich-Aufzählung im Fliesstext.
-  - EN/FR/IT: weiterhin altes Modell (Expert, Head of Pool, Pools).
-  - «formelle Abnahmen» auf operativer Ebene: falsch. Es gibt eine **fachliche Abnahmeempfehlung** der Fachverantwortlichen; die kommerzielle Abnahme bleibt getrennt.
-  - armasuisse als «Projektleitung»: gemäss Stakeholdermap Beschaffungsrolle.
+- Repo enthält nur Inhalte (Sveltia CMS). Frontend im privaten Repo `landing-page-deploy`.
+- Frontend (Analyse www.ies.swiss, 12.11.2026): **Vite + React** (Pre-Rendering, `hydrateRoot`), **React Router**, **react-i18next**, **Tailwind CSS**, Schrift Inter. Die Markdown-Dateien aus `content/` werden zur Build-Zeit roh ins JS-Bundle eingebettet.
+- Abschnitt «Involvierung» (`content/settings/involvement-settings.md`) hat auf `main` ein **Matrix-Schema**: 4 Domänen (`domain_<d>_title/_subtitle`) × 3 Ebenen (`<ebene>_heading/_description/_<d>_members`), `d` = preclinic, clinic, authorities, army.
+- Rollen (Fachvertreter:innen, Fachverantwortliche, Applikationsverantwortliche) haben im Schema **keinen eigenen Platz**; sie sind nur in Fliesstexten abbildbar.
+- Ist-Inhalt fachlich teilweise überholt: «formelle Abnahmen» (richtig: fachliche Abnahmeempfehlung, kommerzielle Abnahme getrennt), «KSD-Beauftragte» (richtig: KATAMED), armasuisse als «Projektleitung», SGNOR doppelt.
 
 ## 2 Vorgehen in zwei Etappen
 
 | Etappe | Inhalt | Aufwand | Abhängigkeit |
 |---|---|---|---|
-| 1 | Bestehendes Schema mit neuem Modell befüllen (DE umgesetzt) | nur Content | Übersetzung EN/FR/IT |
-| 2 | Neue Bausteine: Ebenen × Domänen, Rollen mit AKV, Fachbereiche, Mitwirkungszyklus | Frontend + CMS-Schema | `landing-page-deploy` (Code Owner) |
+| 1 | Matrix-Schema mit neuem Modell befüllen (DE umgesetzt) | nur Content | Übersetzung EN/FR/IT |
+| 2 | Neue Bausteine: Rollen mit AKV, Fachbereiche, Mitwirkungszyklus, Termine | Frontend + CMS-Schema | `landing-page-deploy` (Code Owner) |
 
-### Etappe 1 – umgesetzt in `content/settings/involvement-settings.md` (nur `de`)
+### Etappe 1 – umgesetzt in `content/settings/involvement-settings.md` (nur `de`, Basis `main`)
 
-| Feld | Alt | Neu |
-|---|---|---|
-| `nav_label` | Involvierung | **Mitwirkung** |
-| `subtitle` | allgemeiner Einbezug | Rollenteilung Bund/Kantone/Organisationen, Kette Delegation → Wahl → Abnahmeempfehlung, «Funktion zählt» |
-| `strategic_*` | Akzeptanz, Ressourcen | + Projektausschuss, Delegation via GDK/KKPKS; Partner gemäss SM v0.1, mit «·» getrennt |
-| `hop_*` | «Präklink» | **Applikationsverantwortliche** (SPOC, Super-User, Ausbildung, Prozess-Review) |
-| `expert_*` | Expert (Testing) | **Fachverantwortliche** (konsolidieren, Priorisierung, Abnahmeempfehlung, vor Ort) |
-| `operative_*` | «formelle Abnahmen» | Frontfunktionen, Einbezug via Fachvertreter:innen, Fachworkshops/Abnahmetests |
-| `pool_1..3` | Pools RD/San/Spital | **Fachvertreter:innen** · **Super-User und Trainer:innen** · **Anwender:innen** |
-
-Bewusste Abweichungen von der SM:
-- «BI-Datennutzer» und «Kantonales Amt für Zivilschutz» aus Partnerliste entfernt (Rolle bzw. operative Stufe, kein strategischer Partner).
-- SGNOR nur unter Klinik (SM), nicht doppelt.
-
-Einschränkung: Das alte Schema ordnet Rollen fix einer Ebene zu. Fachverantwortliche stehen deshalb unter «taktisch», Fachvertreter:innen unter «operativ», obwohl beide stufenunabhängig sind («Funktion zählt»). Etappe 2 löst das.
+| Feld | Änderung |
+|---|---|
+| `nav_label` | Involvierung → **Mitwirkung** |
+| `subtitle` | Rollenteilung Bund/Kantone/Organisationen, Kette Delegation → Wahl → Abnahmeempfehlung, «Funktion zählt» |
+| `strategic_description` | + Projektausschuss, Delegation via GDK/KKPKS |
+| `strategic_preclinic_members` | SGNOR entfernt (gemäss SM nur Klinik) |
+| `strategic_authorities_members` | «Kantonales Amt für Zivilschutz» entfernt (SM: operativ), armasuisse ohne «Projektleitung» |
+| `tactical_description` | Aufgaben der Applikationsverantwortlichen |
+| `tactical_authorities_members` | KSD-Beauftragte → KATAMED-Beauftragte |
+| `operative_description` | Einbezug via Fachvertreter:innen, Fachworkshops/Abnahmetests, fachliche Abnahmeempfehlung |
+| `operative_*_members` | geschlechtergerechte Formen (Disponent:innen, Einsatzleitende, Notärzt:innen …) |
 
 ## 3 Etappe 2 – Informationsarchitektur
 
@@ -48,7 +39,7 @@ Empfehlung: Kurzfassung auf der Startseite (Etappe-1-Abschnitt) mit Link «Mehr 
 | Nr. | Baustein | Inhalt | Darstellung | Quelle |
 |---|---|---|---|---|
 | M1 | Grundsätze | Bund stellt System, Kantone führen, Organisationen arbeiten damit · Funktion zählt · Kantone = 26 + FL | 3 Kacheln mit Icon | FS, Kap. 14 |
-| M2 | Ebenen × Domänen | Matrix S/T/O × Präklinik/Klinik/Polizei-Stab-Dritte/Armee | Tabelle Desktop, Tabs je Domäne mobil | SM, Kap. 15 |
+| M2 | Ebenen × Domänen | auf Startseite bereits umgesetzt (Matrix-Schema) | – | SM, Kap. 15 |
 | M3 | Rollen (AKV) | Aufgaben, Kompetenzen, Verantwortung je Rolle + Zuordnung zu Ebenen | Karten mit 3 Rubriken, Matrix Rolle × Ebene | Kap. 17 |
 | M4 | Fachbereiche | 5 Gruppen, 12 Fachbereiche, Teilaufgaben | Akkordeon | FB/IA, Kap. 16 |
 | M5 | Mitwirkung im Entwicklungszyklus | Zyklus Anforderung → PI → Sprint → Fachtesting → Backlog · Gefässe · 4 Schritte Fachtesting · Kernsatz «Passt nicht zum Einsatz» | Prozesskette (Chevrons), Tabelle | Kap. 19 |
@@ -125,9 +116,8 @@ Publizieren mit Hinweis «Stand»:
 | 4 | Termine: Roadmap nennt R0.8 02.12.2026 / R1.0 12.05.2027, Projektplanung R0.8 25.11.2026 / R1.0 31.03.2027 / Go-Live 18.05.2027 → angleichen | PO-Team |
 | 5 | Etappe 2: Schema und Unterseite im Deploy-Repo umsetzen | Code Owner `landing-page-deploy` |
 | 6 | URL Feedback-Formular «IES NG – User Feedback» (öffentlich?) | PO-Team |
-| 7 | Logos `strategic_partners` (aktuell Platzhalter-Bild); Nutzungsrechte Verbandslogos klären oder Icons je Domäne verwenden | Redaktion |
-| 8 | Teilnahme 10.12.2026 (vor Ort alle vs. hybrid) und Bergregionen (GL) – vor Publikation von M6 klären | PO-Team |
-| 9 | Fachbereich «Business Engineer» vs. «Businessanalyst» vor Publikation M4 klären | PO-Team |
+| 7 | Teilnahme 10.12.2026 (vor Ort alle vs. hybrid) und Bergregionen (GL) – vor Publikation von M6 klären | PO-Team |
+| 8 | Fachbereich «Business Engineer» vs. «Businessanalyst» vor Publikation M4 klären | PO-Team |
 
 ## 7 Gestaltung (CD Bund, Web)
 

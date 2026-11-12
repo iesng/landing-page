@@ -7,7 +7,6 @@ de:
       role: main
     - name: Wenceslao Garcia
       role: deputy
-  trainings: []
 en:
   name: Fribourg
 fr:

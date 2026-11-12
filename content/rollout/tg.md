@@ -7,7 +7,6 @@ de:
       role: main
     - name: Andreas Mathis
       role: deputy
-  trainings: []
 en:
   name: Thurgau
 fr:
