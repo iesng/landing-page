@@ -25,6 +25,15 @@ fs.cpSync(path.join(ROOT, 'content', 'uploads'), path.join(OUT, 'images', 'uploa
 fs.writeFileSync(path.join(OUT, 'shell.html'),
   fs.readFileSync(path.join(LIVE, 'shell.html'), 'utf8').replace(/<div id="root">[\s\S]*<\/div>(\s*<\/body>)/, '<div id="root"></div>$1'));
 
+// Einstiegsseiten je Sprache, damit auch einfache Static-Server ohne SPA-Fallback funktionieren
+// (z. B. «python3 -m http.server»). Weitere Routen funktionieren per Client-Navigation.
+const shell = fs.readFileSync(path.join(OUT, 'shell.html'), 'utf8');
+fs.writeFileSync(path.join(OUT, 'index.html'), '<meta http-equiv="refresh" content="0;url=/de/">');
+for (const l of ['de', 'fr', 'it', 'en']) {
+  fs.mkdirSync(path.join(OUT, l), { recursive: true });
+  fs.writeFileSync(path.join(OUT, l, 'index.html'), shell);
+}
+
 let replaced = 0, kept = 0;
 for (const f of fs.readdirSync(path.join(OUT, 'assets')).filter((f) => f.endsWith('.js'))) {
   const file = path.join(OUT, 'assets', f);
