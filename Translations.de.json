@@ -79,10 +79,6 @@
         "Progress": "Fortschritt"
       }
     },
-    "OpenSource": {
-      "Title": "Lizenzen",
-      "Heading": "Diese Anwendung enthält die folgende Software:"
-    },
     "Meta": {
       "SiteName": "IES",
       "Home": {
@@ -105,7 +101,7 @@
         "Title": "Datenschutzerklärung IES NG App - IES",
         "Description": "Datenschutzerklärung für die mobile Applikation IES NG für Android und iOS."
       },
-      "OpenSource": {
+      "Licenses": {
         "Title": "Lizenzen - IES",
         "Description": "Open-Source-Software, die IES NG verwendet, mit Lizenz und Link auf den Quellcode."
       }
