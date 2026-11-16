@@ -79,6 +79,9 @@
         "Progress": "Progression"
       }
     },
+    "A11y": {
+      "OpensInNewTab": "(s’ouvre dans un nouvel onglet)"
+    },
     "Meta": {
       "SiteName": "IES",
       "Home": {

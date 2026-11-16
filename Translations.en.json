@@ -79,6 +79,9 @@
         "Progress": "Progress"
       }
     },
+    "A11y": {
+      "OpensInNewTab": "(opens in a new tab)"
+    },
     "Meta": {
       "SiteName": "IES",
       "Home": {
@@ -102,8 +105,8 @@
         "Description": "Privacy policy for the IES NG mobile app for Android and iOS."
       },
       "Licenses": {
-        "Title": "Licenses - IES",
-        "Description": "Open source software used by IES NG, with license and link to the source code."
+        "Title": "Licences - IES",
+        "Description": "Open source software used by IES NG, with licence and link to the source code."
       }
     }
   }
