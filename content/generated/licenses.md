@@ -1,8 +1,12 @@
+[a7b0/uri-templates](https://github.com/a7b0/uri-templates) (MIT) · © NetBike
+
+[AdamWhiteHat/BigDecimal](https://github.com/AdamWhiteHat/BigDecimal) (MIT) · © Adam White
+
 [ajv](https://github.com/ajv-validator/ajv) (MIT) · © Evgeny Poberezkin
 
 [ajv-formats](https://github.com/ajv-validator/ajv-formats) (MIT) · © Evgeny Poberezkin
 
-[Alpine Linux](https://alpinelinux.org/) ([Lizenz](https://pkgs.alpinelinux.org/packages))
+[Alpine Linux](https://alpinelinux.org/) ([LicenseRef-Alpine-Linux](https://pkgs.alpinelinux.org/packages))
 
 [AngleSharp](https://github.com/AngleSharp/AngleSharp) (MIT) · © AngleSharp
 
@@ -12,29 +16,33 @@
 
 [Apache HTTP Server](https://httpd.apache.org/) (Apache-2.0)
 
+[apache/lucenenet](https://github.com/apache/lucenenet) (Apache-2.0) · © The Apache Software Foundation
+
+[apache/superset](https://github.com/apache/superset) (Apache-2.0)
+
 [argparse](https://github.com/nodeca/argparse) (Python-2.0) · © Stichting Mathematisch Centrum Amsterdam, The Netherlands. All rights reserved
 
 [aria-hidden](https://github.com/theKashey/aria-hidden) (MIT) · © Anton Korzunov
 
 [asynckit](https://github.com/alexindigo/asynckit) (MIT) · © Alex Indigo
 
-[aws-sdk-net](https://github.com/aws/aws-sdk-net) (Apache-2.0)
+[aws/aws-sdk-net](https://github.com/aws/aws-sdk-net) (Apache-2.0)
 
 [axios](https://github.com/axios/axios) (MIT) · © Matt Zabriskie & Collaborators
 
-[azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet) (MIT) · © Microsoft Corporation. All rights reserved
+[Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) (MIT) · © Microsoft Corporation. All rights reserved
 
-[azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) (MIT) · © Microsoft Corporation. All rights reserved
+[AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet) (MIT) · © Microsoft Corporation. All rights reserved
 
-[babel](https://github.com/babel/babel) (MIT) · © Sebastian McKenzie and other contributors
+[AzureAD/microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) (MIT) · © Microsoft Corporation. All rights reserved
 
 [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) (MIT) · © Kent C. Dodds
 
+[babel/babel](https://github.com/babel/babel) (MIT) · © Sebastian McKenzie and other contributors
+
 [bail](https://github.com/wooorm/bail) (MIT) · © Titus Wormer
 
-[bc-csharp](https://github.com/bcgit/bc-csharp) (MIT) · © Legion of the Bouncy Castle Inc
-
-[BigDecimal](https://github.com/AdamWhiteHat/BigDecimal) (MIT) · © Adam White. MIT License. See License
+[bcgit/bc-csharp](https://github.com/bcgit/bc-csharp) (MIT) · © Legion of the Bouncy Castle Inc
 
 [call-bind-apply-helpers](https://github.com/ljharb/call-bind-apply-helpers) (MIT) · © Jordan Harband
 
@@ -42,7 +50,7 @@
 
 [camelcase](https://github.com/sindresorhus/camelcase) (MIT) · © Sindre Sorhus
 
-[camelize](https://github.com/ljharb/camelize) (MIT) · © HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+[camelize](https://github.com/ljharb/camelize) (MIT)
 
 [ccount](https://github.com/wooorm/ccount) (MIT) · © Titus Wormer
 
@@ -57,6 +65,8 @@
 [character-reference-invalid](https://github.com/wooorm/character-reference-invalid) (MIT) · © Titus Wormer
 
 [classnames](https://github.com/JedWatson/classnames) (MIT) · © Jed Watson
+
+[clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) (MIT) · © Claudéric Demers
 
 [cliui](https://github.com/yargs/cliui) (ISC) · © Contributors
 
@@ -73,8 +83,6 @@
 [color-name](https://github.com/colorjs/color-name) (MIT) · © Dmitry Ivanov
 
 [comma-separated-tokens](https://github.com/wooorm/comma-separated-tokens) (MIT) · © Titus Wormer
-
-[commander.js](https://github.com/tj/commander.js) (MIT) · © TJ Holowaychuk
 
 [component-emitter](https://github.com/sindresorhus/component-emitter) (MIT) · © Component contributors
 
@@ -99,8 +107,6 @@
 [csstype](https://github.com/frenic/csstype) (MIT) · © Fredrik Nicol
 
 [CsvHelper](https://github.com/JoshClose/CsvHelper) (MS-PL OR Apache-2.0) · © Josh Close
-
-[cva](https://github.com/joe-bell/cva) (Apache-2.0) · © notice that is included in or attached to the work
 
 [d3-array](https://github.com/d3/d3-array) (ISC) · © Mike Bostock
 
@@ -128,7 +134,7 @@
 
 [date-fns-jalali](https://github.com/date-fns-jalali/date-fns-jalali) (MIT) · © Sasha Koss and Lesha Koss
 
-[Debian](https://www.debian.org/) ([Lizenz](https://www.debian.org/legal/licenses/))
+[Debian](https://www.debian.org/) ([LicenseRef-Debian](https://www.debian.org/legal/licenses/))
 
 [debug](https://github.com/debug-js/debug) (MIT) · © TJ Holowaychuk
 
@@ -140,29 +146,33 @@
 
 [deepmerge](https://github.com/TehShrike/deepmerge) (MIT) · © James Halliday, Josh Duff, and other contributors
 
-[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (MIT)
+[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (MIT)
 
 [dequal](https://github.com/lukeed/dequal) (MIT) · © Luke Edwards
-
-[detect-node](https://github.com/thekashey/detect-node) (MIT) · © Ilya Kantor
 
 [devlop](https://github.com/wooorm/devlop) (MIT) · © Titus Wormer
 
 [dijkstrajs](https://github.com/tcort/dijkstrajs) (MIT)
 
-[DistributedLock](https://github.com/madelson/DistributedLock) (MIT) · © Michael Adelson
-
 [dnd](https://github.com/hello-pangea/dnd) (Apache-2.0) · © Gabriel Santerre
-
-[dnd-kit](https://github.com/clauderic/dnd-kit) (MIT) · © Claudéric Demers
 
 [dom-helpers](https://github.com/react-bootstrap/dom-helpers) (MIT) · © Jason Quense
 
-[dotnet](https://github.com/dotnet/dotnet) (MIT) · © Microsoft Corporation. All rights reserved
+[domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (MIT) · © Richard Morris
 
-[dotnet-env](https://github.com/tonerdo/dotnet-env) (MIT)
+[dotnet/dotnet](https://github.com/dotnet/dotnet) (MIT) · © Microsoft Corporation. All rights reserved
 
-[dotnetrdf](https://github.com/dotnetrdf/dotnetrdf) (MIT) · © dotNetRDF Project
+[dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) (MIT) · © Microsoft Corporation. All rights reserved
+
+[dotnet/reactive](https://github.com/dotnet/reactive) (MIT) · © NET Foundation and Contributors
+
+[dotnet/runtime](https://github.com/dotnet/runtime) (MIT) · © Microsoft Corporation. All rights reserved
+
+[dotnet/yarp](https://github.com/dotnet/yarp) (MIT) · © Microsoft Corporation. All rights reserved
+
+[dotnetrdf/dotnetrdf](https://github.com/dotnetrdf/dotnetrdf) (MIT) · © dotNetRDF Project
+
+[dotnetrdf/vds-common](https://github.com/dotnetrdf/vds-common) (MIT)
 
 [dunder-proto](https://github.com/es-shims/dunder-proto) (MIT) · © ECMAScript Shims
 
@@ -170,11 +180,9 @@
 
 [EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) (Apache-2.0) · © Shay Rojansky
 
-[efcore.pg](https://github.com/npgsql/efcore.pg) (PostgreSQL) · © The Npgsql Development Team
-
 [emoji-regex](https://github.com/mathiasbynens/emoji-regex) (MIT)
 
-[emotion](https://github.com/emotion-js/emotion) (MIT) · © Emotion team and other contributors
+[emotion-js/emotion](https://github.com/emotion-js/emotion) (MIT) · © Emotion team and other contributors
 
 [entities](https://github.com/fb55/entities) (BSD-2-Clause) · © Felix Böhm
 
@@ -202,21 +210,25 @@
 
 [fast-equals](https://github.com/planttheidea/fast-equals) (MIT) · © Tony Quetano
 
-[fast-uri](https://github.com/fastify/fast-uri) (BSD-3-Clause) · © Gary Court until
+[fast-uri](https://github.com/fastify/fast-uri) (BSD-3-Clause) · © Gary Court
+
+[felixge/node-combined-stream](https://github.com/felixge/node-combined-stream) (MIT) · © Debuggable Limited
+
+[felixge/node-delayed-stream](https://github.com/felixge/node-delayed-stream) (MIT) · © Debuggable Limited
 
 [find-root](https://github.com/js-n/find-root) (MIT) · © jsdnxx
 
 [find-up](https://github.com/sindresorhus/find-up) (MIT) · © Sindre Sorhus
 
-[floating-ui](https://github.com/floating-ui/floating-ui) (MIT) · © Floating UI contributors
+[floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) (MIT) · © Floating UI contributors
 
 [FluentFTP](https://github.com/robinrodricks/FluentFTP) (MIT) · © Robin Rodricks, Michael Stiemke and FluentFTP Contributors
 
 [follow-redirects](https://github.com/follow-redirects/follow-redirects) (MIT) · © Olivier Lalonde, James Talmage, Ruben Verborgh
 
-[Fonts](https://github.com/SixLabors/Fonts) (Apache-2.0) · © Six Labors
-
 [form-data](https://github.com/form-data/form-data) (MIT) · © Felix Geisendörfer and contributors
+
+[FormidableLabs/victory](https://github.com/FormidableLabs/victory) (MIT AND ISC)
 
 [function-bind](https://github.com/Raynos/function-bind) (MIT) · © Raynos
 
@@ -228,15 +240,13 @@
 
 [get-proto](https://github.com/ljharb/get-proto) (MIT) · © Jordan Harband
 
-[go.microsoft.com](https://go.microsoft.com/fwlink/?linkid=868515) (MIT) · © Microsoft Corporation. All rights reserved
-
 [gopd](https://github.com/ljharb/gopd) (MIT) · © Jordan Harband
 
-[graphql-client](https://github.com/graphql-dotnet/graphql-client) (MIT)
+[graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client) (MIT)
 
-[grpc-dotnet](https://github.com/grpc/grpc-dotnet) (Apache-2.0) · © The gRPC Authors
+[grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) (Apache-2.0) · © The gRPC Authors
 
-[hammer.js](https://github.com/naver/hammer.js) (MIT) · © NAVER Corp
+[HarfBuzzSharp / SkiaSharp](https://go.microsoft.com/fwlink/?linkid=868515) (MIT) · © Microsoft Corporation. All rights reserved
 
 [has-flag](https://github.com/sindresorhus/has-flag) (MIT) · © Sindre Sorhus
 
@@ -250,11 +260,11 @@
 
 [hast-util-whitespace](https://github.com/syntax-tree/hast-util-whitespace) (MIT) · © Titus Wormer
 
+[Havret/System.Text.Json.Protobuf](https://github.com/Havret/System.Text.Json.Protobuf) (MIT)
+
 [hijri-converter](https://www.npmjs.com/package/@tabby_ai/hijri-converter) (MIT) · © Tabby FZ-LLC
 
 [hoist-non-react-statics](https://github.com/mridgway/hoist-non-react-statics) (BSD-3-Clause) · © Yahoo! Inc. All rights reserved
-
-[html-agility-pack](https://github.com/zzzprojects/html-agility-pack) (MIT) · © ZZZ Projects Inc
 
 [html-parse-stringify](https://github.com/i18next/html-parse-stringify) (MIT) · © Henrik Joreteg
 
@@ -269,6 +279,8 @@
 [inline-style-parser](https://github.com/remarkablemark/inline-style-parser) (MIT) · © TJ Holowaychuk
 
 [input-format](https://gitlab.com/catamphetamine/input-format) (MIT) · © catamphetamine
+
+[inspect-js/node-supports-preserve-symlinks-flag](https://github.com/inspect-js/node-supports-preserve-symlinks-flag) (MIT) · © Inspect JS
 
 [internmap](https://github.com/mbostock/internmap) (ISC) · © Mike Bostock
 
@@ -288,11 +300,11 @@
 
 [J2N](https://github.com/NightOwl888/J2N) (Apache-2.0) · © J2N
 
-[js-css-filter](https://github.com/leizongmin/js-css-filter) (MIT) · © 老雷
+[joe-bell/cva](https://github.com/joe-bell/cva) (Apache-2.0) · © Joe Bell
+
+[jridgewell/sourcemaps](https://github.com/jridgewell/sourcemaps) (MIT) · © Justin Ridgewell
 
 [js-tokens](https://github.com/lydell/js-tokens) (MIT) · © Simon Lydell
-
-[js-xss](https://github.com/leizongmin/js-xss) (MIT) · © Zongmin Lei(雷宗民)
 
 [jsesc](https://github.com/mathiasbynens/jsesc) (MIT)
 
@@ -300,9 +312,15 @@
 
 [json-schema-traverse](https://github.com/epoberezkin/json-schema-traverse) (MIT) · © Evgeny Poberezkin
 
+[justmoon/node-extend](https://github.com/justmoon/node-extend) (MIT) · © Stefan Thomas
+
 [jwt-decode](https://github.com/auth0/jwt-decode) (MIT) · © Auth0, Inc
 
 [keycharm](https://github.com/AlexDM0/keycharm) (Apache-2.0 OR MIT)
+
+[leizongmin/js-css-filter](https://github.com/leizongmin/js-css-filter) (MIT) · © 老雷
+
+[leizongmin/js-xss](https://github.com/leizongmin/js-xss) (MIT) · © Zongmin Lei(雷宗民)
 
 [libphonenumber-js](https://gitlab.com/catamphetamine/libphonenumber-js) (MIT) · © catamphetamine
 
@@ -320,9 +338,9 @@
 
 [loose-envify](https://github.com/zertosh/loose-envify) (MIT) · © Andres Suarez
 
-[lucenenet](https://github.com/apache/lucenenet) (Apache-2.0) · © The Apache Software Foundation
+[lucide-icons/lucide](https://github.com/lucide-icons/lucide) (ISC) · © Lucide Icons and Contributors
 
-[lucide](https://github.com/lucide-icons/lucide) (ISC) · © Lucide Icons and Contributors
+[madelson/DistributedLock](https://github.com/madelson/DistributedLock) (MIT) · © Michael Adelson
 
 [MailKit](https://github.com/jstedfast/MailKit) (MIT) · © NET Foundation and Contributors
 
@@ -356,7 +374,9 @@
 
 [micromark](https://github.com/micromark/micromark) (MIT) · © Titus Wormer
 
-[microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) (MIT) · © Microsoft Corporation. All rights reserved
+[microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) (MIT) · © Microsoft
+
+[Microsoft/OpenAPI.NET](https://github.com/Microsoft/OpenAPI.NET) (MIT) · © Microsoft Corporation. All rights reserved
 
 [mime-db](https://github.com/jshttp/mime-db) (MIT) · © Jonathan Ong
 
@@ -369,6 +389,8 @@
 [ms](https://github.com/vercel/ms) (MIT) · © Vercel, Inc
 
 [nanoid](https://github.com/ai/nanoid) (MIT) · © Andrey Sitnik
+
+[naver/hammer.js](https://github.com/naver/hammer.js) (MIT) · © NAVER Corp
 
 [ncalc](https://github.com/ncalc/ncalc) (MIT) · © Sebastien Ros and contributors
 
@@ -384,45 +406,19 @@
 
 [nginx](https://nginx.org/) (BSD-2-Clause)
 
-[node-agent-base](https://github.com/TooTallNate/node-agent-base) (MIT)
-
-[node-combined-stream](https://github.com/felixge/node-combined-stream) (MIT) · © Debuggable Limited
-
-[node-delayed-stream](https://github.com/felixge/node-delayed-stream) (MIT) · © Debuggable Limited
-
-[node-error-ex](https://github.com/qix-/node-error-ex) (MIT) · © JD Ballard
-
-[node-extend](https://github.com/justmoon/node-extend) (MIT) · © Stefan Thomas
-
-[node-https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent) (MIT)
-
-[node-is-arrayish](https://github.com/qix-/node-is-arrayish) (MIT) · © JD Ballard
-
-[node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) (MIT) · © Microsoft
-
-[node-qrcode](https://github.com/soldair/node-qrcode) (MIT) · © Ryan Day
-
-[node-require-directory](https://github.com/troygoode/node-require-directory) (MIT) · © Troy Goode
-
-[node-supports-preserve-symlinks-flag](https://github.com/inspect-js/node-supports-preserve-symlinks-flag) (MIT) · © Inspect JS
-
-[node-tree-kill](https://github.com/pkrumins/node-tree-kill) (MIT) · © Peter Krumins
-
 [npgsql](https://github.com/npgsql/npgsql) (PostgreSQL) · © The Npgsql Development Team
+
+[npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) (PostgreSQL) · © The Npgsql Development Team
 
 [object-assign](https://github.com/sindresorhus/object-assign) (MIT) · © Sindre Sorhus
 
-[Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) (MIT) · © Microsoft Corporation. All rights reserved
+[open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) (Apache-2.0) · © The OpenTelemetry Authors
 
-[OpenAPI.NET](https://github.com/Microsoft/OpenAPI.NET) (MIT) · © Microsoft Corporation. All rights reserved
+[open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) (Apache-2.0) · © The OpenTelemetry Authors
 
-[openiddict-core](https://github.com/openiddict/openiddict-core) (Apache-2.0) · © Kévin Chalet. All rights reserved
+[openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) (Apache-2.0) · © Kévin Chalet. All rights reserved
 
-[opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) (Apache-2.0) · © The OpenTelemetry Authors
-
-[opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) (Apache-2.0) · © The OpenTelemetry Authors
-
-[orderedmap](https://github.com/marijnh/orderedmap) (MIT) · © by Marijn Haverbeke and others
+[orderedmap](https://github.com/marijnh/orderedmap) (MIT) · © Marijn Haverbeke and others
 
 [p-limit](https://github.com/sindresorhus/p-limit) (MIT) · © Sindre Sorhus
 
@@ -448,6 +444,8 @@
 
 [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial) (MIT) · © Marc Gravell
 
+[pkrumins/node-tree-kill](https://github.com/pkrumins/node-tree-kill) (MIT) · © Peter Krumins
+
 [pngjs](https://github.com/lukeapage/pngjs) (MIT)
 
 [Polly](https://github.com/App-vNext/Polly) (BSD-3-Clause) · © App vNext
@@ -460,57 +458,57 @@
 
 [PostgreSQL](https://www.postgresql.org/) (PostgreSQL)
 
-[primitives](https://github.com/radix-ui/primitives) (MIT) · © WorkOS
-
 [prop-types](https://github.com/facebook/prop-types) (MIT) · © Facebook, Inc
 
 [propagating-hammerjs](https://github.com/josdejong/propagating-hammerjs) (MIT) · © Jos de Jong
 
 [property-information](https://github.com/wooorm/property-information) (MIT) · © Titus Wormer
 
-[prosemirror-changeset](https://code.haverbeke.berlin/prosemirror/prosemirror-changeset) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-changeset](https://code.haverbeke.berlin/prosemirror/prosemirror-changeset) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-commands](https://github.com/prosemirror/prosemirror-commands) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-commands](https://github.com/prosemirror/prosemirror-commands) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-dropcursor](https://github.com/prosemirror/prosemirror-dropcursor) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-dropcursor](https://github.com/prosemirror/prosemirror-dropcursor) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-gapcursor](https://github.com/prosemirror/prosemirror-gapcursor) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-gapcursor](https://github.com/prosemirror/prosemirror-gapcursor) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-history](https://github.com/prosemirror/prosemirror-history) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-history](https://github.com/prosemirror/prosemirror-history) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-inputrules](https://github.com/prosemirror/prosemirror-inputrules) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-inputrules](https://github.com/prosemirror/prosemirror-inputrules) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-keymap](https://github.com/prosemirror/prosemirror-keymap) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-keymap](https://github.com/prosemirror/prosemirror-keymap) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-markdown](https://github.com/prosemirror/prosemirror-markdown) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-markdown](https://github.com/prosemirror/prosemirror-markdown) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-model](https://code.haverbeke.berlin/prosemirror/prosemirror-model) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-model](https://code.haverbeke.berlin/prosemirror/prosemirror-model) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-schema-list](https://github.com/prosemirror/prosemirror-schema-list) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-schema-list](https://github.com/prosemirror/prosemirror-schema-list) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-state](https://github.com/prosemirror/prosemirror-state) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-state](https://github.com/prosemirror/prosemirror-state) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-tables](https://github.com/ProseMirror/prosemirror-tables) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-tables](https://github.com/ProseMirror/prosemirror-tables) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-transform](https://github.com/prosemirror/prosemirror-transform) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-transform](https://github.com/prosemirror/prosemirror-transform) (MIT) · © Marijn Haverbeke and others
 
-[prosemirror-view](https://code.haverbeke.berlin/prosemirror/prosemirror-view) (MIT) · © by Marijn Haverbeke and others
+[prosemirror-view](https://code.haverbeke.berlin/prosemirror/prosemirror-view) (MIT) · © Marijn Haverbeke and others
 
-[protobuf](https://github.com/protocolbuffers/protobuf) (BSD-3-Clause) · © Google Inc
+[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) (BSD-3-Clause) · © Google Inc
 
 [proxy-from-env](https://github.com/Rob--W/proxy-from-env) (MIT) · © Rob Wu
 
 [punycode.js](https://github.com/mathiasbynens/punycode.js) (MIT)
 
-[query](https://github.com/TanStack/query) (MIT) · © Tanner Linsley
+[qix-/node-error-ex](https://github.com/qix-/node-error-ex) (MIT) · © JD Ballard
+
+[qix-/node-is-arrayish](https://github.com/qix-/node-is-arrayish) (MIT) · © JD Ballard
+
+[radix-ui/primitives](https://github.com/radix-ui/primitives) (MIT) · © WorkOS
 
 [raf-schd](https://github.com/alexreardon/raf-schd) (MIT) · © Alex Reardon
 
-[RBush](https://github.com/viceroypenguin/RBush) (MIT) · © Turning Code, LLC (and others)
-
 [react](https://github.com/facebook/react) (MIT) · © Facebook, Inc. and its affiliates
 
-[react-data-table-component](https://github.com/jbetancur/react-data-table-component) (Apache-2.0) · © notice that is included in or attached to the work
+[react-data-table-component](https://github.com/jbetancur/react-data-table-component) (Apache-2.0) · © John Betancur
 
 [react-datepicker](https://github.com/Hacker0x01/react-datepicker) (MIT) · © HackerOne Inc and individual contributors
 
@@ -548,21 +546,19 @@
 
 [react-window](https://github.com/bvaughn/react-window) (MIT) · © Brian Vaughn
 
-[reactive](https://github.com/dotnet/reactive) (MIT) · © NET Foundation and Contributors
-
 [recharts](https://github.com/recharts/recharts) (MIT) · © recharts
 
 [redux](https://github.com/reduxjs/redux) (MIT) · © Dan Abramov
 
 [redux-thunk](https://github.com/reduxjs/redux-thunk) (MIT) · © Dan Abramov
 
-[redux-toolkit](https://github.com/reduxjs/redux-toolkit) (MIT) · © Mark Erikson
+[reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit) (MIT) · © Mark Erikson
 
-[rehype-minify](https://github.com/rehypejs/rehype-minify) (MIT) · © Titus Wormer
-
-[remark](https://github.com/remarkjs/remark) (MIT) · © Titus Wormer
+[rehypejs/rehype-minify](https://github.com/rehypejs/rehype-minify) (MIT) · © Titus Wormer
 
 [remark-rehype](https://github.com/remarkjs/remark-rehype) (MIT) · © Titus Wormer
+
+[remarkjs/remark](https://github.com/remarkjs/remark) (MIT) · © Titus Wormer
 
 [require-from-string](https://github.com/floatdrop/require-from-string) (MIT) · © Vsevolod Strukchinsky
 
@@ -578,11 +574,9 @@
 
 [resolvers](https://github.com/react-hook-form/resolvers) (MIT) · © Beier(Bill) Luo
 
-[rope-sequence](https://github.com/marijnh/rope-sequence) (MIT) · © by Marijn Haverbeke
+[rope-sequence](https://github.com/marijnh/rope-sequence) (MIT) · © Marijn Haverbeke
 
-[runtime](https://github.com/dotnet/runtime) (MIT) · © Microsoft Corporation. All rights reserved
-
-[rxjs](https://github.com/reactivex/rxjs) (Apache-2.0) · © notice that is included in or attached to the work
+[rxjs](https://github.com/reactivex/rxjs) (Apache-2.0) · © Google, Inc., Netflix, Inc., Microsoft Corp. and contributors
 
 [set-blocking](https://github.com/yargs/set-blocking) (ISC) · © Contributors
 
@@ -594,13 +588,15 @@
 
 [shell-quote](https://github.com/ljharb/shell-quote) (MIT) · © James Halliday
 
+[SixLabors/Fonts](https://github.com/SixLabors/Fonts) (Apache-2.0) · © Six Labors
+
+[soldair/node-qrcode](https://github.com/soldair/node-qrcode) (MIT) · © Ryan Day
+
 [sonner](https://github.com/emilkowalski/sonner) (MIT) · © Emil Kowalski
 
 [source-map](https://github.com/mozilla/source-map) (BSD-3-Clause) · © Mozilla Foundation and contributors
 
 [source-map-js](https://github.com/7rulnik/source-map-js) (BSD-3-Clause) · © Mozilla Foundation and contributors
-
-[sourcemaps](https://github.com/jridgewell/sourcemaps) (MIT) · © Justin Ridgewell
 
 [space-separated-tokens](https://github.com/wooorm/space-separated-tokens) (MIT) · © Titus Wormer
 
@@ -610,7 +606,7 @@
 
 [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) (MIT) · © Stack Exchange, Inc
 
-[standard-schema](https://github.com/standard-schema/standard-schema) (MIT) · © Colin McDonnell
+[standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) (MIT) · © Colin McDonnell
 
 [string-width](https://github.com/sindresorhus/string-width) (MIT) · © Sindre Sorhus
 
@@ -626,15 +622,9 @@
 
 [styled-components](https://github.com/styled-components/styled-components) (MIT) · © Glen Maddern and Maximilian Stoiber
 
-[stylis.js](https://github.com/thysultan/stylis.js) (MIT) · © Sultan Tarimo
-
-[superset](https://github.com/apache/superset) (Apache-2.0)
-
 [supports-color](https://github.com/chalk/supports-color) (MIT) · © Sindre Sorhus
 
 [svg-injector](https://github.com/tanem/svg-injector) (MIT) · © Tane Morgan
-
-[Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (MIT) · © Richard Morris
 
 [Swiss.FCh.Cube.Dimension](https://www.nuget.org/packages/Swiss.FCh.Cube.Dimension) (MIT)
 
@@ -642,29 +632,41 @@
 
 [System.Security.Cryptography.ProtectedData](https://dot.net/) (MIT) · © Microsoft Corporation. All rights reserved
 
-[System.Text.Json.Protobuf](https://github.com/Havret/System.Text.Json.Protobuf) (MIT)
-
 [tabbable](https://github.com/focus-trap/tabbable) (MIT) · © David Clark
-
-[table](https://github.com/TanStack/table) (MIT) · © Tanner Linsley
 
 [tailwind-merge](https://github.com/dcastil/tailwind-merge) (MIT) · © Dany Castillo
 
+[TanStack/query](https://github.com/TanStack/query) (MIT) · © Tanner Linsley
+
+[TanStack/table](https://github.com/TanStack/table) (MIT) · © Tanner Linsley
+
 [temporalio/sdk-dotnet](https://github.com/temporalio/sdk-dotnet) (MIT)
+
+[thekashey/detect-node](https://github.com/thekashey/detect-node) (MIT) · © Ilya Kantor
+
+[thysultan/stylis.js](https://github.com/thysultan/stylis.js) (MIT) · © Sultan Tarimo
 
 [TimeZoneConverter](https://github.com/mattjohnsonpint/TimeZoneConverter) (MIT)
 
 [tiny-invariant](https://github.com/alexreardon/tiny-invariant) (MIT) · © Alexander Reardon
 
-[tiptap](https://github.com/ueberdosis/tiptap) (MIT) · © Tiptap GmbH
-
 [tiptap-markdown-3](https://github.com/shjacobs303/tiptap-markdown-3) (MIT) · © Antoine Guingand
+
+[tj/commander.js](https://github.com/tj/commander.js) (MIT) · © TJ Holowaychuk
+
+[tonerdo/dotnet-env](https://github.com/tonerdo/dotnet-env) (MIT)
+
+[TooTallNate/node-agent-base](https://github.com/TooTallNate/node-agent-base) (MIT)
+
+[TooTallNate/node-https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent) (MIT)
 
 [trim-lines](https://github.com/wooorm/trim-lines) (MIT) · © Titus Wormer
 
 [trough](https://github.com/wooorm/trough) (MIT) · © Titus Wormer
 
-[ts-toolbelt](https://github.com/millsp/ts-toolbelt) (Apache-2.0) · © notice that is included in or attached to the work
+[troygoode/node-require-directory](https://github.com/troygoode/node-require-directory) (MIT) · © Troy Goode
+
+[ts-toolbelt](https://github.com/millsp/ts-toolbelt) (Apache-2.0) · © Pierre-Antoine Mills
 
 [tslib](https://github.com/Microsoft/tslib) (0BSD) · © Microsoft Corporation
 
@@ -673,6 +675,8 @@
 [tz](https://github.com/date-fns/tz) (MIT) · © Sasha Koss
 
 [uc.micro](https://github.com/markdown-it/uc.micro) (MIT) · © Mathias Bynens
+
+[ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) (MIT) · © Tiptap GmbH
 
 [unified](https://github.com/unifiedjs/unified) (MIT) · © Titus Wormer
 
@@ -686,8 +690,6 @@
 
 [unist-util-visit-parents](https://github.com/syntax-tree/unist-util-visit-parents) (MIT) · © Titus Wormer
 
-[uri-templates](https://github.com/a7b0/uri-templates) (MIT) · © NetBike
-
 [use-callback-ref](https://github.com/theKashey/use-callback-ref) (MIT) · © Anton Korzunov
 
 [use-isomorphic-layout-effect](https://github.com/Andarist/use-isomorphic-layout-effect) (MIT) · © Mateusz Burzyński
@@ -696,13 +698,11 @@
 
 [uuid](https://github.com/uuidjs/uuid) (MIT) · © Robert Kieffer and other contributors
 
-[vds-common](https://github.com/dotnetrdf/vds-common) (MIT)
-
 [vfile](https://github.com/vfile/vfile) (MIT) · © Titus Wormer
 
 [vfile-message](https://github.com/vfile/vfile-message) (MIT) · © Titus Wormer
 
-[victory](https://github.com/FormidableLabs/victory) (MIT AND ISC)
+[viceroypenguin/RBush](https://github.com/viceroypenguin/RBush) (MIT) · © Turning Code, LLC (and others)
 
 [vis-data](https://github.com/visjs/vis-data) (Apache-2.0 OR MIT)
 
@@ -712,7 +712,7 @@
 
 [void-elements](https://github.com/pugjs/void-elements) (MIT) · © hemanth
 
-[w3c-keyname](https://github.com/marijnh/w3c-keyname) (MIT) · © by Marijn Haverbeke and others
+[w3c-keyname](https://github.com/marijnh/w3c-keyname) (MIT) · © Marijn Haverbeke and others
 
 [which-module](https://github.com/nexdrew/which-module) (ISC) · © Contributors
 
@@ -728,8 +728,8 @@
 
 [yargs-parser](https://github.com/yargs/yargs-parser) (ISC) · © Contributors
 
-[yarp](https://github.com/dotnet/yarp) (MIT) · © Microsoft Corporation. All rights reserved
-
 [zod](https://github.com/colinhacks/zod) (MIT) · © Colin McDonnell
 
 [zwitch](https://github.com/wooorm/zwitch) (MIT) · © Titus Wormer
+
+[zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) (MIT) · © ZZZ Projects Inc
