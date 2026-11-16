@@ -5,9 +5,9 @@ de:
   multiple_licenses_label: Mehrere Lizenzen
   no_copyright_label: Ohne Urheberangabe
 en:
-  title: Licences
+  title: Licenses
   body: 'This application includes the following software:'
-  multiple_licenses_label: Multiple licences
+  multiple_licenses_label: Multiple licenses
   no_copyright_label: No copyright notice
 fr:
   title: Licences
