@@ -79,6 +79,9 @@
         "Progress": "Fortschritt"
       }
     },
+    "A11y": {
+      "OpensInNewTab": "(öffnet in neuem Tab)"
+    },
     "Meta": {
       "SiteName": "IES",
       "Home": {
@@ -100,6 +103,10 @@
       "PrivacyApp": {
         "Title": "Datenschutzerklärung IES NG App - IES",
         "Description": "Datenschutzerklärung für die mobile Applikation IES NG für Android und iOS."
+      },
+      "Licenses": {
+        "Title": "Lizenzen - IES",
+        "Description": "Open-Source-Software, die IES NG verwendet, mit Lizenz und Link auf den Quellcode."
       }
     }
   }
